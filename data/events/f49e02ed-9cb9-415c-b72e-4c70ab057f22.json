@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "cdca1abb-aa3b-4392-811c-a2ca08250bd6": {
+      "label": "This Is Democracy-Venezuela Elections",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia600307.us.archive.org/14/items/11this-is-democracy-venezuela-elections/11this-is-democracy_master-1.mp3",
+      "duration": 2546,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is an episode of the This Is Democracy podcast where hosts Jeremi and Zarchary Suri interview Professor Kurt Weyland about the 2024 elections in Venezuela. Dr. Weyland, the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "This Is Democracy-Venezuela Elections",
+  "created_at": "2025-10-21T17:23:38.851Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2025-10-21T17:23:38.851Z",
+  "updated_by": "raymondhyser"
+}
