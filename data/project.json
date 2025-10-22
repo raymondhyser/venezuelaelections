@@ -15,7 +15,7 @@
   "project": {
     "github_org": "raymondhyser",
     "is_private": false,
-    "title": "This is Democracy – Venezuela Elections",
+    "title": "This is Democracy – Episode 273: Venezuela Elections",
     "description": "This is an episode of the This Is Democracy podcast hosted by Jeremi and Zachary Suri at the University of Texas at Austin. They interview Professor Kurt Weyland, the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin. This episode focuses on the 2024 Venezuela elections, highlighting the historical context and speculating about Venezuela's future. ",
     "language": "en",
     "slug": "venezuelaelections",
@@ -103,7 +103,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2025-10-22T18:45:35.763Z",
+    "updated_at": "2025-10-22T18:47:22.195Z",
     "generate_pages_site": true
   },
   "annotations": {},
