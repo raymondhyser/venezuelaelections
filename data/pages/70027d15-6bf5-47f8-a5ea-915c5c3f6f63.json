@@ -35,11 +35,11 @@
   "created_by": "raymondhyser",
   "title": "Venezuela Elections with Professor Kurt Weyland",
   "slug": "venezuela-elections-with-professor-kurt-weyla",
-  "updated_at": "2025-10-22T18:53:52.626Z",
+  "updated_at": "2025-10-22T19:01:02.178Z",
   "updated_by": "raymondhyser",
   "parent": "49b87def-6c30-47a2-a4a3-66bc5629ee92",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "07584d24-7ab1-465c-80d5-ddbe627d522e"
   }
