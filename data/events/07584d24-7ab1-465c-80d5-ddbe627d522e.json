@@ -16,15 +16,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is an episode of the This Is Democracy podcast where hosts Jeremi and Zarchary Suri interview Professor Kurt Weyland about the 2024 elections in Venezuela. Dr. Weyland, the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n\n"
+          "text": "This is an episode of the This Is Democracy podcast hosted by Jeremi and Zachary Suri at the University of Texas at Austin. They interview Professor Kurt Weyland, the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin, about the 2024 Venezuela elections. Venezuela’s July 28, 2024 election was stage-managed by Nicolás Maduro to preserve a hardened dictatorship, even though independent evidence suggests the opposition actually won—showing how elections can be used as window dressing in an authoritarian system. Jeremi and Zachary Suri and guest Kurt Weyland walk through how Hugo Chávez’s soft authoritarianism morphed into Maduro’s repressive rule in Venezuela; why economic freefall, mass poverty, and militarized corruption keep the regime glued together; how the opposition’s courage runs up against state coercion; and why international pressure (and even well-intentioned accountability efforts) can perversely make dictators more likely to cling to power, leaving a bleak near-term outlook.\n\n"
         }
       ]
     }
@@ -33,6 +25,9 @@
   "label": "Venezuela Elections with Professor Kurt Weyland",
   "created_at": "2025-10-21T23:29:50.074Z",
   "created_by": "raymondhyser",
-  "updated_at": "2025-10-21T23:29:50.074Z",
-  "updated_by": "raymondhyser"
+  "updated_at": "2025-10-22T19:00:30.277Z",
+  "updated_by": "raymondhyser",
+  "av_file_order": [
+    "af3fc026-a850-43d1-8bfe-0df9db69249b"
+  ]
 }
