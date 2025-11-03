@@ -1,0 +1,193 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Hungry in Caracas\" by Zachary Suri",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "07584d24-7ab1-465c-80d5-ddbe627d522e",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "start": 233,
+      "end": 286,
+      "file": "af3fc026-a850-43d1-8bfe-0df9db69249b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This poetic opening highlights the"
+        },
+        {
+          "text": " core",
+          "italic": true
+        },
+        {
+          "text": " of Venezuela’s crisis — the clash of hunger, dignity, and political engagement. It presents the election not just as a fight over legitimacy, but as an act of desperation and hope by everyday Venezuelans who keep voting despite knowing the results might be rigged. This emotional, universal perspective resonates with listeners beyond mere political analysis."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A History of Decline: From Chávez's Populism to Maduro's Repression",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "07584d24-7ab1-465c-80d5-ddbe627d522e",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "start": 347,
+      "end": 651,
+      "file": "af3fc026-a850-43d1-8bfe-0df9db69249b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section presents a concise and vivid narrative of how Venezuela transitioned from charismatic populism to brutal authoritarianism. Professor Weyland’s clear distinction between Chávez’s “soft” authoritarianism and Maduro’s “hard” dictatorship helps listeners grasp why the current crisis is so entrenched. It also reveals how populism’s initial appeal can curdle into repression, a theme that resonates well beyond Venezuela."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Paradox of International Justice",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "07584d24-7ab1-465c-80d5-ddbe627d522e",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "start": 1204,
+      "end": 1254,
+      "file": "af3fc026-a850-43d1-8bfe-0df9db69249b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here, Professor Weyland presents one of the most intellectually provocative moments in the conversation. He explains how human-rights accountability paradoxically helps solidify dictators who fear prosecution if they step down. This comment shifts the discussion from focusing solely on Venezuela to a global issue involving international law, justice, and realpolitik. It’s a point that sparks wide debate about how democracies can balance moral principles with practical outcomes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Limits of U.S. and Global Power",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "uuid": "07584d24-7ab1-465c-80d5-ddbe627d522e",
+      "includes": [
+        "media",
+        "label"
+      ],
+      "start": 2130,
+      "end": 10870,
+      "file": "af3fc026-a850-43d1-8bfe-0df9db69249b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section will resonate strongly with global and U.S. audiences because it redefines Venezuela’s elections as part of a "
+        },
+        {
+          "text": "broader geopolitical shift",
+          "italic": true
+        },
+        {
+          "text": ". Professor Weyland’s stark assessment —that the U.S. has lost real leverage in its own hemisphere —links Venezuela’s tragedy to questions about declining U.S. influence, the rise of authoritarians, and the future of democracy around the world. It provides listeners with a sobering sense of stakes beyond Venezuela’s borders."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Key Moments and Highlights",
+  "parent": "49b87def-6c30-47a2-a4a3-66bc5629ee92",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "key-moments-and-highlights",
+  "created_at": "2025-11-03T18:18:47.081Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2025-11-03T18:18:47.081Z",
+  "updated_by": "raymondhyser"
+}
