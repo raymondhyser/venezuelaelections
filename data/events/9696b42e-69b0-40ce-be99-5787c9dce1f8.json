@@ -5,9 +5,10 @@
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/podcast/this-is-democracy-episode-310-have-we-outgrown-the-constitution/",
-      "duration": 0,
       "caption_set": [],
-      "set_sort": []
+      "set_sort": [],
+      "duration_overridden": true,
+      "duration": 1884
     }
   },
   "auto_generate_web_page": true,
@@ -16,7 +17,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This week, Zachary and Jeremi discuss the complexities and challenges surrounding the adaptability of the American Constitution with Professor Steven Skowronek. They delve into topics such as constitutional amendments, the role and evolution of the Supreme Court, and the potential need for a new constitutional framework to address contemporary issues.\n\n"
+          "text": "This week, Zachary and Jeremi discuss the complexities and challenges surrounding the adaptability of the American Constitution with Professor Steven Skowronek. They delve into topics such as constitutional amendments, the role and evolution of the Supreme Court, and the potential need for a new constitutional framework to address contemporary issues. Zachary sets the scene with a passage from Alexander Hamilton’s Federalist Paper No. 85."
         }
       ]
     }
@@ -28,6 +29,6 @@
   ],
   "created_at": "2025-11-16T22:15:38.062Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-11-16T22:15:38.062Z",
+  "updated_at": "2025-11-16T23:03:01.851Z",
   "updated_by": "leiahnb2"
 }
