@@ -293,6 +293,10 @@
         {
           "tag": "Military",
           "category": "Subjects"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1972"
         }
       ],
       "uuid": "f0334dcc-aa5e-4de8-bb07-fb876d5358f6"
