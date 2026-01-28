@@ -1,5 +1,741 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you, a podcast about educating yourself on today's important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "14577cfe-859b-49c6-9c24-6805955af798"
+    },
+    {
+      "start_time": 19,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This is Democracy. Today weâre going to focus on Venezuela, one of the, most significant and confusing, I think, crises of our current moment. But a crisis in a region, of longstanding, American intervention and conflict, A crisis in a region that has gone through, extraordinary changes over the last 250 years. And a region where the United States and its relations with Venezuela and other countries have. Always been, not just complicated, but often quite controversial. we are fortunate to be drawn to, this topic, not only because of the prominence that it has in the news, but because we have a colleague who I think is one of the most interesting scholars writing on the region as a whole, who has a lot to share with us today. This is my colleague and friend, professor Kurt Weyland. Kurt, thank you for joining us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "85da7741-5e6b-47b0-acd6-f60c01dcf3c4"
+    },
+    {
+      "start_time": 78,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Happy to be with you. Thank you for inviting me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0809206b-ec35-4b0d-b4d8-7beabae46727"
+    },
+    {
+      "start_time": 81,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kurt has been with us before. He is the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin. Heâs conducted original research in, virtually every place one can go in South America, Argentina, Bolivia, Brazil, Chile in Costa Rica, Peru, Venezuela. professor Weyland is the author of, seven books. All of them are worth reading. Iâm going just to just name, some of my favorites, making waves, democratic contention in Europe and Latin America, which is really I think, a model of comparative politics, assault on democracy, communism, fascism and authoritarianism during the into war years. And then most recently, I believe, democracies resilience to populisms threat. So, Kurt has a strong background in the history of the region and, the dynamics of democracy, authoritarianism, and intervention, in this region. Kurt, I imagine youâve been very busy with Venezuela in the news so much these days, yes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9158a540-c9dc-4e50-9828-81b6fcf68eb0"
+    },
+    {
+      "start_time": 145,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, there was really a surprise this intervention and the situation is so fluid that, you know, we have to pay attention every day to what new things are happening. So a lot of interest in that topic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "933701e2-2ad9-47b7-a55f-cb95373bf756"
+    },
+    {
+      "start_time": 156,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Itâs, itâs extraordinary. As scholars, we need to continue to study the past, but also keep up with the present. It, it gets quite difficult after a while, doesnât it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "be276d95-2aa9-43e1-b05f-d3f619ede453"
+    },
+    {
+      "start_time": 164,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely, especially because a lot of the situation in Venezuela and the decision-making in the US is quite murky. We donât really know, you know, why Trump did this whole thing. Both sides are playing strange games. We donât know how the opposition in Venezuela will try to get into the game. So, you know, a lot of moving parts here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ed9a2add-20b5-4279-8a5a-8b8586f6f6fb"
+    },
+    {
+      "start_time": 184,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely. Absolutely. Weâre gonna talk about all of that. I wanted to open today, by just reading, the key section from President James Monroeâs, annual address to congress. In December of 1823. So more than 200 or more than a hundred years ago. Actually, no, 200 years. More than 200 years ago. Iâm gonna have to work on my math here. This is the key passage, written in fact by Secretary of State, John Quincy Adams. That becomes known as the Monroe Doctrine. It wasnât known as the Monroe Doctrine initially, but it became over time known as the Monroe Doctrine. And what Monroe said was that we, the United States, owe it to candor and to the amiable relations existing between the United States. And those European powers, he means the European powers, operating empires in, Latin America. We owe it to declare that we, the United States, should consider any attempt on their parts to extend their system to any portion of this hemisphere as dangerous to our peace and safety with the existing colonies or dependencies of any European power. We have not interfered and shall not interfere, but with the governments who have declared their independence and maintained it, and whose independence we have, on great consideration and unjust principles, acknowledged we could not view any interposition for the purpose of oppressing them or controlling in any other manner their destiny by any European power. In any other light than as the manifestation of an unfriendly disposition toward the United States. What it seems to me, President Monroe was saying in this somewhat flowery language, was that the United States would do all it could. To, make it difficult to not recognize, to hinder European powers from returning to colonies that they had lost in countries like Argentina, Colombia, and Venezuela in this period of revolution and independence in the early 19th century. But it seems to me Monroe is not saying. United States, will necessarily intervene militarily. Kurt, how do you, as a scholar of this region, think about what the Monroe Doctrine meant for the next 200 years, bringing us to today? I, I know itâs a big question, but Iâm curious your reaction to it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "724a3865-688e-4e2f-872a-a86700e6dc80"
+    },
+    {
+      "start_time": 328,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you see, you see various elements in that statement. I mean, you can read it from a more realist perspective. The United States as, even then most powerful country in the Western Hemisphere is trying to keep competing powers out of the hemisphere. It, it sounds in, as you say, itâs flowery language in some sense, more from an idealist perspective. We, the United States know, thrown off the yoke of colonialism, donât want the yoke of colonialism, reimposed on our Latin American brothers and sisters. And you know, as you say, I mean, the Spanish and Portuguese wouldâve liked to. Repose colonialism and the French and Brits might also have wanted to get into the game. And so the way it reads in some sense is, you know, quite idealistic. We wanna protect the liberty of those countries. And what you see, of course in the subsequent 200 years, a lot of shift be, I mean, in some sense, more with the increase in American power, especially after the Spanish American War, and then the Roosevelt corollary to the Monroe Doctrine where the unit is. States appointed itself as the policeman of the Western hemisphere. You see, in many ways the realist aspect predominate. Then of course, also kind of the economic, we wanna com keep competitors out in a number of crises in the early 20th century, but every once in a while, that idealistic aspect also came to the fore. You know, with. President Wilson in the early 20th century with JFK and the Alliance for Progress for years in the early 1960s with Jimmy Carter. And so you see the, I mean, United States foreign policy has always been shifted between a more realist focus, more that idealism. And I think you see that in the poster of the us vis-a-vis the Western Hemisphere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "df6c2f6f-66df-409e-8b20-56775b95e0f6"
+    },
+    {
+      "start_time": 444,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That, thatâs very helpful, Kurt, and insightful. And, and in a sense, recapitulates one of the classic ways of, of seeing us foreign policy toward this region, which is a tension, a constant tension between, as you say, realist, materialist impulses, and idealistic, perhaps even democratic, impulses. And you can certainly see both in the Monroe Doctrine. You mentioned the Roosevelt corollary, of course, from 19 oh. Four, which is Theodore Rooseveltâs more aggressive, contention that the United States has a right to intervene in countries that are misbehaving or are mismanaged. on the idealistic side, though, this, intervention in Venezuela, how would you characterize it? Is it, is there any idealism in it? Is it a complete rejection? Has the Trump administration gone entirely in the materialist direction? How do you think about and understand, based on the little we know so far? Of what the United States is doing in Venezuela right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1d040962-f254-41ad-a7ab-ac3aeb43e53f"
+    },
+    {
+      "start_time": 499,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you see precisely that strange mixture of different facets in that recent Venezuela intervention, and maybe less in the motivations of President Trump, which are hard to figure out because on the one hand this is, You know, if you wish, clear assertion of American predominance in the Western Hemisphere. Iâm concerned that the Chinese and the Russians and the Iranis have been messing around there. And this is the, you know, so-called backyard of the United States. So get out in that realist kind of spirit. You, you see President Trump then afterwards highlighting oil, oil, oil, kind of from an economic materialist. We need our fingers unimportant. Element in. Maduro was an awful, repressive, corrupt dictator who had blatantly stolen an election in mid 2024. So while that was probably not the motivation that drove President Trump, Maduro certainly deserved his fate and he was not, I mean he was at Target that similar to Manuel Noriega in Panama in 1989. Clearly, you know, had had committed so many misdeeds that an idealist would be happy that the guy was removed and what is interesting there is, which is what I really have struggled with thinking about, is. From President Trumpâs perspective, I still donât completely understand why he wouldâve done it. He has that, that urge to assert American predominance. But I wonder to what extent this was also driven by the agenda of Marco Rubio and Marco Rubio, of course, has been at the forefront at combating the left axis of evil in Latin America. Know Venezuela, Nicaragua, and regime change if you wish, democracy promoting agenda. And so I wonder to what extent this was not only Trump asserting predominance in terms of motivation, but also Rubio pushing that regime change agenda partly in light of the upcoming presidential succession in 2028, where he might wanna put his chips into the game. And so I think. I think you might see precisely that strange mix of kind of Trumpian realism and Rubio regime change. You know, maybe not idealism, but you know, clearly trying to get rid of these left dictatorships."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9f6ebded-a11b-488a-8e5f-cb84b7343950"
+    },
+    {
+      "start_time": 658,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It makes a lot of sense. Zachary has joined us now. He had some computer, glitches, but weâre glad youâre with us Zachary. please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e6a3e514-b015-4f05-a38d-3584a998e3d6"
+    },
+    {
+      "start_time": 668,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I want to ask, I mean clearly with the historical backward of the Monroe Doctrine and the, was a corollary, there was a lot of precedent, within that framework and beyond it for American intervention in Latin America, but. Is there a precedent for the kind of a targeted intervention that we saw, in Venezuela this month? Is there precedent for this kind of, you know, targeted, arrest or kidnapping, however you wanna see it, of a leader of another country? or is this a sort of unique kind of operation that the United States engaged in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b8c15dc6-9b51-492b-be31-9bc29f059756"
+    },
+    {
+      "start_time": 709,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I would like to make several points on that. I think the case that is most similar in Early American intervention in Latin America is the case of Manuel Noriega in Panama in 1989, when you also had a ruthless, brutal, corrupt dictator who defied the United States. The United States in that sense did a less surgical strike by actually invading Panama at good cost of civilian lives and taking over the whole country, and then actually instituting democracy afterwards. So the target in Panama in 89 was quite similar. Some, I mean, just awful dictator who clearly deserve to be, put on trial. The Venezuelan case is different because itâs obviously not a full scale invasion, but that very, very surgical strike. but so there is a president in terms of the target, and you see in the avoidance of a full scale invasion, president Trumpâs concern about getting dragged into. Regime change, potential trouble and turmoil, domestic conflict that could drag the United States into what the Trumpians would call nation building, Allah, Afghanistan, and Iraq. And so there is, there is a similarity in the target, but thereâs also a different approach in doing this in a much more targeted way, which of course has, if you wish the disadvantage that youâve. You decapitated, autocratic, corrupt, repressive regime, but most of the power structure of the regime is still in place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1f31d32d-2f54-43d8-a4eb-30b6e4f67240"
+    },
+    {
+      "start_time": 812,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thatâs whatâs striking to me, Kurt, that this has been certainly a change in the. President of of Venezuela, the Vice President Del c Rodriguez has has taken over at least as interim president, but it doesnât seem like much else has changed yet. At the same time, president Trump is claiming that heâs running the country from the United States claiming that oil will come to the United States yet. There has been no new investment in oil infrastructure, no commitments of investment. and of course one of the problems in Venezuela is not simply, whoâs in charge. Itâs that the infrastructure to extract the oil is so decrepit that, that, thatâs also kind of shut, shut itself down. So what has changed, if anything?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "70e8a4ba-950a-4623-ab1e-0c93e4b22fef"
+    },
+    {
+      "start_time": 857,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in terms of the domestic power structure, very, very little has changed and you see a very strange, kind of totally unlikely, but ultimately from a pragmatic perspective, logical a. Accommodation between right wing, imperialist Trump, and left wing anti-imperialist stillI Rodriguez, because Trump, to avoid the United States from getting dragged into Venezuela, all Afghanistan and Iraq. In some sense has an interest in maintaining stability, and the established regime is a firmly entrenched that they have a higher chance of maintaining stability than if you had a democratic transition with all the potential trouble in turmoil. So in terms of the domestic power structure, Venezuela very, very little has changed, but I think what will change is the foreign policy orientation of Venezuela. You know, essentially. If the United States takes over oil, then it wonât go to China anymore, and clearly the United States will push for Venezuela to sever its links with Russia, with Iran, and Hezbollah, all these kinds of things. And the United States will. In the kind of semi colonial way, look over the shoulder of Del Rodriguez and make sure that in foreign policy she aligns with the US and not with countries that are enemies of the us. And I think one of the most important reorientations of Venezuelan foreign policy would be, and that speaks again to my point about the, cutting off Cuba from oil and putting, putting an even bigger strangle on. If not suffocate that regime, just push them to the wall and force them to come to an accommodation with the United States. And so I think there will be a significant shift in Venezuelaâs international alignments in foreign policy, and from Trumpâs perspective, from Trumpâs perspective, who doesnât care about democracy? Who wants to avoid turmoil at all cost. That a of sense. Right. You know, you decapitated the regime you put."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b4ef7b7a-a0ab-4605-8420-00edf57b075a"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I, I see the logic of that, but the historian in me, Kurt asks if thatâs really possible. I mean, this is a regime that has many different factions as all regimes do, right? we know Rodriguez. Doesnât command the same authority with some of the institutions, particularly the military that Maduro and, and Hugo Chavez did. And of course, the Chinese and the Russians are not just gonna sit back and watch this, right? Theyâre trying to bribe and threaten their own, allies and the Chinese have, have a major presence on the ground. I isnât. The effort to do what you just said from a distance from the United States, as you say, acting as a kind of distant colonial overseer isnât that likely to lead to factionalization internal fighting in Venezuela and and something that becomes quite disorderly that the United States either has to get involved in directly or ignore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "f6a70223-4a1c-4741-ad73-df78fce2f904"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is certainly a possibility, and there is one reason why Iâm surprised that then Donald Trump did this because there is clearly, there is a risk that Venezuela could dissent into internal strife and conflict and that somehow other, that could draw in the United States. And thatâs of course what Donald Trump wants to avoid at all costs. So this, this is a possibility, but. I think when you think from the great powers that Trump wants to push out of Venezuela, but I think itâs much more likely not that the Chinese and the Russians, not to speak of Iran, are going to take a stand in or about Venezuela, but that this is the essentially. They will find compensation in their spheres of, in, in interest. And so what you see is that the whole Trumpian approach to international relations is kind of stone age realism. Great powers have their spheres of influence and they can do inside their sphere of influence as they wish. And so I think the. The kind of the, how should I say that? What China and Russia will get out of that is Trumpâs acquiescence in them taking more control of their spheres of influence. You know, and I think you see that with Trumpâs accommodation of Russia in the Ukraine war. I donât know what it would exactly mean for China and the South China Sea in vis-a-vis Taiwan, but I think, I think kind of the game among the great powers will be less. That they will, that China and Russia will fight tooth and nail to maintain a stake in the USâ backyard, the western hemisphere, but that they will say, whoa, you did this in your own sphere of influence. Now we have a freer hand in our sphere of influence. I think thatâs how that will work. And as regards to domestic power structure in Venezuela, I. I would assume that Trump knows about his own severe a tension deficit disorder, that he couldnât pay attention to Venezuela very much. But I think heâs probably going to appoint kind of an informal Vice Roy in, in, in Ambassador in Vene in Venezuela. I bet the American Embassy in Venezuela is going to swell to hundreds of people who will keep an eye on things and the the factions. That are more radical and that are more they know, you know, have much clo, much more control of the organs of coercion in Venezuela, the defense minister, Patino and Di Caveo, who controls these thugs and goons and militias, the so-called collectives, I think they will know. That if they mess around too much and they cause too much trouble, they might get yanked out and put in the prison cell next to my daughter. And so I think they will have to swallow a lot of, what you call in Latin America, swallow a lot of toads and hang low for a while. They will of course, hope that the Trump administration will move on. You know, I, I think in many ways what, what the Venezuelan power structure is doing is what the Wolf did in the fairy tale of Little Red Riding Hole. Theyâre eating a lot of chalk and like, Hey, you know, we can play game. And of course, theyâre hoping that Trump moves on, that the United States canât actually control whatâs going on and it sooner or later they can reassert their control. They can, you know, they can. Get their fingers again into the contraband, into the corruption, maybe not the drug trafficking as they did before. I think thatâs the game that is being played, and in some strange way, it serves Trump and it serves that Venezuelan power structure. And who is left out in that cold is the Venezuelan opposition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d52078a0-20c4-49a6-ade6-26f2f8b1e009"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And the Venezuelan people, it seems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "64a180af-6a8f-45e1-b8a0-1bcee0f70029"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, no, of course. I mean, that is the big tragedy in all of this, that the Venezuelan people have suffered an unprecedented catastrophe and who are yearning for some kind of turnaround, and who had the courage to vote? You know, two-thirds against the dictator in rigged elections in 2024, still will have to wait for, you know, a significant new start."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5381e1b2-c14d-410e-b59a-b17f4cb48f3e"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "a54118f9-8905-48f4-b1b3-b3e38bac0953"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the larger international reaction, not just the potential, for Russia and China to use this as a sort of prerogative to, be more aggressive in their own. neighborhoods, if thatâs even possible. But, the American relationship with our allies, do, has this moment you think further strained Americaâs relationship with its allies, is there a possibility at all for cooperation with American allies in Venezuela? not just allies in Europe, but also allies in, in Latin America?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0a890ee0-cb00-4c7a-a7d8-49d669b52b2f"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reaction has, in some sense been surprisingly muted because what is, you know, on the one hand, this is a brood reassertion of American power predominance, if you wanna use the term imperialism, but the, the reaction has been surprisingly mute. I think for two reasons. One is that this reassertion of American power scales a lot of allies. And so, you know, even the center left, left wing governments in Latin America, you know, like Lula and Brazil, they spoke out and whatever, but theyâre not going really on the rampage. You know, Claudia Shane Baum in Mexico has to worry that she might be next in line and Trump threatened Pedro in colo and so that. Very reassertion of American power, I think has intimidated or kind of, if you wish, coercively motivated the reaction inside Latin America. Trump, of course, I donât know whether itâs attention deficit or brilliant strategy, immediately move to Greenland, so the Europeans have something to worry about there, rather than getting involved in Venezuela. So in some sense, American power. I think has muted reaction among the allies, at least in the short one. You know, but you think in the long run, like OMG, this is awful. The other reason why I think the reaction has been muted is that Maduro was such an awful, dictator. I mean, you know, human rights violations in Corruption. I mean, he had indictments not only from the US but from the International criminal court. The head of the organization of American States at the time asked the ICC for an indictment of Maduro. And not only was he, you know, morally just awful, but utterly incompetent. I mean, who. Who in human history has destroyed a country as much as Maduro did during his 13 years in power? So who, who wants to defend Maduro? You know what I mean? You can say, well, the United States shouldnât have intervened, but do you wanna look like sort of siding with defending, you know, one of the worst leaders that we can think of in recent decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "86066d93-05f0-4e39-be34-0885d508c6e7"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, I mean, this is the challenge, right? That one can be, very angry about the US intervention if youâre sitting in, in Brasilia, but you donât wanna look like youâre defending Maduro. That thatâs the, thatâs the challenge. Do you see the other, sorry, Craig, go ahead. I."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "08e88b6d-5a60-495e-8656-32fda4211775"
+    },
+    {
+      "start_time": 1479,
+      "end_time": 1499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You see the two facets again, you see the realist thing. You know, other countries are intimidated by American power and you see the idealists streak. This. The United States chose a target that deserved its punishment. You see exactly that. Again, those two facets of kind of realist, power assertion, and idealists going after the bad guys, sorry to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1a20f20e-4175-4efd-8a5c-71fa3e80d990"
+    },
+    {
+      "start_time": 1499,
+      "end_time": 1531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, not at all. Now, on this point of realism, do you see, large countries in the region like Brazil, Argentina, Chile, Colombia to some extent, do you see them, In, in a, in a way working closely together to combat US intervention. Now, should we view, for example, Kurt, the, Mer Sour, free trade agreement that was just signed with, Europe as, as an a way of pushing back on the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "33df41ca-0c15-4cf0-8276-6e9df5fdf80e"
+    },
+    {
+      "start_time": 1531,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitely. You think of you know, the European Union Agreement that had been lingering and languishing and being in the, in negotiation for 25 years and it just couldnât break the resistance and deadlock and whatever. And I think the reason why that finally got signed is. You know, kind of if you wish, some sort of soft balancing against the United States, so you, you know, that would be an instance of that. Inland America. I havenât seen any, I donât know, like coordination, I donât know what you would wanna call it. Alliance formation, partly because of course the ideological divisions. So you mentioned Argentina. You know, millet. Millet was bailed out by Trump a few months ago. Heâs not going to oppose what Donald Trump, did in Venezuela. Heâs ideologically happy that Donald Trump put it out, Maduro. And so, you know, given that a number of Latin American countries. governed by right-wing leaders who are ideologically have affinity with or alignment with Donald Trump. I think that is one big obstacle to any really coordinated Latin American response."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d77d2610-ad64-4934-99ca-cf063c53d0d9"
+    },
+    {
+      "start_time": 1603,
+      "end_time": 1617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, so where do we go from here? Kurt? What do you expect to see? fortunately for us, youâre not just a historian, Iâm a historian. Zachary is a historian to some extent. You, you are a political scientist, so youâre supposed to know the future as well. So where do you see things going, Kurt?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "88e13ce4-ea5d-436a-8810-4f0f010df6c4"
+    },
+    {
+      "start_time": 1617,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when I, when I think of political science, I donât use the term, but the capital S you know, so, this situation in Venezuela is highly unpredictable. Itâs very fluid, itâs uncertain what will happen. It is uncertain what will happen in Venezuela. Itâs uncertain what will happen in the international system because Donald Trump is so highly unpredictable to typical populism. So, so. You know, in, in the Venezuelan case, which will also affect American foreign policy. I think one of the biggest points of uncertainty is that by. Constitution that Ugo Chavez himself pushed through in 1999 by the Constitution. If the presidency is vacant and you have a transition to somebody else, there should be the convocation of new elections. That would of course provide a very important opening for the Democratic transition that Trump has shockingly marginalized and kind of pushed aside to get into the game and that, you know, if there were a real election, real competitive. that could cause a good amount of uncertainty, trouble turmoil, especially if the Democratic opposition had a chance of winning and or no, of of course, especially if it won. And so how that will play out. I mean, the established power structure in Venezuela currently headed by Delcy Rodriguez has no interest in no elections. In some sense, Donald Trump has no interest and they might well maneuver. Collude in trying to avoid this. But you know, as you mentioned a couple of minutes ago, the Venezuelan people are yearning for a new start. The opposition will do everything they can to push for elections. De Marco Ruby or agenda in the US might wanna have a regime change in Venezuela. And so how that will play out, I think is one of the main sources of uncertainty because. Contested competitive election and if the opposition were to win and thereâs trouble and term on the Venezuela and protests and counter protests and violence, that could really draw the United States into the domestic politics and, you know, greatly change the equation and turn the Venezuelan case maybe more similar to the story in Afghanistan and Iraq. And so itâs very unpredictable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "46b7eefc-1dd8-4713-8ddc-d3673885796b"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "75a9cebf-ccd1-41ef-8cc1-e1a954b24fd6"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, political science, political science hasnât, you know, come up with a general loss that we could confidently make any clear assertions about a case like Venezuela."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b52d1c4e-4e5d-49e1-bae0-3dc3a34f9fbf"
+    },
+    {
+      "start_time": 1777,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, right. What, what, we certainly see that there are high risks, but that we donât know, what will happen, in, in, in closing, Zachary, I want to turn to you as one of many young people in the United States watching all of this unfold. How do you see your generation of Americans, responding to this, responding to what looks so different, at least from the rhetoric of American foreign policy for so long, the rhetoric of open markets and, freedom and democracy. does this, does this contradict that or does this look like more hip hop, more, more of the same hypocrisy? How, how are people viewing this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "4cc5d9a7-7749-4388-ba05-68feeadf6c16"
+    },
+    {
+      "start_time": 1817,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think for some itâs clear and for many it, it, itâs clear that this is something. at least, you know, to celebrate in the extent, to the extent that Maduro is gone, that that is obviously a positive development, for those who have relatives or family or friends in Venezuela or who fled Venezuela, which is not, not insignificant. Number of people in the United States. but I think thereâs also a lot of concern that this could, you know, draw the United States into a larger war. and I think for, for the moment, a lot of people, young and not young alike are sort of waiting to see what happens. I think, you know. Obviously most hope that this does not draw the United States into a larger war with Venezuela. but, or with, you know, in the region in general. But I think a lot of the big questions that we raised today remain unanswered. So I think there is a degree of uncertainty and certainly thereâs much greater fear of war in the region than there was before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "42e01c3e-5111-4c3e-bcb3-255c2141e6dc"
+    },
+    {
+      "start_time": 1886,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, right. I think thatâs a perfect note to close on. I think it summarizes so much of what Kurt has said so well, which is, what, what we are witnessing is, a set of not historically unprecedented developments, but a set of, developments that have happened at very fast pace and have created a great deal of uncertainty. Uncertainty for the people of Venezuela, for the leadership of. Venezuela, and certainly for the United States and the world community, and this tension that, that Kurt has articulated so well between realism and idealism. Itâs very hard to see where weâre going right now. And, I think thatâs, thatâs just one more reason why weâre going to have to watch, pay close attention and think about this in historical terms as weâve done today. Kurt Weyland thank you so much for joining us today. Zachary, thank you for your excellent questions as well. And thank you most of all to our loyal listeners and subscribers to our Substack for joining us for this week of This is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5ce32616-46d0-4559-bbd2-5cf0fbc6f2dd"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio. And the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This is Democracy on Apple Podcasts, Spotify, and Stitcher. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "3a592b01-9cd9-4fb5-a230-efa271a3e34b"
+    }
+  ],
   "set": "Default",
   "event_id": "8943ce42-b07c-491b-8c96-12e99f1781d5",
   "source_id": "10372dec-6785-4533-ad00-3982e050394f"
