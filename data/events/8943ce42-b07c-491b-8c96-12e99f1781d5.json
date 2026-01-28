@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "10372dec-6785-4533-ad00-3982e050394f": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2026/01/2026-01-15_this-is-democracy_venezuela-intervention_final.mp3",
+      "duration": 1963,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 315: Venezuela Intervention",
+  "av_file_order": [
+    "10372dec-6785-4533-ad00-3982e050394f"
+  ],
+  "created_at": "2026-01-28T04:05:44.520Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-01-28T04:05:44.520Z",
+  "updated_by": "raymondhyser"
+}
