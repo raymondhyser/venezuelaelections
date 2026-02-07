@@ -1,5 +1,1646 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro: This is Democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today’s important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "3ca7d60f-2be5-4e69-beb6-e6ff6652afa5"
+    },
+    {
+      "start_time": 19,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Welcome to our new episode of This Is Democracy. Today we are going to talk about civics and history, education, a topic near and dear to this podcast each week, and a topic near and dear to many people in our society today. What does it mean? To have a serious civics and historical education. Why is this important and, most interesting? Maybe why is this such a contentious issue in our society today? We are going to talk to, someone who I think has thought more about these issues than almost anyone else. I know he’s a leading scholar and pedagogical in innovator. this is Professor Steven Mintz, my colleague at the University of Texas at. Austin, Steve, welcome to our podcast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "a690ab33-34de-4580-9c5c-c3f8f5b6ae0d"
+    },
+    {
+      "start_time": 67,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Thank you very much, Jeremi, for inviting me."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4024e402-40e6-4f89-b708-1016dd7499e3"
+    },
+    {
+      "start_time": 71,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: It, is our pleasure. for those of you who don’t know Steve Min’s work, you should, he is, I think, the leading historian of, the family, child, the childhood, and, family development in American history. He is, as I said before, not only, a prolific author, but a pedagogical innovator. He was for five years. The director of the UT Systems Institute for Transformational Learning, where he did a lot of pioneering work, in online and other forms of technological education. Steve has written many prize-winning books. I’m just going to name two that I highly recommend. There are two that I certainly have learned a lot from. one is called Hux Raft. Which, by the way, has a really beautiful cover among other things. it’s a history of American childhood published, around 2004, I believe. And then his, most recent book, I believe is the Learning Centered University, making College a more developmental, transformational and Equitable Experience. a book that certainly taught me a lot about not only the, history of the university, but about, many of the challenges and opportunities that we have today. So we are very fortunate to have Steve with us, before we get into our discuss. With Steve. as always, we have an opening poem, and today it’s a poem that Zachary, you have written yourself, coming back to Your Roots as our podcast poet. Yes, Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "a4d7cae0-3294-41f2-b3e4-8a1b370c6b11"
+    },
+    {
+      "start_time": 152,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90114c14-9dce-4a08-8b84-22710cc4fb48"
+    },
+    {
+      "start_time": 154,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: What’s the title of your poem?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99476992-b4a7-44cd-95a9-5362fbbb1601"
+    },
+    {
+      "start_time": 155,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Philadelphia From Above."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03643a51-f1a8-4a69-89e0-eb50a518b071"
+    },
+    {
+      "start_time": 158,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Ooh, Philadelphia. From Above. It makes me think of cream cheese. Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e44b9436-2d28-4f1a-968f-cf7946d04469"
+    },
+    {
+      "start_time": 162,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Yeah. maybe don’t think of cream cheese because it’s not about cream cheese."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a09c8fb8-8ea6-4f70-92d1-7753e2c98fac"
+    },
+    {
+      "start_time": 165,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Okay, go ahead. Let’s hear it Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a4ca36f-d29d-487a-b62e-f3a49f6b22cb"
+    },
+    {
+      "start_time": 169,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Though now she glows by the river. Only a step from the dark sea. It was all darkness then. No streetlights on the boulevards. No neon at the corner store. Not a bulb, a flame. When they came, galloping in on horseback, waiting to sign the necessary page. How then can I feel so powerless above the valley? A glow. Impossible, I think to be anything but awake. Eyes drawn to so many illuminations of suffering. I float away, down past the Delaware, how hard it is in this world to sign your name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Origins of Democracy"
+        }
+      ],
+      "uuid": "fe235c8e-c3b3-4655-b6ee-fd9e72f63a74"
+    },
+    {
+      "start_time": 211,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: I love the, constitutional convention references there. Zachary, what is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ad6900b1-a3d3-4aca-bffd-7280a5a1a3ce"
+    },
+    {
+      "start_time": 217,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: I think my poem is about, how when we study history, we often. think of it as set in stone, as something momentous that happened, a long time ago, and that cannot be replicated. and we think of these moments like the constitutional, convention, as being rooted in, a sort of unique courage, a sort of superhuman courage that we can’t summon. and how. particularly in moments when the world seems to be spinning away from us, how hard it can be to feel like we actually have a voice or that we ha we have a sort of similar responsibility or similar role to play as the people that we study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "35040b56-6a7b-4b86-a0f7-359a74bd0f5b"
+    },
+    {
+      "start_time": 266,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: The role that, that we play, not just relying on the image of the founders but are recreating and remaking their work every day. Yes. Steve, I think this is at the center of civics. Your thoughts on the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "226a4b5e-449e-4766-b99a-eba8da8e363d"
+    },
+    {
+      "start_time": 281,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: It reminds me very much of one of the great poems of all time, Matthew Arnolds, Dover Beach."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6476fbdc-5864-4596-af5d-01cb3d63a9de"
+    },
+    {
+      "start_time": 289,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e274567-61ae-44ac-928b-8124a2c06f6a"
+    },
+    {
+      "start_time": 290,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Dover Beach is nominally about the relationship between a man at his lover, but it is really about secularization. It’s about the transformations that are. Challenging 19th century beliefs. Beliefs in God, beliefs in social stability, modernization, industrialization, massive migration, mobility. All these were upending society. And where do we find meaning?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "b112024e-8dd8-485c-b87c-7173ef6d31d9"
+    },
+    {
+      "start_time": 330,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ef686e62-d521-4353-9e0a-67e1159bb051"
+    },
+    {
+      "start_time": 330,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: And this is not a challenge of just the mid 19th century. Of course. It’s a challenge for our own time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac445cce-f331-4755-ad69-30bd1c657c79"
+    },
+    {
+      "start_time": 338,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c7d6952-e584-4860-a9dc-cca27d1f461b"
+    },
+    {
+      "start_time": 338,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: And I think we often don’t think about civics education as really an effort to confront the changes that we’re going through and try to make sense of them collectively."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "fb73f342-f838-4954-80eb-246d44537460"
+    },
+    {
+      "start_time": 353,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes. Yes. I, that’s so beautifully said. Steve, and I love the Matthew Arnold, reference. why then I, is this so hard for us today? it, it seems as if we’re caught up in, not just discussions of civics and history, education, but discussions about how to talk about that. why has it become so hard for us?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eee7a446-8487-4619-9f59-4a179a9a0bc7"
+    },
+    {
+      "start_time": 374,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: the answer I think is quite simple. This society is engaged in a cultured war, and classrooms have become proxy battlegrounds in that war. People aren’t just arguing about civics or about history. They’re really arguing about values, patriotism, and democracy itself. And what makes this particularly difficult is there’s two opposing visions. Of civics one, which I favor, is to, instill a deep understanding of foundational facts, content, to learn that American history has been a constant debate, struggle, conflict over fundamental values and purpose and direction. And then there is another form of civics education, which is much more applied, that looks at contemporary events. And these are so divisive. I think that’s not the way we should really go. I think, a backward glance will be more helpful in this fraught context. Then focusing on issues that often students don’t have any deep knowledge about. Anyway,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "1090dddf-e982-4a65-82c8-e696a9552eff"
+    },
+    {
+      "start_time": 466,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: spoken like a great historian, Zachary,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d09b0ff-c5ae-42f0-9444-516b48b0d935"
+    },
+    {
+      "start_time": 470,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: but what is the, purpose of civic educ civics education in the first place, do you think? At the very least, perhaps there is agreement on why we should teach physics, if not on, on how."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1edcffd5-4a34-4008-887a-ef4caf5c3767"
+    },
+    {
+      "start_time": 482,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Civics. You mean Zachary not physics, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9fb0da52-a726-4500-a153-d5ff80bff0b2"
+    },
+    {
+      "start_time": 484,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Sorry. Oh, lemme rephrase the question. did I say physics? Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dff5ace8-113c-439b-a315-2327adb47fbe"
+    },
+    {
+      "start_time": 489,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ead5c44-e501-4550-be42-ed0809cbc053"
+    },
+    {
+      "start_time": 491,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: my own personal view is that students do need to know about the American system of government and how it’s evolved and about how Americans have debated over time issues of liberty, equality, and justice. These are fundamental disputes and the battles have often been waged in good faith, with fundamental disagreements that we need to bring out into the open and seriously discuss. I don’t think we do that enough. Jeremi, I hate to say this, but Often there’s a tendency in history classes to treat it as if it’s simply about the past."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "d7421270-2da1-460f-bcb1-9fe522ed00ef"
+    },
+    {
+      "start_time": 542,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44706d39-7818-4520-9993-2fac64d0d109"
+    },
+    {
+      "start_time": 543,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: To give students a richer sense of what the world was like in the past, but if we teach history that way, we lose out on a huge opportunity. What lessons does the past have for the present? Not simple-minded lessons, but complex lessons, intricate lessons that help us to better cope with the issues of our own time. I."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "aa593cff-42b6-404d-8523-6e2f8354cea0"
+    },
+    {
+      "start_time": 570,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Steve, how do we determine what are the key texts and key topics that students should learn? This seems to be one of the points of debate even within the circle of those of us who believe in a backward looking, historical way of thinking about civics. What role should slavery play as often? a controversial issue. where should we bring in the role of. Certain figures who are maybe controversial, am Malcolm X, for example. So how do we think about that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "2a5e8b59-df9f-4797-a513-9e5286299867"
+    },
+    {
+      "start_time": 601,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: In my own research, I am what’s called a social historian. I am especially interested how ordinary people, diverse people, the inarticulate led their lives. But I also believe that when I teach the US History Survey course, or when I advocate for civics education, I’m talking about political history. And one thing that makes me a bit sad about our own department, UT Austin, one of the largest history departments in the United States. Is we don’t really teach enough political history because politics isn’t simply about checks and balances. It is ultimately where we as a democratic society debate the serious issues before us and reach collective conclusions and. A history department that doesn’t really focus on politics is missing a huge opportunity. And again, I wanna stress, I am a social historian. I’ve written about slavery, I’ve written about social movements for reform. I’ve written about private life. But if we don’t teach. The history of politics. We are not doing our students a service."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        }
+      ],
+      "uuid": "06665ad1-90d4-4089-a777-ec74bf741083"
+    },
+    {
+      "start_time": 703,
+      "end_time": 714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah, I, couldn’t agree more as, someone who’s in part a political historian. it seems to me that whether we like it or not, presidents matter. Steve,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d1ae6b3-bcd5-4efc-b8f9-0a84c0c2ccbc"
+    },
+    {
+      "start_time": 714,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: presidential decision making is we are power. Ultimately resides. And if we don’t focus on that and how those decisions are made in what interest they’re being made, we are doing everyone a disservice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        }
+      ],
+      "uuid": "fa19dab7-819a-4ec6-98bf-1b782d5f7a3f"
+    },
+    {
+      "start_time": 732,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes. Yes. Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4f166419-3daa-4cc0-8964-643dda857901"
+    },
+    {
+      "start_time": 735,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: I. How do you think, this sort of vision of civics as political history, can be applied or implemented at a sort of secondary or primary school level? it seems like civics is, a subject that many Americans only, take once or, twice, and usually in middle school or elementary school or high school. So what does it mean to, and, what, and in your mind, what does the ideal sort of civics education at, that level look like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "83ce4756-8327-4a46-83f6-b3367b5b17a1"
+    },
+    {
+      "start_time": 764,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: American history, in my view, is an ongoing debate. The terms of that debate were set surprisingly early, right? They were set during the revolution and in its immediate aftermath, but those questions remain vibrant even today, who is an American? This question of citizenship. Citizens’ Rights. This was an issue in 17 87, 17 91, 18 65, and continues on to today. We need students to engage in those debates, but not as opinion, not as theorizing, but grounded in the actual debates that took place. And those debates do not just involve major political figures, cast in marble or bronze. They involve ordinary Americans who took part in those debates, who contested issues in the courts, who fought for their rights collectively. That’s the story I think about how America really works. Now we often focus on powerful individuals, and I’m not opposed to that, but in a democracy, most power is expressed Collectively, we are members of groups that advocate for our interests and that can teach our students an awful lot about how power works in a democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "f830febf-4ef3-4ae3-95eb-6ba038cd9ec7"
+    },
+    {
+      "start_time": 876,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: I think that’s so well said. Steve, one would think listening to you that there would be easy consensus around this and one would expect that, particularly in a state like Texas where you and I both teach that this would resonate with, Know more politically conservative ears, political conservatives who care about and claim to care a lot about presidential leadership, and executive power. why has this been so challenging? You’ve been involved deeply, through the American Historical Association and other organizations and trying to work on Texas history standards, and you have faced a lot of resistance. What’s the challenge at the state level?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "7232bad6-e502-4937-942a-8b4122782bde"
+    },
+    {
+      "start_time": 920,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Both sides believe rightly or wrongly, that the other side is acting in bad faith. When I read on Twitter from the Texas Public Policy Institute that the National Council of Social Sciences in the American Historical Association are fighting to advance a radical secular Marxist agenda. I wanna throw up my hands. As I’ve tried to explain to the State Board of Education, what concerns me is that students are coming into my class having never heard of the enlightenment, the very philosophical foundation of this nation. How can that be? And part of the answer is that in our emphasis on mathematical literacy. And language arts. We’ve downplayed civics and social studies. We need to devote more time to this. I want students who are well prepared to take part in serious discussions, and I worry that’s not happening. But when I hear criticisms that. Seem to imply I have an ideological agenda or that the American Historical Association has an ideological agenda, my spine stiffens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "e1f70848-7ede-443e-8be0-baaee5f0d8af"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Yeah. Where do you think these, criticisms of historians, but not just historians, this is criticism of curricula in particular. it’s striking that this is a moment when, high school and middle school history curricula is at the center of national political debates. Why this attention to these questions now? What is making them such, potent political issues?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "eed52c64-0067-4f6f-b1df-90bd3014fa23"
+    },
+    {
+      "start_time": 1044,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: There is deep distrust. And there’s distrust on both sides. It’s not all on one party or the other. There is an unwillingness to accept a basic premise, which is that both sides want students to have a rigorous, substantive foundational education. No side here is talking about. Relevance for relevance sake or teaching current events. Both sides want a serious, historically grounded education for our students, but there is grave doubt on both sides that the other side really believes that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        }
+      ],
+      "uuid": "dcd2c4aa-9b5d-4adc-9cfe-189327df4a5b"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: and I guess why is that, Steve? That we’ve been a partisan society, speaking of political history throughout our history and, people have always distrusted the other side. Just go back to the founding moment in Jefferson and Hamilton. they, accused each other of bad faith, as did Hamilton and, Aaron Burr. So, what, is it right now that makes this so much more difficult than it was in prior moments?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Causes of Conflict"
+        }
+      ],
+      "uuid": "e7908108-1b4e-480b-adb1-cde2f7975a6a"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Jeremi, that’s the, $64,000 question has often been said. That is, in so many ways this society is better off than it ever has been. We’re not engaged in a major war right now. We have new technologies like. Artificial intelligence, or should I say green power, that are really remarkable. Austin is filled with self-driving cars that do not get into accidents like real people do,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ddcdb4b-1958-4bdb-9c14-da8b0ef354f1"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: right?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64112a00-9232-4b8f-8eef-8eaa28123568"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: This should be a moment of one would think consensus when we could all agree that our students need post COVID. I. A stronger education. we can’t have a society where half of the students are below proficient in literacy or mathematics, and yet that’s not the society that we live in. And so it is up to each of us, I think, to be. Completely transparent about work, what our values and priorities are. My priority is educational. I want my students to get a good foundational understanding of history, geography, economics, and the other elements of the social sciences. I have no larger agenda than that. And I would hope that I could convince my adversaries. I am acting in good faith. I do not have a radical secular Marxist agenda. I want my students to be well prepared for my history class."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "8c81ad5a-a80d-4d28-9afe-fad8f9696b3e"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: That makes, perfect sense. so say more s Steve about what you are proposing for history standards, what you are seeking to, to do, to correct the partisanship and the bias that you see. harming our discussion"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9724cb3b-9846-4fec-9e96-091f835124ce"
+    },
+    {
+      "start_time": 1271,
+      "end_time": 1285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: under state law, the state board of education is empowered to establish. Essential skills and knowledge that students are to acquire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "b786e2fb-c97a-4906-a7c8-10b16cff3888"
+    },
+    {
+      "start_time": 1285,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: This is Texas State law you’re talking"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44bf9ae1-fc3d-4f98-b8f9-124e861a1a85"
+    },
+    {
+      "start_time": 1286,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: about? Yes. This is Texas State law. The state Board of Education is not empowered to adopt a curriculum. Pedagogy, and lesson planning is specifically decentralized. That is, it is the responsibility of school districts. And of individual teachers, and I believe that’s exactly how it should be. Further under state law, the working groups that develop the techs as they’re known, the Texas Essentials knowledge and Skills, these are to be created by experienced educators. That is by teachers. By curriculum designers, by professors who have actual expertise teaching these subjects. And when we don’t do that, when we bring politically motivated nonprofits into this discussion, it’s a different discussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "3e079e64-21e7-4e82-8948-93fa69019d2a"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e37b8b5-a3a4-44d1-b5e8-6bdc54721398"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Teachers care about students. Teachers care about learning. They have practical experience in what works and what doesn’t, and we need to be willing to rely on them because they have professional judgment and experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "7e981f10-f3e8-439c-95f5-a3656e90a263"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6bae8d8a-4be7-4f81-851f-2fd11d1acfd5"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Now, what is a learning objective? A learning objective is not too broad. That is know about the Civil War. It is not too narrow. What happened at the Battle of Bull Run. It’s something in between that, and it is measurable, and the job of the Board of Education is to spell out those essential learning objectives and not to dictate a curriculum. And certainly not to tell people how to learn. And further, the state says through law that the standards are to prepare students for college. 70% of high school students will go on to college in Texas. They need to be prepared for our classes, and that requires them to have certain foundational knowledge. And I want to ensure that. and so if you design a curriculum that downplays world history and world cultures, we are not preparing our students for the kind of education that they will receive, either a community college at a regional comprehensive university at a private university, or a flagship university. We need to do better and the way to do better is simply to follow the law."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "9b01607f-a576-416c-9670-bf8e1a3f3730"
+    },
+    {
+      "start_time": 1481,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: So the, standard should lay out broad learning objectives, make perhaps suggestions of particular texts that can be used and then leave things to the local teachers to take it from there. Correct."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2faa7331-9c7e-425e-a687-5314ec9ecb98"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: That’s my view and that’s my reading of the state statutes. And also I think it will get us away from these culture war issues. They don’t need to be fought at the state level. If Houston wants to do something and El Paso wants to do something else, as long as they cover the learning objectives, that should be fine. Texas believes in decentralization, and I think that’s a pretty good idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "399c2042-509c-4bd8-b651-4864174d0aaf"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: you a an old question that goes back to, the scopes trial and much earlier is, how do we fit religion into this? it’s not only in Texas, but it certainly is in Texas where we have, groups that, for instance, believe the Constitution was written by God. how do we, address that? They, would argue that under your model, their point of view will be excluded"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "37ab6a3d-c5c3-4899-b277-d0286b0503dd"
+    },
+    {
+      "start_time": 1552,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: when I teach US history. Religion occupies a very large chunk of what I communicate. You can’t teach American history without incorporating religion, but that is not religion as dima, that is not religion as, one position among many. Instead, what we’re teaching about is the role of religious groups, of religious ideas in shaping this nation. we can debate on specific cases. who was right, who was wrong, what were the limits? What should be the limits? But religion needs to occupy a place in the curriculum. But that is an academic place, not a doctrinal place. one thing that makes the United States unique among advanced developed countries is we have a much higher level of religious belief. That is an element in American exceptionalism, but it’s also an academic question. Why is it that the United States is a much more religious churchgoing society than any of the countries in Western Europe? this is a subject that we can discuss academically and should, I do believe that earlier versions of US history that downplayed religion were mistakes. Religion is a key element in shaping this society’s values. It has been the driving force behind almost every reform movement in America, whether we’re talking about the civil rights movement or the labor movement, or the social gospel that inspired progressivism. Religion has a place in the curriculum, but it is not. We are not to teach religion as dogma or doctrine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "ddbe5db6-4a3d-4585-b635-1c16dea143c1"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Right. O one would think that would fall under separation of church and state also, Steve?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98dae3ca-98d8-4201-af0d-4082d6bd6871"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8627e174-74f3-4c93-85c8-42bdf99cbb3c"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ccf6ddc1-c1af-4fd8-9208-db7562d6a310"
+    },
+    {
+      "start_time": 1707,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: What about maybe the critics from the other side who might say that, civics education that focuses on politics or political actors or on the sort of key, political or military moments in American history? Misses a large chunk of the American population who, who aren’t included in many of those, traditional narratives of American politics. I guess this is the question of diversity. Where does diversity or diversity, equity and inclusion fit into this teaching of civics?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "80a2ac3e-1a13-40c0-a005-d8137748164c"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: American debates were never exclusively among elite white males. One impact of the American Revolution. One impact that I’m afraid Ken Burns’ documentary does not discuss in sufficient depth is that the revolutionary period created a whole group of black intellectuals who were engaged in the debates of the time the American Revolution created. The first outspoken, what we would call feminist statements about the position of women in society. We shouldn't have a narrow conception of what debates count and what debates don't count. We should include all of the speakers who are part of these debates, which you'll discover. It's no challenge to include diversity in this kind of discussion. The diversities, they're the primary sources are there. it's only a matter of including them inside the courses that we teach."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "e32201cf-1700-4b16-a7d3-dcb8b0c571fb"
+    },
+    {
+      "start_time": 1823,
+      "end_time": 1831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Do you think, Steve, that this has been, a lacuna in the past, is that a fair criticism of past standards?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "270bd25c-af0f-41eb-9944-e9141a4e7fb1"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Absolutely. One thing that I know that the American Historical Association would be happy to do that I believe our own department would be happy to do, is to create a packet of primary sources that would bring in a diversity of voices who were engaged in the fundamental civics debates in this society. It’s not a challenge. We do it all in our courses anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "13e0229e-31f4-47b3-a3fa-f7e858c088d4"
+    },
+    {
+      "start_time": 1861,
+      "end_time": 1861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro: Right?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1a91c16-ec4c-4f26-b046-2fa380a84467"
+    },
+    {
+      "start_time": 1861,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Let’s help teachers to do this."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0fd8704b-500e-471c-9384-40e3aaa6d7c6"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3bc1ea2c-e6d6-4ab7-8c79-60854d97c6fa"
+    },
+    {
+      "start_time": 1866,
+      "end_time": 1911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: these debates will show our students that we’re not the first generation to ever debate justice or equity or the limits of rights. These are ongoing conversations. And I think it would be really helpful to our students who are often blind to previous debates to understand that they’re coming in pretty late to the dinner party and that the dinner party’s already been going on, and you’re joining in a conversation that is more than two centuries old."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "240c5c44-afdc-4494-ad74-ffe175cfa42f"
+    },
+    {
+      "start_time": 1911,
+      "end_time": 1929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: again, spoken like a great historian. you’ve given us so much. Steve, before we finish, I, can’t help but ask you about technology. I think we need to talk about technology a little bit, especially because you’ve been such a pioneer. What role should technology play, in this discussion?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a80bacc3-c726-4631-9813-43f4e0c37bf9"
+    },
+    {
+      "start_time": 1929,
+      "end_time": 2164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Technology is a tool. It is not a substitute for teaching and certainly not a substitute for learning. Imagine being able to bring in infinite number of primary sources into every classroom in this society. And not just written texts, but music, film, clips, artworks, and the like. We can do that, and we can do that because of technology. You know what a wonderful opportunity. Also, we can create environments where students can make presentations using technological tools. They can create mini movies, they can create infographics and the like. This is not hard to do anymore. This is easy to do. So let’s do it. Let me just give. A couple of examples from my own class, things that I have students do. I give every student in my class a small cemetery on Cape Cod, and in that cemetery, they look at every gravestone. There’s usually only about 20 gravestones still existing in those cemeteries. And they look at the names, they look at the. Birth dates and the date of death, and then they have to draw conclusions. They look at the iconography on the top of the gravestone and they describe it. I can do that because of technology. And what an opportunity for the students they discover. To their surprise, children die more than anyone else. They discover. That if you lived over the age of 20, you lived not quite as long as we do today, but as long as our parents lived right, they lived into their seventies and eighties, they discovered that women died earlier than men. Unlike today when men died later than women, there is a lot to discuss in class and another. Technological tool I give my students is a sort of version, a flight simulator. You are Columbus and you have to sail from the new world, I mean from the old world to the new world and back using current wind and ocean currents and you discover it is not easy to do. You have to sail south along the coast of Africa from Spain, then cross over. You’re approaching Brazil, and then you sell northward before you can reach the Caribbean. It is not easy, and to get back, you have to sell northward towards Canada. Cross over towards Ireland and Britain before you can sail south. To Spain. People appreciate Columbus’ navigation skills when they do this, that this is not easy. Now there’s other conversations they can have about Columbus, but this one I think they find interesting and it’s hands-on learning using technology tools and that turns. History, education into active learning, not just passive listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "a8d93b39-79d1-4599-b675-b685e78b4175"
+    },
+    {
+      "start_time": 2164,
+      "end_time": 2185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes, I, love that. I need to try the Columbus simulator, myself. That sounds fascinating. I love how that makes the history, first of all, more tangible for students, Steve, but it also makes it more fun. it seems to me it’s a real great way to use technology, not to dumb things down, but to meet our audience where it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "bba69be7-d09a-4e14-bb62-94b09bad13c7"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "22eb59c6-2861-46fe-a611-86e7508de232"
+    },
+    {
+      "start_time": 2187,
+      "end_time": 2208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Zachary, how do you think about all this? As someone who’s studying history in college now, and of course has just recently gone through high school history and all the, challenges of that, how do you think about history standards and does what Steve says here, does it resonate with you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "9f1c4a68-1078-49e2-8367-c400ce5c9e9d"
+    },
+    {
+      "start_time": 2208,
+      "end_time": 2253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: I think it does. I think one thing that I’ve certainly learned is that a lot of it doesn’t necessarily come down to the standards or the curricula, but it comes down to the teacher in the classroom. And I think part of the problem is that so much of the money and attention and accolades have gone. To those teaching stem, courses, math, economics, science, computer science, engineering, et cetera. And less attention has been paid to building, sustaining, and encouraging, really effective and passionate teachers of civics and history. And I think, so in the same way that, Good teachers at universities and colleges, make all the difference. I think in the same way it’s true at, in, at a high school level and middle school and elementary school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "420d8f69-ecf6-4c58-acbf-065c1aaa428e"
+    },
+    {
+      "start_time": 2253,
+      "end_time": 2277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah. it’s really interesting. what, you say, Zachary? I’ve been struck, our, daughter, Natalie, is teaching in fifth grade in, San Antonio now through, teach for America, and they give almost no time to history or what they call social studies. It’s, all math and science. I think this is part of the problem too, Steve, isn’t it? That there’s just not. Actual attention in the classroom to history for a sufficient amount of time and space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "2639c864-4c11-4ec3-903c-972caa764f01"
+    },
+    {
+      "start_time": 2277,
+      "end_time": 2312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Absolutely. I totally agree with that. I would add something else. our own department, which is very typical of history departments nationwide, does not offer specific classes to teachers or future teachers about how to teach history in their classrooms. And that’s a big loss. What we’re good at, above all are anecdotes and stories. We know how to bring history to life, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "c6242d29-d08b-4f1b-9d76-04051deceb60"
+    },
+    {
+      "start_time": 2312,
+      "end_time": 2312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes. ‘"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e1906e6c-a7d0-4382-97e6-828104022580"
+    },
+    {
+      "start_time": 2312,
+      "end_time": 2353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: cause we’ve spent a lifetime reading and most teachers have other pressures on them. Apart from that. And working together, I think we could really improve the quality of K 12 history and social studies education, not because we’re gonna be the nce of authority, not because we’re gonna be condescending, but simply sharing what we know. The teachers are the real experts in pedagogy, but we’re experts in facts and stories. And together we could do a great job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture & Society"
+        }
+      ],
+      "uuid": "eac0fcbc-ce2f-4a3d-aab3-7afd8d2f874c"
+    },
+    {
+      "start_time": 2353,
+      "end_time": 2398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: this is something that both you and I and many of our colleagues participate in through, groups like the Gilda Lehrman Institute, humanities, Texas, other humanities councils around the country where teachers and historians come together. To discuss exactly these issues. And, I think where we are most helpful as historians, as you said, Steve, is sharing anecdotes and sharing primary sources that can be used, in this context to close us out, at least for the, for this discussion today. Steve, what should non-teachers who care about and non-pro professors who care about these issues, what should they do? What should ordinary citizens be doing right now? if they care about history as we do, how can they get involved? How can they, help you in your efforts?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "de30a096-5223-4659-8a87-187f9d3722e7"
+    },
+    {
+      "start_time": 2398,
+      "end_time": 2466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: I think they need to make the following argument that the challenge today is not to teach the right story about America, which I don’t know what it is. It’s to teach students how to think historically and reason responsibly and learn how to live in a pluralistic democracy. We need great teachers who can do that. We need great curricula that seek to do that. We need forms of pedagogy that actually engage our students. So I think what the public needs to insist upon is not social studies as some kind of ideological endeavor, but rather education as it ought to be. Yes, education as inquiry, education as problem solving. Education is building on evidence and primary sources. That’s the education our students need."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "6823e561-5bf1-452a-8b0e-6a798aa2d05a"
+    },
+    {
+      "start_time": 2466,
+      "end_time": 2500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: That sounds so persuasive and, so compelling. I hope people listen. I hope that is the direction that comments go at school board meetings too often people are arguing, over some political issue, not over. What it seems to me is the meat and potatoes of this, which you just, I think, have highlighted so well. professor Steven Minz, thank you so much for joining us today. Thank you for all of the work you do in this. Area, not just as a historian, but also in some ways as a, as an activist for the di discipline of history. Thank you, Steve."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e76b465-eaf3-4bbc-9391-1b4c0433e111"
+    },
+    {
+      "start_time": 2500,
+      "end_time": 2502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Mintz: Thank you very much"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a8b5e8f-013c-46f0-af67-126f6c139ea2"
+    },
+    {
+      "start_time": 2502,
+      "end_time": 2524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: and thank you, Zachary, of course, for your moving poem, that got us started with the founders in Philadelphia and for your excellent questions. And thank you, most of all to our loyal listeners and loyal subscribers to our substack for joining us, for this week of this is. Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1605039b-2dec-4a27-80c7-832a1bf8d70e"
+    },
+    {
+      "start_time": 2524,
+      "end_time": 2546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro: This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This is Democracy on Apple Podcast, Spotify and YouTube. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "651a4f84-12ac-4a60-a265-2baf6d8bd0fd"
+    }
+  ],
   "event_id": "51a3b85f-3ade-423b-b444-77fd859abe87",
   "set": "Episode 313: Civics and History Education",
   "source_id": "a49d6ae9-8f5b-4be1-83d8-af5df086ca08"
