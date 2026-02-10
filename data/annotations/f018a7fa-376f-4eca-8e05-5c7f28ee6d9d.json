@@ -353,7 +353,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        }
+      ],
       "uuid": "4f3f1d33-001b-4b4b-ab67-a34618a5d2e5"
     },
     {
