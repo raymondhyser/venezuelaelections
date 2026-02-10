@@ -613,8 +613,12 @@
           "tag": "International Organizations"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Labor & Economy"
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Labor Politics"
         }
       ],
       "uuid": "7ed3f35b-84a3-49d3-9747-68bdd56e503c"
