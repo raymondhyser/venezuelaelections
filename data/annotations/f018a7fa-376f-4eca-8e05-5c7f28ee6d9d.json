@@ -523,7 +523,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
       "uuid": "65a71833-6557-4212-af86-41d2d94573d9"
     },
     {
