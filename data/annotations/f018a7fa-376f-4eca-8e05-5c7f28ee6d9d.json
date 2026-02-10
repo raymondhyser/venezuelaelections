@@ -160,7 +160,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
       "uuid": "2078a916-baac-4e49-9105-aa8d7fe825ed"
     },
     {
