@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "3775d7cc-78f4-475b-b1bb-6861eae1c5c9": {
+      "label": "This is Democracy – Episode 312: Ukraine Negotiations",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2025/12/2025-12-03_this-is-democracy_ukraine-negotiations_mastered_1.mp3",
+      "duration": 2301,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 312: Ukraine Negotiations",
+  "av_file_order": [
+    "3775d7cc-78f4-475b-b1bb-6861eae1c5c9"
+  ],
+  "created_at": "2026-02-10T04:56:08.363Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-02-10T04:56:08.363Z",
+  "updated_by": "raymondhyser"
+}
