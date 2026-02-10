@@ -577,12 +577,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Citizenship & Belonging"
-        },
-        {
           "category": "Social and Economic Forces",
           "tag": "Inequality"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
         }
       ],
       "uuid": "2a5e8b59-df9f-4797-a513-9e5286299867"
