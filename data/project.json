@@ -249,10 +249,6 @@
           "tag": "Culture & Society"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Democratic Risks & Threats"
-        },
-        {
           "category": "Social and Economic Forces",
           "tag": "Economic Power"
         },
@@ -271,7 +267,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-10T22:29:32.479Z",
+    "updated_at": "2026-02-10T22:29:37.121Z",
     "generate_pages_site": true
   },
   "annotations": {},
