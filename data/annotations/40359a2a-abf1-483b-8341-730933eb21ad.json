@@ -206,7 +206,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        }
+      ],
       "uuid": "5f375e47-1cd7-47f7-aa83-f56268223bea"
     },
     {
