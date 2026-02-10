@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "55f7eef1-de80-4412-9242-f351cb143949": {
+      "label": "This Is Democracy-Episode 311: US-Latin American Relations",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2025/11/2025-11-12_this-is-democracy_us-latin-american-relations_mastered.mp3",
+      "duration": 1700,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Episode 311: US-Latin American Relations",
+  "av_file_order": [
+    "55f7eef1-de80-4412-9242-f351cb143949"
+  ],
+  "created_at": "2026-02-10T04:52:04.116Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-02-10T04:52:04.116Z",
+  "updated_by": "raymondhyser"
+}
