@@ -265,10 +265,6 @@
           "tag": "Diplomacy & Peacebuilding"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare & Society"
-        },
-        {
           "category": "Social and Economic Forces",
           "tag": "Economic Power"
         },
@@ -287,7 +283,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-10T22:29:11.923Z",
+    "updated_at": "2026-02-10T22:29:17.834Z",
     "generate_pages_site": true
   },
   "annotations": {},
