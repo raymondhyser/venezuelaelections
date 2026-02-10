@@ -594,7 +594,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        }
+      ],
       "uuid": "8904c0f6-ea3e-4c51-bd42-e8f38a784b56"
     },
     {
