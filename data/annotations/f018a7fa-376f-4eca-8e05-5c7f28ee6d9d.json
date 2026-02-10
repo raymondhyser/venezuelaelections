@@ -369,12 +369,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yes, that's a great point. So a lot of this builds on preexisting trends, but I do think the missile crisis was an important turning point because it was a moment where everyone shared danger, and it was this moment where everyone had to decide between these kind of. Conflicting values and conflicting priorities."
+              "text": "Yes, that's a great point. So a lot of this builds on preexisting trends, but I do think the missile crisis was an important turning point because it was a moment where everyone shared danger, and it was this moment where everyone had to decide between these kinds of conflicting values and conflicting priorities."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        }
+      ],
       "uuid": "60b3d8e6-c510-43ab-9fac-d81fbe4ba093"
     },
     {
