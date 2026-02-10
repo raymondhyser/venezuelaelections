@@ -297,16 +297,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare & Society"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Structural Drivers of Conflict"
         },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
         }
       ],
       "uuid": "feb1cc9d-b9ff-4fe8-b5b1-d88a1262ab0d"
