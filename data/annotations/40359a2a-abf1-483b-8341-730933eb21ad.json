@@ -573,7 +573,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
       "uuid": "7d639ddd-602f-43cb-966e-a79d8189e581"
     },
     {
