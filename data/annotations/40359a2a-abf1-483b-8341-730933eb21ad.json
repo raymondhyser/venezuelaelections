@@ -338,7 +338,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
       "uuid": "3fbc8469-70c5-4861-b93a-7c2b67e35b16"
     },
     {
