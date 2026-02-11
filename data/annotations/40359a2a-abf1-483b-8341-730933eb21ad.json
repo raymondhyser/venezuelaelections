@@ -548,7 +548,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
       "uuid": "45a2ac6f-fbeb-4246-8a4e-637c51f5ec58"
     },
     {
