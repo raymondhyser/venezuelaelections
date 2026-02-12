@@ -794,10 +794,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Citizenship & Belonging"
-        },
-        {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
         },
@@ -816,6 +812,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
         }
       ],
       "uuid": "1734159c-8d29-47fd-b071-fcd663473d95"
