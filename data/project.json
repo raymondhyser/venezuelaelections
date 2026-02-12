@@ -121,10 +121,6 @@
           "tag": "Voiceover"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Greg Abbott"
-        },
-        {
           "category": "Subjects",
           "tag": "Constitutional Democracy"
         },
@@ -243,7 +239,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-12T17:37:32.774Z",
+    "updated_at": "2026-02-12T17:37:36.391Z",
     "generate_pages_site": true
   },
   "annotations": {},
