@@ -195,8 +195,12 @@
           "category": "Speakers"
         },
         {
-          "tag": "Poetry",
-          "category": "Subjects"
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
         }
       ],
       "uuid": "61ade72d-20ed-4efa-814a-3ebabb992d75"
