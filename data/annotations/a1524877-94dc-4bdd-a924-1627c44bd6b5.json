@@ -312,24 +312,24 @@
           "tag": "Political Violence"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare & Society"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Democratic Risks & Threats"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Citizenship & Belonging"
-        },
-        {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
         }
       ],
       "uuid": "7e4b23cc-8a4d-4dcf-a18b-d5fb4584126f"
