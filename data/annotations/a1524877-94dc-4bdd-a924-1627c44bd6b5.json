@@ -357,12 +357,12 @@
           "tag": "Political Violence"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare & Society"
-        },
-        {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
         }
       ],
       "uuid": "3d4d4c57-ce8d-444d-91f2-1100b914076f"
