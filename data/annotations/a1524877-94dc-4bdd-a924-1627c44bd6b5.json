@@ -419,16 +419,8 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Warfare & Society"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Diplomacy & Peacebuilding"
         },
         {
           "category": "Rights, Membership and Public Participation",
@@ -437,6 +429,14 @@
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
         }
       ],
       "uuid": "485cd3ff-525f-4410-a255-55f1c9d57d45"
