@@ -134,10 +134,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Hugo Chávez"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "1972"
         },
         {
@@ -235,7 +231,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-12T17:37:40.670Z",
+    "updated_at": "2026-02-12T17:37:44.570Z",
     "generate_pages_site": true
   },
   "annotations": {},
