@@ -295,12 +295,16 @@
           "category": "Speakers"
         },
         {
-          "tag": "Military",
-          "category": "Subjects"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "1972"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
         }
       ],
       "uuid": "f0334dcc-aa5e-4de8-bb07-fb876d5358f6"
