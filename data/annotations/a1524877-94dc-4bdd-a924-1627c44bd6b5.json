@@ -456,10 +456,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Diplomacy & Peacebuilding"
-        },
-        {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
         },
@@ -470,6 +466,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
         }
       ],
       "uuid": "e62cc0b8-762a-4c79-b408-f65f1ad33bff"
