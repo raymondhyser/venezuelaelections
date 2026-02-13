@@ -411,12 +411,16 @@
           "category": "Speakers"
         },
         {
-          "tag": "Foreign Relations",
-          "category": "Subjects"
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
         },
         {
-          "tag": "Military",
-          "category": "Subjects"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
         }
       ],
       "uuid": "438ce9bd-6b85-4923-ba3a-97ed63c99c03"
