@@ -514,7 +514,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Stephen Skowronek: The paradox is that once we, the people becomes fully inclusive, which I would date to around the, uh, rights revolution of the sixties and seventies, once we, the people becomes fully inclusive, then the constitution seems to be losing its capacity to reestablish firm footings and to stabilize the polity. Once, uh, for successive rounds of inclusion, uh, we were able to reconfigure constitutional relationships and stabilize the polity. But since the rights revolution, we haven’t been able to agree on terms for accommodating all the players. Now, on the fold, the paradox is that once we the re we, the people becomes a reality, the Constitution loses its capacity to provide firm footings and stabilize the polity."
+              "text": "The paradox is that once we, the people becomes fully inclusive, which I would date to around the, uh, rights revolution of the sixties and seventies, once we, the people becomes fully inclusive, then the Constitution seems to be losing its capacity to reestablish firm footings and to stabilize the polity. Once, uh, for successive rounds of inclusion, uh, we were able to reconfigure constitutional relationships and stabilize the polity. But since the rights revolution, we haven’t been able to agree on terms for accommodating all the players. Now, on the fold, the paradox is that once we the re we, the people becomes a reality, the Constitution loses its capacity to provide firm footings and stabilize the polity."
             }
           ]
         }
@@ -525,8 +525,12 @@
           "tag": "Stephen Skowronek"
         },
         {
-          "category": "Subjects",
-          "tag": "Constitution"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
         }
       ],
       "uuid": "a9de2030-5def-4f38-8ae1-984f71060b13"
