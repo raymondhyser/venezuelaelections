@@ -810,7 +810,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Stephen Skowronek: Well, let’s, yeah. So let’s take three. So one is this new Juristocracy, Juristocracy. The, uh, our increasing dependence on the Supreme Court to determine what the appropriate boundaries are. Now, we would think, oh, well that’s just the Constitution’s solution to how you settle boundary disputes. You give it to the court, but in fact, as I mentioned with the John Marshall, uh, example. Uh, uh, you know, uh, authorizing a national bank, the judges have a very spotty record of settling boundary disputes when there’s no consensus on the underlying purposes, and we have no consensus on the underlying purposes, and we’re increasingly dependent on the court. And I’m not blaming the, uh, Roberts Court. This began with the Warren court."
+              "text": "Well, let’s, yeah. So let’s take three. So one is this new Juristocracy, Juristocracy. The, uh, our increasing dependence on the Supreme Court to determine what the appropriate boundaries are. Now, we would think, oh, well that’s just the Constitution’s solution to how you settle boundary disputes. You give it to the court, but in fact, as I mentioned with the John Marshall, uh, example. Uh, uh, you know, uh, authorizing a national bank, the judges have a very spotty record of settling boundary disputes when there’s no consensus on the underlying purposes, and we have no consensus on the underlying purposes, and we’re increasingly dependent on the court. And I’m not blaming the, uh, Roberts Court. This began with the Warren court."
             }
           ]
         }
@@ -821,8 +821,12 @@
           "tag": "Stephen Skowronek"
         },
         {
-          "category": "Subjects",
-          "tag": "Constitution"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
         }
       ],
       "uuid": "32de19ce-199f-4c0e-b75d-9b351a77502b"
