@@ -85,10 +85,6 @@
           "category": "Framing Elements"
         },
         {
-          "tag": "Military",
-          "category": "Subjects"
-        },
-        {
           "tag": "Foreign Relations",
           "category": "Subjects"
         },
@@ -203,7 +199,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-13T22:11:52.214Z",
+    "updated_at": "2026-02-13T22:11:56.434Z",
     "generate_pages_site": true
   },
   "annotations": {},
