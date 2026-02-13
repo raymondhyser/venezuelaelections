@@ -486,8 +486,16 @@
           "category": "Speakers"
         },
         {
-          "tag": "Military",
-          "category": "Subjects"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "0d0fb818-1ffd-4889-86ae-3e8be4128ff8"
