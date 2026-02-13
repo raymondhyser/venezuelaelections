@@ -97,10 +97,6 @@
           "category": "Subjects"
         },
         {
-          "tag": "Refugees",
-          "category": "Subjects"
-        },
-        {
           "category": "Speakers",
           "tag": "Stephen Skowronek"
         },
@@ -211,7 +207,7 @@
       ]
     },
     "created_at": "2025-10-21T14:47:23.825Z",
-    "updated_at": "2026-02-13T22:10:50.506Z",
+    "updated_at": "2026-02-13T22:11:46.369Z",
     "generate_pages_site": true
   },
   "annotations": {},
