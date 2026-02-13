@@ -568,7 +568,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Stephen Skowronek: Well, scholar scholars and, uh, American thinkers have noticed this tension between constitutionalism and democracy, uh, from the very beginning. I mean, Jefferson says, you know, you can’t keep it, you don’t adapt it. Have a constitutional convention every generation and reconfigure it. Don’t just keep reinterpreting it. Uh, in the, uh, in the 20th century, John Dewey says, you know, um, uh, the arrangements that we set up to stabilize a particular polity, uh, uh. Create conditions for development that make this a new pol that create a new polity that is incompatible with those institutions. So again, constitutional democracy is expanding under arrangements that then call the, those arrangements into question, call that constitution into question."
+              "text": "Well, scholar scholars and, uh, American thinkers have noticed this tension between constitutionalism and democracy, uh, from the very beginning. I mean, Jefferson says, you know, you can’t keep it, you don’t adapt it. Have a constitutional convention every generation and reconfigure it. Don’t just keep reinterpreting it. Uh, in the, uh, in the 20th century, John Dewey says, you know, um, uh, the arrangements that we set up to stabilize a particular polity, uh, uh. Create conditions for development that make this a new polity that create a new polity that is incompatible with those institutions. So again, constitutional democracy is expanding under arrangements that then call the, those arrangements into question, call that constitution into question."
             }
           ]
         }
@@ -577,6 +577,14 @@
         {
           "category": "Speakers",
           "tag": "Stephen Skowronek"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
         }
       ],
       "uuid": "ae4642d0-551b-4efc-9bc6-dd375cf9eff8"
