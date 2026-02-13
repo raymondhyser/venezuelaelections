@@ -911,8 +911,12 @@
           "category": "Speakers"
         },
         {
-          "tag": "Sanctions",
-          "category": "Subjects"
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "380aa69e-d2c8-49ef-950e-52aec47f8026"
