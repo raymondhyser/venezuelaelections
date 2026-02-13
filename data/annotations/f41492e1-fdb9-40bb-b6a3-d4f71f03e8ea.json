@@ -761,8 +761,12 @@
           "category": "Speakers"
         },
         {
-          "tag": "Military",
-          "category": "Subjects"
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "a7e61622-7ffa-43d7-9e43-596a0cf62488"
