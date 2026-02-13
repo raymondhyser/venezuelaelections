@@ -297,7 +297,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Stephen Skowronek: Uh, interestingly, John Marshall had a different view. You know, he says that the Constitution was, uh, meant to endure for, uh, decades of time and to be adapted to the crises of human affairs. Uh, he said that, however, in a, in a early case, dealing with Congressional authority to create a national bank. And what’s interesting about that case to me is that it."
+              "text": "Uh, interestingly, John Marshall had a different view. You know, he says that the Constitution was, uh, meant to endure for, uh, decades of time and to be adapted to the crises of human affairs. Uh, he said that, however, in an early case, dealing with Congressional authority to create a national bank. And what’s interesting about that case to me is that it."
             }
           ]
         }
@@ -306,6 +306,10 @@
         {
           "category": "Speakers",
           "tag": "Stephen Skowronek"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
         }
       ],
       "uuid": "7137f4a3-6732-40d9-a0b2-3e238068be1a"
