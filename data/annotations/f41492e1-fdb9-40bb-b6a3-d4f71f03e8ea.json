@@ -1007,8 +1007,12 @@
           "category": "Speakers"
         },
         {
-          "tag": "Foreign Relations",
-          "category": "Subjects"
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "e0092275-05de-46e2-a1d3-dd2408fb15fa"
