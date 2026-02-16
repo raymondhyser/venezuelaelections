@@ -889,23 +889,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: I think that’s so well said. Steve, one would think listening to you that there would be easy consensus around this and one would expect that, particularly in a state like Texas where you and I both teach that this would resonate with, Know more politically conservative ears, political conservatives who care about and claim to care a lot about presidential leadership, and executive power. why has this been so challenging? You’ve been involved deeply, through the American Historical Association and other organizations and trying to work on Texas history standards, and you have faced a lot of resistance. What’s the challenge at the state level?"
+              "text": "I think that’s so well said. Steve, one would think listening to you that there would be easy consensus around this and one would expect that, particularly in a state like Texas where you and I both teach that this would resonate with, Know more politically conservative ears, political conservatives who care about and claim to care a lot about presidential leadership, and executive power. why has this been so challenging? You’ve been involved deeply, through the American Historical Association and other organizations and trying to work on Texas history standards, and you have faced a lot of resistance. What’s the challenge at the state level?"
             }
           ]
         }
       ],
       "tags": [
         {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Risks and Threats"
         },
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Grievances"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "7232bad6-e502-4937-942a-8b4122782bde"
