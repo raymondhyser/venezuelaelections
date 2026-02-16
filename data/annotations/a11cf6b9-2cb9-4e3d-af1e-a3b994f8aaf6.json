@@ -329,19 +329,27 @@
       "uuid": "ced97dd0-b8e8-4c92-81f7-3dd834d83447"
     },
     {
-      "start_time": 709,
+      "start_time": 708,
       "end_time": 812,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: I, I would like to make several points on that. I think the case that is most similar in Early American intervention in Latin America is the case of Manuel Noriega in Panama in 1989, when you also had a ruthless, brutal, corrupt dictator who defied the United States. The United States in that sense did a less surgical strike by actually invading Panama at good cost of civilian lives and taking over the whole country, and then actually instituting democracy afterwards. So the target in Panama in 89 was quite similar. Some, I mean, just awful dictator who clearly deserve to be, put on trial. The Venezuelan case is different because it’s obviously not a full scale invasion, but that very, very surgical strike. but so there is a president in terms of the target, and you see in the avoidance of a full scale invasion, president Trump’s concern about getting dragged into. Regime change, potential trouble and turmoil, domestic conflict that could drag the United States into what the Trumpians would call nation building, Allah, Afghanistan, and Iraq. And so there is, there is a similarity in the target, but there’s also a different approach in doing this in a much more targeted way, which of course has, if you wish the disadvantage that you’ve.\n\nYou decapitated, autocratic, corrupt, repressive regime, but most of the power structure of the regime is still in place."
+              "text": "I, I would like to make several points on that. I think the case that is most similar in Early American intervention in Latin America is the case of Manuel Noriega in Panama in 1989, when you also had a ruthless, brutal, corrupt dictator who defied the United States. The United States in that sense did a less surgical strike by actually invading Panama at good cost of civilian lives and taking over the whole country, and then actually instituting democracy afterwards. So the target in Panama in 89 was quite similar. Some, I mean, just awful dictator who clearly deserve to be, put on trial. The Venezuelan case is different because it’s obviously not a full scale invasion, but that very, very surgical strike. but so there is a president in terms of the target, and you see in the avoidance of a full scale invasion, president Trump’s concern about getting dragged into. Regime change, potential trouble and turmoil, domestic conflict that could drag the United States into what the Trumpians would call nation building, Allah, Afghanistan, and Iraq. And so there is, there is a similarity in the target, but there’s also a different approach in doing this in a much more targeted way, which of course has, if you wish the disadvantage that you’ve.\n\nYou decapitated, autocratic, corrupt, repressive regime, but most of the power structure of the regime is still in place."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Structural Drivers of Conflict"
@@ -349,10 +357,6 @@
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
-        },
-        {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Warfare and Society"
         }
       ],
       "uuid": "feb1cc9d-b9ff-4fe8-b5b1-d88a1262ab0d"
