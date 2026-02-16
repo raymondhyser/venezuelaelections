@@ -1468,19 +1468,24 @@
       "uuid": "6210526f-ea01-4a3b-be19-054444687069"
     },
     {
-      "start_time": 1820,
+      "start_time": 1819,
       "end_time": 1843,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: or compaints. Send the complaints to Zachary Siri. Um, uh, we are so fortunate to be able to do this, to have these conversations somewhat so as Zachary’s heard me say this, that I miss it when we don’t do it. Uh, and, uh, we will continue through this year. So thank you for joining us, uh, for a new year, and thank you in particular for joining us for this episode of This Is Democracy."
+              "text": "or complaints. Send the complaints to Zachary Suri. Um, uh, we are so fortunate to be able to do this, to have these conversations somewhat so as Zachary’s heard me say this, that I miss it when we don’t do it. Uh, and, uh, we will continue through this year. So thank you for joining us, uh, for a new year, and thank you in particular for joining us for this episode of This Is Democracy."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "102c4d6e-07bb-4e90-a262-35336a97b2ef"
     },
     {
