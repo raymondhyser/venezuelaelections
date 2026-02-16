@@ -1034,12 +1034,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Jeremi, that’s the, $64,000 question has often been said. That is, in so many ways this society is better off than it ever has been. We’re not engaged in a major war right now. We have new technologies like. Artificial intelligence, or should I say green power, that are really remarkable. Austin is filled with self-driving cars that do not get into accidents like real people do,"
+              "text": "Jeremi, that’s the, $64,000 question has often been said. That is, in so many ways this society is better off than it ever has been. We’re not engaged in a major war right now. We have new technologies like. Artificial intelligence, or should I say green power, that are really remarkable. Austin is filled with self-driving cars that do not get into accidents like real people do,"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "1ddcdb4b-1958-4bdb-9c14-da8b0ef354f1"
     },
     {
