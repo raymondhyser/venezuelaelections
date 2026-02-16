@@ -1090,19 +1090,23 @@
       "uuid": "8aecd9e2-df16-4189-a01a-09305ebfe5e0"
     },
     {
-      "start_time": 1434,
+      "start_time": 1433,
       "end_time": 1455,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: And, and that’s exactly why we do this podcast. Right? It’s, it’s exactly, uh, for that reason. So, so what does it mean then people, I mean, everyone is now saying that, right? Viewpoint diversity. More open conversation, civility, but people talk about it more than they actually do it.\n\nWhat does it actually mean to do it? What are some examples that we can close on, some hopeful examples from 2025 that can take us into 2026?"
+              "text": "And, and that’s exactly why we do this podcast. Right? It’s, it’s exactly, uh, for that reason. So, so what does it mean then people, I mean, everyone is now saying that, right? Viewpoint diversity. More open conversation, civility, but people talk about it more than they actually do it. What does it actually mean to do it? What are some examples that we can close on, some hopeful examples from 2025 that can take us into 2026?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
