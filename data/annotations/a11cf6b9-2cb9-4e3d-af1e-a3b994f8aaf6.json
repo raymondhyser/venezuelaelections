@@ -794,22 +794,22 @@
       "uuid": "c4f5bcf3-b3d4-4932-a2d5-f159c8d8dcaf"
     },
     {
-      "start_time": 1766,
-      "end_time": 1777,
+      "start_time": 1755,
+      "end_time": 1767,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: Unfortunately, political science, political science hasn’t, you know, come up with a general loss that we could confidently make any clear assertions about a case like Venezuela."
+              "text": "Unfortunately, political science, political science hasn’t, you know, come up with a general loss that we could confidently make any clear assertions about a case like Venezuela."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
         }
       ],
       "uuid": "53c25160-5669-4fa9-aa3a-048d5d7e149c"
