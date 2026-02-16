@@ -142,12 +142,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Philadelphia From Above."
+              "text": "Philadelphia From Above."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "03643a51-f1a8-4a69-89e0-eb50a518b071"
     },
     {
