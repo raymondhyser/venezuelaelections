@@ -286,12 +286,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: It makes a lot of sense. Zachary has joined us now. He had some computer, glitches, but we’re glad you’re with us Zachary. please."
+              "text": "It makes a lot of sense. Zachary has joined us now. He had some computer glitches, but we’re glad you’re with us, Zachary."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "1ad5d674-773f-4104-97bf-e83643dc5a97"
     },
     {
