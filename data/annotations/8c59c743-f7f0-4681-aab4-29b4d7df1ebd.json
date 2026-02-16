@@ -530,12 +530,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: spoken like a great historian, Zachary,"
+              "text": "Spoken like a great historian, Zachary,"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "4d09b0ff-c5ae-42f0-9444-516b48b0d935"
     },
     {
