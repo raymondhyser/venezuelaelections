@@ -29,12 +29,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Welcome to our new episode of This Is Democracy.\n\nThis is our first episode of 2026. That’s exciting, Zachary, isn’t it? "
+              "text": "Welcome to our new episode of This Is Democracy. This is our first episode of 2026. That’s exciting, Zachary, isn’t it? "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "80df774f-7d74-4e5e-90c2-8e6f55a1ce7d"
     },
     {
