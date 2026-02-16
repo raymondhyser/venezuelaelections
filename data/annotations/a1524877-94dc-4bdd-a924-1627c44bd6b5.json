@@ -836,12 +836,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Tight. Quarters. Um, that was not something I’d ever thought of, but that sort of human complexity of the situations"
+              "text": "Tight. Quarters. Um, that was not something I’d ever thought of, but that sort of human complexity of the situations"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "802c0967-5bfb-4f74-aa45-67fb7f02e450"
     },
     {
