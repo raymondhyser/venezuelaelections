@@ -184,12 +184,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Yeah. maybe don’t think of cream cheese because it’s not about cream cheese."
+              "text": "Yeah. maybe don’t think of cream cheese because it’s not about cream cheese."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "a09c8fb8-8ea6-4f70-92d1-7753e2c98fac"
     },
     {
