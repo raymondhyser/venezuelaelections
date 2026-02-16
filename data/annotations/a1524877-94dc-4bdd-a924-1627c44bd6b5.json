@@ -562,26 +562,30 @@
       "uuid": "e62cc0b8-762a-4c79-b408-f65f1ad33bff"
     },
     {
-      "start_time": 808,
+      "start_time": 807,
       "end_time": 852,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: It, it reminds me in some ways of, of watching from afar. And reading of the lives of people like Eli Viel. Yeah, Nelson Mandela. I mean, these are larger than life figures in some ways, although actually Eli Viel was a figure of very small stature. But these are individuals intellectually and in their image of they’re larger than, larger than life, but in some ways, like these former hostages, they were ordinary people who had suffered the unthinkable and then came out as voices, not a vengeance.\n\nNot of revenge nor of forgiveness, but voices of finding a common brotherhood and sisterhood in our response to the horrors that we’ve experienced. Yes."
+              "text": "It, it reminds me in some ways of, of watching from afar. And reading of the lives of people like Eli Viel. Yeah, Nelson Mandela. I mean, these are larger than life figures in some ways, although actually Eli Viel was a figure of very small stature. But these are individuals intellectually and in their image of they’re larger than, larger than life, but in some ways, like these former hostages, they were ordinary people who had suffered the unthinkable and then came out as voices, not a vengeance. Not of revenge nor of forgiveness, but voices of finding a common brotherhood and sisterhood in our response to the horrors that we’ve experienced. Yes."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "694a21f4-b3b7-4043-be03-beb1c1d607b4"
