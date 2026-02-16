@@ -221,12 +221,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Though now she glows by the river. Only a step from the dark sea. It was all darkness then. No streetlights on the boulevards. No neon at the corner store. Not a bulb, a flame. When they came, galloping in on horseback, waiting to sign the necessary page. How then can I feel so powerless above the valley? A glow. Impossible, I think to be anything but awake. Eyes drawn to so many illuminations of suffering. I float away, down past the Delaware, how hard it is in this world to sign your name."
+              "text": "Though now she glows by the river. Only a step from the dark sea. It was all darkness then. No streetlights on the boulevards. No neon at the corner store. Not a bulb, a flame. When they came, galloping in on horseback, waiting to sign the necessary page. How then can I feel so powerless above the valley? A glow. Impossible, I think to be anything but awake. Eyes drawn to so many illuminations of suffering. I float away, down past the Delaware, how hard it is in this world to sign your name."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Origins of Democracy"
