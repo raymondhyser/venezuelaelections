@@ -942,34 +942,34 @@
       "uuid": "e41f6cb7-84f9-42a0-ae9f-53d42b6aaab5"
     },
     {
-      "start_time": 1016,
+      "start_time": 1015,
       "end_time": 1175,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: and, and I think it’s our obligation. And one of the lessons from 2025, if I might say, is to avoid the effort to oversimplify what social media encourages. Encouraging us to find the good guys and the bad guys and to recognize without apologizing for.\n\nUh, unacceptable behavior, illegal behavior, uh, immoral behavior, recognizing that in many cases, um, people are driven by complex experiences and motives. As you were speaking of the hostages, I was thinking of so many, uh, immigrants to the United States who have now been swept up by ice. Um, many of whom actually did break a law.\n\nMaybe they came on a student visa and overed. Maybe they came on a tourist visa at overstate, but then they’ve lived here for 10 years, 12 years. They’ve raised a family, they’ve worked diligently, and the reason they didn’t go back to their country, this could be true for our great grandparents, Zachary, the reason they didn’t go back was not because they wanted to break a law here, but because they were afraid to go back and face persecution or face abject poverty.\n\nUm, so are they people who broke a law? Maybe. But should they be deported for that as criminals? That’s, that’s a complex story, right? And we should avoid these simple, simple categories. Um, I think about that at universities too. As a, as a professor, as someone watching at my university, university of Texas and elsewhere, major changes in controversy swirling around everything we do.\n\nFrom discussions of diversity to curriculum, to hiring, to leadership, to funding, you know, um, one doesn’t have to believe that universities were perfect. They certainly weren’t. To also believe that there’s something that needs to be saved and preserved in academic freedom, an open inquiry. And, uh, we become oversimplified and polarized.\n\nAnd are you for DEI or against DEI? Well, I’m both. Are you, uh, for, um, people being free to think and speak as they wish, uh, or are you for protecting people from facing antisemitism? anti-ISIS, Islamophobia and things of that sort. Well, um, for both of those too, right? I mean, these are, these are complex issues we have to navigate.\n\nAnd I think 2025 has taught us, and I have a sense a lot of people coming out of 2025 realizing this, that the simple categories are not the realities, the complex realities, uh, we, we face. Uh, may, maybe one of the lessons from Orwell that you’re teaching, taking us to is not only to personalize, to understand the individuals who are affected by big ideas, but also.\n\nTo move beyond labels. Right. Uh, Orwell’s not only attacking the socialist party, he’s attacking the label."
+              "text": "And, and I think it’s our obligation. And one of the lessons from 2025, if I might say, is to avoid the effort to oversimplify what social media encourages. Encouraging us to find the good guys and the bad guys and to recognize without apologizing for. Uh, unacceptable behavior, illegal behavior, uh, immoral behavior, recognizing that in many cases, um, people are driven by complex experiences and motives. As you were speaking of the hostages, I was thinking of so many, uh, immigrants to the United States who have now been swept up by ice. Um, many of whom actually did break a law. Maybe they came on a student visa and overed. Maybe they came on a tourist visa at overstate, but then they’ve lived here for 10 years, 12 years. They’ve raised a family, they’ve worked diligently, and the reason they didn’t go back to their country, this could be true for our great grandparents, Zachary, the reason they didn’t go back was not because they wanted to break a law here, but because they were afraid to go back and face persecution or face abject poverty. Um, so are they people who broke a law? Maybe. But should they be deported for that as criminals? That’s, that’s a complex story, right? And we should avoid these simple, simple categories. Um, I think about that at universities too. As a, as a professor, as someone watching at my university, university of Texas and elsewhere, major changes in controversy swirling around everything we do. From discussions of diversity to curriculum, to hiring, to leadership, to funding, you know, um, one doesn’t have to believe that universities were perfect. They certainly weren’t. To also believe that there’s something that needs to be saved and preserved in academic freedom, an open inquiry. And, uh, we become oversimplified and polarized. And are you for DEI or against DEI? Well, I’m both. Are you, uh, for, um, people being free to think and speak as they wish, uh, or are you for protecting people from facing antisemitism? anti-ISIS, Islamophobia and things of that sort. Well, um, for both of those too, right? I mean, these are, these are complex issues we have to navigate. And I think 2025 has taught us, and I have a sense a lot of people coming out of 2025 realizing this, that the simple categories are not the realities, the complex realities, uh, we, we face. Uh, may, maybe one of the lessons from Orwell that you’re teaching, taking us to is not only to personalize, to understand the individuals who are affected by big ideas, but also. To move beyond labels. Right. Uh, Orwell’s not only attacking the socialist party, he’s attacking the label."
             }
           ]
         }
       ],
       "tags": [
         {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
         },
         {
           "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
-        },
-        {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "tag": "Citizenship and Belonging"
         },
         {
           "category": "Rights, Membership and Public Participation",
-          "tag": "Free Speech"
+          "tag": "Human Rights"
         },
         {
           "category": "Rights, Membership and Public Participation",
@@ -977,7 +977,11 @@
         },
         {
           "category": "Rights, Membership and Public Participation",
-          "tag": "Citizenship and Belonging"
+          "tag": "Free Speech"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "1734159c-8d29-47fd-b071-fcd663473d95"
