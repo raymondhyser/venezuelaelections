@@ -1293,19 +1293,24 @@
       "uuid": "0b68ffc3-790d-42e5-a014-91d9b03bdfc2"
     },
     {
-      "start_time": 1678,
+      "start_time": 1676,
       "end_time": 1679,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: And some of the people who are in that room don’t wanna be in the room with the other people."
+              "text": "And some of the people who are in that room don’t wanna be in the room with the other people."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9a3824c4-5f47-4c34-afdd-e3d6afa016c3"
     },
     {
