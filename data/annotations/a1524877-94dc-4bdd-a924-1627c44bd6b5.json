@@ -260,19 +260,24 @@
       "uuid": "d28c9b45-6598-4395-adbc-992800095b17"
     },
     {
-      "start_time": 321,
+      "start_time": 320,
       "end_time": 326,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: There’s a lot in that passage, Zachary. What, what’s going on there?\n\nWhat is Orville saying?"
+              "text": "There’s a lot in that passage, Zachary. What, what’s going on there? What is Orwell saying?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "23b29447-bed6-42a4-a08a-30d099c35bae"
     },
     {
