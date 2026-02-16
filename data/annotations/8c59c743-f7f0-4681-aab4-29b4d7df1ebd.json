@@ -551,12 +551,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: but what is the, purpose of civic educ civics education in the first place, do you think? At the very least, perhaps there is agreement on why we should teach physics, if not on, on how."
+              "text": "But what is the, purpose of civic educ civics education in the first place, do you think? At the very least, perhaps there is agreement on why we should teach physics, if not on, on how."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "1edcffd5-4a34-4008-887a-ef4caf5c3767"
     },
     {
