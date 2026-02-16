@@ -857,12 +857,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: totally,"
+              "text": "Totally."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "4df6e660-8b38-4464-a96a-e2775a1788af"
     },
     {
