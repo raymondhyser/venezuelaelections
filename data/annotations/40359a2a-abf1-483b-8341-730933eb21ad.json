@@ -58,12 +58,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hello. Hi, Zachary and Michael. So happy to be with you."
+              "text": "Hi, Zachary and Michael. So happy to be with you."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8b351ecf-30cd-4373-9b13-1c8b0429c3b2"
     },
     {
