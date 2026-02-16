@@ -834,7 +834,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Renata Keller"
+        }
+      ],
       "uuid": "85a6c02e-dabe-47f8-904a-c1ffc1dff340"
     },
     {
