@@ -987,22 +987,22 @@
       "uuid": "1734159c-8d29-47fd-b071-fcd663473d95"
     },
     {
-      "start_time": 1176,
+      "start_time": 1175,
       "end_time": 1248,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah. Right. I think that’s right. I, I think also, uh, as you said, the, the, the. As someone who’s also at a university campus, I think the hardest part about the way that universities are being talked about and the worst part about how they’re being talked about, uh, on, on both sides, uh, in international discourse, uh, is, is the sort of insistence on labels, as you’ve said, the insistence on, on making every academic question.\n\nOne of are is this DEI or is this anti DI is this is this anti Right. Instead of focusing on, uh, complexity. And I think, I think if there’s one hopeful. Hopeful thing that I think we can take out of this moment for universities is that, uh, I think for, I think a lot of the sort of. Urges to grasp for labels.\n\nThe urge for simplification is actually rooted in a genuine frustration with the lack of complexity, if that makes any sense. Yeah. I think we’re taking, people are taking, um, frustration at academic environments that don’t allow for complexity or don’t allow for certain perspectives to be heard and actually doing the exact same thing and turning them into oversimplified labels and, and, and talking about universities in oversimplified ways in response.\n\nBut I think the urge or the frustration that’s there. Is is very genuine."
+              "text": "Yeah. Right. I think that’s right. I, I think also, uh, as you said, the, the, the. As someone who’s also at a university campus, I think the hardest part about the way that universities are being talked about and the worst part about how they’re being talked about, uh, on, on both sides, uh, in international discourse, uh, is, is the sort of insistence on labels, as you’ve said, the insistence on, on making every academic question.\n\nOne of are is this DEI or is this anti DI is this is this anti Right. Instead of focusing on, uh, complexity. And I think, I think if there’s one hopeful. Hopeful thing that I think we can take out of this moment for universities is that, uh, I think for, I think a lot of the sort of. Urges to grasp for labels.\n\nThe urge for simplification is actually rooted in a genuine frustration with the lack of complexity, if that makes any sense. Yeah. I think we’re taking, people are taking, um, frustration at academic environments that don’t allow for complexity or don’t allow for certain perspectives to be heard and actually doing the exact same thing and turning them into oversimplified labels and, and, and talking about universities in oversimplified ways in response.\n\nBut I think the urge or the frustration that’s there. Is is very genuine."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
@@ -1011,6 +1011,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "5187959d-3e8d-4031-b1b3-573e7fc77ffa"
