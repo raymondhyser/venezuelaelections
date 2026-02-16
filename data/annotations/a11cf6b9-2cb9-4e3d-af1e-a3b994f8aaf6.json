@@ -553,26 +553,30 @@
       "uuid": "2658dd04-3537-4ba9-a8f2-7c48195187ee"
     },
     {
-      "start_time": 1294,
-      "end_time": 1328,
+      "start_time": 1291,
+      "end_time": 1327,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: What about the larger international reaction, not just the potential, for Russia and China to use this as a sort of prerogative to, be more aggressive in their own. neighborhoods, if that’s even possible. But, the American relationship with our allies, do, has this moment you think further strained America’s relationship with its allies, is there a possibility at all for cooperation with American allies in Venezuela? not just allies in Europe, but also allies in, in Latin America?"
+              "text": "What about the larger international reaction, not just the potential, for Russia and China to use this as a sort of prerogative to, be more aggressive in their own. neighborhoods, if that’s even possible. But, the American relationship with our allies, do, has this moment you think further strained America’s relationship with its allies, is there a possibility at all for cooperation with American allies in Venezuela? not just allies in Europe, but also allies in, in Latin America?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "International Organizations"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
         }
       ],
       "uuid": "5353cfcb-ba3c-404b-b4cd-80a6259a2fea"
