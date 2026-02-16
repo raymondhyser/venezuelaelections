@@ -1105,12 +1105,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: That makes, perfect sense. so say more s Steve about what you are proposing for history standards, what you are seeking to, to do, to correct the partisanship and the bias that you see. harming our discussion"
+              "text": "That makes, perfect sense. so say more s Steve about what you are proposing for history standards, what you are seeking to, to do, to correct the partisanship and the bias that you see. harming our discussion"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9724cb3b-9846-4fec-9e96-091f835124ce"
     },
     {
