@@ -1441,14 +1441,14 @@
       "uuid": "ccf6ddc1-c1af-4fd8-9208-db7562d6a310"
     },
     {
-      "start_time": 1707,
+      "start_time": 1704,
       "end_time": 1740,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: What about maybe the critics from the other side who might say that, civics education that focuses on politics or political actors or on the sort of key, political or military moments in American history? Misses a large chunk of the American population who, who aren’t included in many of those, traditional narratives of American politics. I guess this is the question of diversity. Where does diversity or diversity, equity and inclusion fit into this teaching of civics?"
+              "text": "What about maybe the critics from the other side who might say that, civics education that focuses on politics or political actors or on the sort of key, political or military moments in American history? Misses a large chunk of the American population who, who aren’t included in many of those, traditional narratives of American politics. I guess this is the question of diversity. Where does diversity or diversity, equity and inclusion fit into this teaching of civics?"
             }
           ]
         }
@@ -1461,6 +1461,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "80a2ac3e-1a13-40c0-a005-d8137748164c"
