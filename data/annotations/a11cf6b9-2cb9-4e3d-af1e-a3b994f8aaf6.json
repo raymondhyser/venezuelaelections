@@ -723,19 +723,23 @@
       "uuid": "7ed3f35b-84a3-49d3-9747-68bdd56e503c"
     },
     {
-      "start_time": 1603,
+      "start_time": 1593,
       "end_time": 1617,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: So, so where do we go from here? Kurt? What do you expect to see? fortunately for us, you’re not just a historian, I’m a historian. Zachary is a historian to some extent. You, you are a political scientist, so you’re supposed to know the future as well. So where do you see things going, Kurt?"
+              "text": "So, so where do we go from here? Kurt? What do you expect to see? fortunately for us, you’re not just a historian, I’m a historian. Zachary is a historian to some extent. You, you are a political scientist, so you’re supposed to know the future as well. So where do you see things going, Kurt?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
