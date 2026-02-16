@@ -1779,19 +1779,23 @@
       "uuid": "420d8f69-ecf6-4c58-acbf-065c1aaa428e"
     },
     {
-      "start_time": 2253,
-      "end_time": 2277,
+      "start_time": 2250,
+      "end_time": 2274,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yeah. it’s really interesting. what, you say, Zachary? I’ve been struck, our, daughter, Natalie, is teaching in fifth grade in, San Antonio now through, teach for America, and they give almost no time to history or what they call social studies. It’s, all math and science. I think this is part of the problem too, Steve, isn’t it? That there’s just not. Actual attention in the classroom to history for a sufficient amount of time and space."
+              "text": "Yeah. It’s really interesting. What, you say, Zachary? I’ve been struck, our daughter, Natalie, is teaching in fifth grade in San Antonio now through Teach for America, and they give almost no time to history or what they call social studies. It’s all math and science. I think this is part of the problem, too, Steve, isn’t it? That there’s just not. Actual attention in the classroom to history for a sufficient amount of time and space."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
