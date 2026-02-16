@@ -181,19 +181,24 @@
       "uuid": "b8a83cf0-1b81-49f5-b34f-3390193c712e"
     },
     {
-      "start_time": 130,
+      "start_time": 129,
       "end_time": 156,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah. So this is a section from, uh, can Socialists Be Happy, uh, by George Orwell. It was an SA published in 1943, I believe, in the left wing British newspaper. Um, the New Statesman. Um, and, uh, this to me is an essay that I’ve been coming back to a lot, uh, the last few months. I found myself reading a George Orwell essay pretty much every night before I go to bed. Um, I think,"
+              "text": "Yeah. So this is a section from, uh, can Socialists Be Happy, uh, by George Orwell. It was an SA published in 1943, I believe, in the left wing British newspaper. Um, the New Statesman. Um, and, uh, this to me is an essay that I’ve been coming back to a lot, uh, the last few months. I found myself reading a George Orwell essay pretty much every night before I go to bed. Um, I think,"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9cdc36ad-90f7-430a-bd38-7d965e547885"
     },
     {
