@@ -434,12 +434,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: yes."
+              "text": "Yes."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8c7d6952-e584-4860-a9dc-cca27d1f461b"
     },
     {
