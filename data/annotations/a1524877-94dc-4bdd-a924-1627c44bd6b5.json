@@ -121,12 +121,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: It’s nice to be back, back at work, isn’t it?"
+              "text": "It’s nice to be back, back at work, isn’t it?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "ffb531c3-d830-4287-ae38-08394b3d2908"
     },
     {
