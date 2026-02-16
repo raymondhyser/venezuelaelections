@@ -484,30 +484,22 @@
       "uuid": "fae7cbc0-959d-4cca-9bf5-311c018464d8"
     },
     {
-      "start_time": 660,
+      "start_time": 659,
       "end_time": 746,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Right. Right. And, and those who don’t know his history, it’s worth just stating Orwell had been involved in the, uh, fight against fascism in Spain. And became deeply disillusioned with the socialists who were in many ways leading the anti-fascist fight for becoming, uh, in their own partisan work, a tyranny of their own against the tyranny, the horrible tyranny.\n\nThey were, they were fighting. I, I think there were examples maybe to help us, uh, from this year describe what humanity in response to inhumanity is. There were examples we saw of this one that certainly moved me and I think moved you even more, Zachary. Was the experience of, uh, the hostages, uh, hostages in, um, Israel, uh, Israelis who had been taken hostage brutally by Hamas.\n\nUh, some of them held hostage for more than two years. Uh, and the release of those high hostages, uh, in many ways, uh. Their experiences once released. Um, I know you had the opportunity to talk to a few of these former hostages yourself, Zachary. My impression is that they, after being released from this nightmare-ish horror that I cannot even imagine, um, it’s not that they.\n\nWanted to forgive Hamas. They certainly didn’t. Uh, there’s nothing that says we have to forgive the people who do horrible things to us, but they also, it seems to me, became voices against more violence and voices for peace. Is is that right?"
+              "text": "Right. Right. And, and those who don’t know his history, it’s worth just stating Orwell had been involved in the, uh, fight against fascism in Spain. And became deeply disillusioned with the socialists who were in many ways leading the anti-fascist fight for becoming, uh, in their own partisan work, a tyranny of their own against the tyranny, the horrible tyranny.\n\nThey were, they were fighting. I, I think there were examples maybe to help us, uh, from this year describe what humanity in response to inhumanity is. There were examples we saw of this one that certainly moved me and I think moved you even more, Zachary. Was the experience of, uh, the hostages, uh, hostages in, um, Israel, uh, Israelis who had been taken hostage brutally by Hamas.\n\nUh, some of them held hostage for more than two years. Uh, and the release of those high hostages, uh, in many ways, uh. Their experiences once released. Um, I know you had the opportunity to talk to a few of these former hostages yourself, Zachary. My impression is that they, after being released from this nightmare-ish horror that I cannot even imagine, um, it’s not that they.\n\nWanted to forgive Hamas. They certainly didn’t. Uh, there’s nothing that says we have to forgive the people who do horrible things to us, but they also, it seems to me, became voices against more violence and voices for peace. Is is that right?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Political Violence"
-        },
-        {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
-        },
-        {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Authoritarianism"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
@@ -515,7 +507,19 @@
         },
         {
           "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "485cd3ff-525f-4410-a255-55f1c9d57d45"
