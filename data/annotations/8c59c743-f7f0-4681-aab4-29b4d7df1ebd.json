@@ -1577,12 +1577,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Let’s help teachers to do this."
+              "text": "Let’s help teachers to do this."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "0fd8704b-500e-471c-9384-40e3aaa6d7c6"
     },
     {
