@@ -710,19 +710,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Steve, how do we determine what are the key texts and key topics that students should learn? This seems to be one of the points of debate even within the circle of those of us who believe in a backward looking, historical way of thinking about civics. What role should slavery play as often? a controversial issue. where should we bring in the role of. Certain figures who are maybe controversial, am Malcolm X, for example. So how do we think about that?"
+              "text": "Steve, how do we determine what are the key texts and key topics that students should learn? This seems to be one of the points of debate even within the circle of those of us who believe in a backward looking, historical way of thinking about civics. What role should slavery play as often? a controversial issue. where should we bring in the role of. Certain figures who are maybe controversial, am Malcolm X, for example. So how do we think about that?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Inequality"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
         }
       ],
       "uuid": "2a5e8b59-df9f-4797-a513-9e5286299867"
