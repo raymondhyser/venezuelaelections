@@ -1442,7 +1442,7 @@
     },
     {
       "start_time": 1704,
-      "end_time": 1740,
+      "end_time": 1737,
       "annotation": [
         {
           "type": "paragraph",
@@ -1455,16 +1455,16 @@
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Inequality"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
         },
         {
-          "tag": "Zachary Suri",
-          "category": "Speakers"
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
         }
       ],
       "uuid": "80a2ac3e-1a13-40c0-a005-d8137748164c"
