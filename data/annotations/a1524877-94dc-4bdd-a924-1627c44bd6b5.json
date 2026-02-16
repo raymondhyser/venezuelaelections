@@ -1335,19 +1335,23 @@
       "uuid": "0b98efb5-3243-4163-925b-a6f4746ab268"
     },
     {
-      "start_time": 1681,
+      "start_time": 1680,
       "end_time": 1692,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: And I think, I think part of it is, is a willingness and an, and an openness. To talking to other people, but also just a basic recognition that whether we like it or not, you know, we are in the same room.\n\nYes. We have to get along."
+              "text": "And I think, I think part of it is, is a willingness and an, and an openness. To talking to other people, but also just a basic recognition that whether we like it or not, you know, we are in the same room. Yes. We have to get along."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
