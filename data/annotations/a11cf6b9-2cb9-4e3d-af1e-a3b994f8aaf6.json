@@ -815,19 +815,23 @@
       "uuid": "53c25160-5669-4fa9-aa3a-048d5d7e149c"
     },
     {
-      "start_time": 1777,
+      "start_time": 1767,
       "end_time": 1817,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Right, right. What, what, we certainly see that there are high risks, but that we don’t know, what will happen, in, in, in closing, Zachary, I want to turn to you as one of many young people in the United States watching all of this unfold. How do you see your generation of Americans, responding to this, responding to what looks so different, at least from the rhetoric of American foreign policy for so long, the rhetoric of open markets and, freedom and democracy.\n\ndoes this, does this contradict that or does this look like more hip hop, more, more of the same hypocrisy? How, how are people viewing this?"
+              "text": "Right, right. What, what, we certainly see that there are high risks, but that we don’t know, what will happen, in, in, in closing, Zachary, I want to turn to you as one of many young people in the United States watching all of this unfold. How do you see your generation of Americans, responding to this, responding to what looks so different, at least from the rhetoric of American foreign policy for so long, the rhetoric of open markets and, freedom and democracy.\n\ndoes this, does this contradict that or does this look like more hip hop, more, more of the same hypocrisy? How, how are people viewing this?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
