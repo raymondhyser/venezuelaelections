@@ -1055,12 +1055,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: right?"
+              "text": "Right?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "64112a00-9232-4b8f-8eef-8eaa28123568"
     },
     {
