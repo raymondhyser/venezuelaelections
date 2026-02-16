@@ -1119,19 +1119,27 @@
       "uuid": "77f814f8-7b07-42eb-a72a-8b6b8f0419cd"
     },
     {
-      "start_time": 1456,
+      "start_time": 1455,
       "end_time": 1493,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Well, that’s not an easy question to answer, but I think that, um, you know, the kinds of conversations that. That people are able to, to have in this model, um, don’t happen by, you know, insisting or artificially, uh, looking for V viewpoint diversity.\n\nI think they happen with a sort of willingness to actually be frank and honest. Yes. And to, to be offended, but not, not see that as grounds for shutting down discussion. It’s a willingness to, it’s a willingness to be open. To other viewpoints that you might even find grossly offensive. It’s a willingness to listen to ’em at the very least."
+              "text": "Well, that’s not an easy question to answer, but I think that, um, you know, the kinds of conversations that. That people are able to, to have in this model, um, don’t happen by, you know, insisting or artificially, uh, looking for V viewpoint diversity. I think they happen with a sort of willingness to actually be frank and honest. Yes. And to, to be offended, but not, not see that as grounds for shutting down discussion. It’s a willingness to, it’s a willingness to be open. To other viewpoints that you might even find grossly offensive. It’s a willingness to listen to ’em at the very least."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
@@ -1139,10 +1147,6 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Free Speech"
-        },
-        {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Citizenship and Belonging"
         }
       ],
       "uuid": "c956b6b6-4fce-4675-a895-32d9f80890bf"
