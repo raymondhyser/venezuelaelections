@@ -353,12 +353,16 @@
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Corruption"
+          "category": "Speakers",
+          "tag": "Michael Kimmage"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
         }
       ],
       "uuid": "f62118a4-609d-4f6b-b1d3-1d0c30ac045a"
