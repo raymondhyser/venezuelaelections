@@ -413,12 +413,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: And this is not a challenge of just the mid 19th century. Of course. It’s a challenge for our own time."
+              "text": "And this is not a challenge of just the mid 19th century. Of course. It’s a challenge for our own time."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "ac445cce-f331-4755-ad69-30bd1c657c79"
     },
     {
