@@ -105,7 +105,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Michael Kimmage"
+        }
+      ],
       "uuid": "4fb9b3d1-c991-4668-a17e-25f2511be87f"
     },
     {
