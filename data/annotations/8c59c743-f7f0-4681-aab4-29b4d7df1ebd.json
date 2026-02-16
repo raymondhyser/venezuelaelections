@@ -455,12 +455,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: And I think we often don’t think about civics education as really an effort to confront the changes that we’re going through and try to make sense of them collectively."
+              "text": "And I think we often don’t think about civics education as really an effort to confront the changes that we’re going through and try to make sense of them collectively."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
