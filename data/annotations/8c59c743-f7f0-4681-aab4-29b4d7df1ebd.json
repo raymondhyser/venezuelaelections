@@ -1612,19 +1612,23 @@
       "uuid": "3bc1ea2c-e6d6-4ab7-8c79-60854d97c6fa"
     },
     {
-      "start_time": 1866,
-      "end_time": 1911,
+      "start_time": 1863,
+      "end_time": 1908,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: these debates will show our students that we’re not the first generation to ever debate justice or equity or the limits of rights. These are ongoing conversations. And I think it would be really helpful to our students who are often blind to previous debates to understand that they’re coming in pretty late to the dinner party and that the dinner party’s already been going on, and you’re joining in a conversation that is more than two centuries old."
+              "text": "These debates will show our students that we’re not the first generation to ever debate justice or equity or the limits of rights. These are ongoing conversations. And I think it would be really helpful to our students who are often blind to previous debates to understand that they’re coming in pretty late to the dinner party and that the dinner party’s already been going on, and you’re joining in a conversation that is more than two centuries old."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
