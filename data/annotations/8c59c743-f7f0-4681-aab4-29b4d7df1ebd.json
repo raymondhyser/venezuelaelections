@@ -1804,19 +1804,23 @@
       "uuid": "2639c864-4c11-4ec3-903c-972caa764f01"
     },
     {
-      "start_time": 2277,
-      "end_time": 2312,
+      "start_time": 2274,
+      "end_time": 2309,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Absolutely. I totally agree with that. I would add something else. our own department, which is very typical of history departments nationwide, does not offer specific classes to teachers or future teachers about how to teach history in their classrooms. And that’s a big loss. What we’re good at, above all are anecdotes and stories. We know how to bring history to life, right?"
+              "text": "Absolutely. I totally agree with that. I would add something else. Our own department, which is very typical of history departments nationwide, does not offer specific classes to teachers or future teachers about how to teach history in their classrooms. And that’s a big loss. What we’re good at, above all, are anecdotes and stories. We know how to bring history to life, right?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
