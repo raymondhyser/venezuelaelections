@@ -593,12 +593,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Sorry. Oh, lemme rephrase the question. did I say physics? Okay."
+              "text": "Sorry. Oh, lemme rephrase the question. did I say physics? Okay."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "dff5ace8-113c-439b-a315-2327adb47fbe"
     },
     {
