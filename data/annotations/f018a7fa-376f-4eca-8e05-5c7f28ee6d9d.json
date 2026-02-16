@@ -588,7 +588,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9c7d9bdd-cd9f-4340-8f73-d6c8dfeb4bd7"
     },
     {
