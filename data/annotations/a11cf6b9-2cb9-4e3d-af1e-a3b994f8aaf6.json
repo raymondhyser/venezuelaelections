@@ -503,26 +503,30 @@
       "uuid": "2d0f8dbb-8da9-4230-be7f-2c4051edbe03"
     },
     {
-      "start_time": 1267,
+      "start_time": 1264,
       "end_time": 1291,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: Yeah, no, of course. I mean, that is the big tragedy in all of this, that the Venezuelan people have suffered an unprecedented catastrophe and who are yearning for some kind of turnaround, and who had the courage to vote? You know, two thirds against the dictator in rigged elections in 2024, still will have to wait for, you know, a significant new start."
+              "text": "Yeah, no, of course. I mean, that is the big tragedy in all of this, that the Venezuelan people have suffered an unprecedented catastrophe and who are yearning for some kind of turnaround, and who had the courage to vote? You know, two thirds against the dictator in rigged elections in 2024, still will have to wait for, you know, a significant new start."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "48c90063-feb1-44d9-a283-bc76e7b812e7"
