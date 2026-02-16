@@ -871,26 +871,30 @@
       "uuid": "4df6e660-8b38-4464-a96a-e2775a1788af"
     },
     {
-      "start_time": 969,
+      "start_time": 968,
       "end_time": 996,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: uh, is, is so startling. Um, and I, I, I do think, um, in a very different context, that’s what Orwell does so well in his, and in all of his essays.\n\nIt’s, I think what makes his writing powerful to me right now, or what speaks to me about it. I mean, his most famous essay probably Shooting an Elephant, he describes basically the entire network or reality of. Imperialism, British, uh, British imperialism in Southeast Asia simply by one personal experience he had as a police officer.\n\nAnd it’s, it’s,"
+              "text": "Uh, is, is so startling. Um, and I, I, I do think, um, in a very different context, that’s what Orwell does so well in his, and in all of his essays. It’s, I think what makes his writing powerful to me right now, or what speaks to me about it. I mean, his most famous essay probably Shooting an Elephant, he describes basically the entire network or reality of. Imperialism, British, uh, British imperialism in Southeast Asia simply by one personal experience he had as a police officer.\n\nAnd it’s, it’s,"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Authoritarianism"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "9cd7d99c-cc77-4a95-88eb-d09a159f61b1"
