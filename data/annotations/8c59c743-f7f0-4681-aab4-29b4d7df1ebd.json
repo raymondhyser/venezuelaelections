@@ -480,12 +480,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yes. Yes. I, that’s so beautifully said. Steve, and I love the Matthew Arnold, reference. why then I, is this so hard for us today? it, it seems as if we’re caught up in, not just discussions of civics and history, education, but discussions about how to talk about that. why has it become so hard for us?"
+              "text": "Yes. Yes. I, that’s so beautifully said. Steve, and I love the Matthew Arnold, reference. why then I, is this so hard for us today? it, it seems as if we’re caught up in, not just discussions of civics and history, education, but discussions about how to talk about that. why has it become so hard for us?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "eee7a446-8487-4619-9f59-4a179a9a0bc7"
     },
     {
