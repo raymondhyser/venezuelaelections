@@ -1871,19 +1871,23 @@
       "uuid": "eac0fcbc-ce2f-4a3d-aab3-7afd8d2f874c"
     },
     {
-      "start_time": 2353,
-      "end_time": 2398,
+      "start_time": 2350,
+      "end_time": 2395,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: this is something that both you and I and many of our colleagues participate in through, groups like the Gilda Lehrman Institute, humanities, Texas, other humanities councils around the country where teachers and historians come together. To discuss exactly these issues. And, I think where we are most helpful as historians, as you said, Steve, is sharing anecdotes and sharing primary sources that can be used, in this context to close us out, at least for the, for this discussion today. Steve, what should non-teachers who care about and non-pro professors who care about these issues, what should they do? What should ordinary citizens be doing right now? if they care about history as we do, how can they get involved? How can they, help you in your efforts?"
+              "text": "This is something that both you and I and many of our colleagues participate in through, groups like the Gilda Lehrman Institute, humanities, Texas, other humanities councils around the country where teachers and historians come together. To discuss exactly these issues. And, I think where we are most helpful as historians, as you said, Steve, is sharing anecdotes and sharing primary sources that can be used, in this context to close us out, at least for the, for this discussion today. Steve, what should non-teachers who care about and non-pro professors who care about these issues, what should they do? What should ordinary citizens be doing right now? if they care about history as we do, how can they get involved? How can they, help you in your efforts?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
