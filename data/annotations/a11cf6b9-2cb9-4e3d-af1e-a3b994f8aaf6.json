@@ -690,19 +690,23 @@
       "uuid": "d615c7c4-fdf8-456b-a917-adb629590a63"
     },
     {
-      "start_time": 1531,
+      "start_time": 1519,
       "end_time": 1603,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: Definitely. You think of you know, the European Union Agreement that had been lingering and languishing and being in the, in negotiation for 25 years and it just couldn’t break the resistance and deadlock and whatever. And I think the reason why that finally got signed is. You know, kind of if you wish, some sort of soft balancing against the United States, so you, you know, that would be an instance of that.\n\nInland America. I haven’t seen any, I don’t know, like coordination, I don’t know what you would wanna call it. Alliance formation, partly because of course the ideological divisions. So you mentioned Argentina. You know, millet. Millet was bailed out by Trump a few months ago. He’s not going to oppose what Donald Trump, did in Venezuela.\n\nHe’s ideologically happy that Donald Trump put it out, Maduro. And so, you know, given that a number of Latin American countries. governed by right-wing leaders who are ideologically have affinity with or alignment with Donald Trump. I think that is one big obstacle to any really coordinated Latin American response."
+              "text": "Definitely. You think of you know, the European Union Agreement that had been lingering and languishing and being in the, in negotiation for 25 years and it just couldn’t break the resistance and deadlock and whatever. And I think the reason why that finally got signed is. You know, kind of if you wish, some sort of soft balancing against the United States, so you, you know, that would be an instance of that.\n\nInland America. I haven’t seen any, I don’t know, like coordination, I don’t know what you would wanna call it. Alliance formation, partly because of course the ideological divisions. So you mentioned Argentina. You know, millet. Millet was bailed out by Trump a few months ago. He’s not going to oppose what Donald Trump, did in Venezuela.\n\nHe’s ideologically happy that Donald Trump put it out, Maduro. And so, you know, given that a number of Latin American countries. governed by right-wing leaders who are ideologically have affinity with or alignment with Donald Trump. I think that is one big obstacle to any really coordinated Latin American response."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "International Organizations"
