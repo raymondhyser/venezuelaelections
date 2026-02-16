@@ -1641,19 +1641,24 @@
       "uuid": "240c5c44-afdc-4494-ad74-ffe175cfa42f"
     },
     {
-      "start_time": 1911,
-      "end_time": 1929,
+      "start_time": 1908,
+      "end_time": 1926,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: again, spoken like a great historian. you’ve given us so much. Steve, before we finish, I, can’t help but ask you about technology. I think we need to talk about technology a little bit, especially because you’ve been such a pioneer. What role should technology play, in this discussion?"
+              "text": "Again, spoken like a great historian. You’ve given us so much. Steve, before we finish, I can’t help but ask you about technology. I think we need to talk about technology a little bit, especially because you’ve been such a pioneer. What role should technology play in this discussion?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "a80bacc3-c726-4631-9813-43f4e0c37bf9"
     },
     {
