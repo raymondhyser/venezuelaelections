@@ -1520,7 +1520,7 @@
       "uuid": "270bd25c-af0f-41eb-9944-e9141a4e7fb1"
     },
     {
-      "start_time": 1831,
+      "start_time": 1828,
       "end_time": 1861,
       "annotation": [
         {
@@ -1533,6 +1533,10 @@
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
