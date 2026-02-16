@@ -84,26 +84,30 @@
       "uuid": "630d13e4-2d48-45df-813d-09693fcc20ec"
     },
     {
-      "start_time": 145,
+      "start_time": 146,
       "end_time": 156,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: Yes, there was really a surprise this intervention and the situation is so fluid that, you know, we have to pay attention every day to what new things are happening. So a lot of interest in that topic."
+              "text": "Yes, there was really a surprise this intervention and the situation is so fluid that, you know, we have to pay attention every day to what new things are happening. So a lot of interest in that topic."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Structural Drivers of Conflict"
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
         },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
         }
       ],
       "uuid": "90aef065-b439-4c91-b4ba-49108c91a04b"
