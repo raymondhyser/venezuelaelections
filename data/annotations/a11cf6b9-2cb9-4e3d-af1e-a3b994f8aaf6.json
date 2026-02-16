@@ -640,14 +640,14 @@
       "uuid": "51b6cb4f-83c6-4e4b-a557-aba8a461d79b"
     },
     {
-      "start_time": 1479,
+      "start_time": 1470,
       "end_time": 1499,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt: You see the two facets again, you see the realist thing. You know, other countries are intimidated by American power and you see the idealists streak. This. The United States chose a target that deserved its punishment. You see exactly that. Again, those two facets of kind of realist, power assertion, and idealists going after the bad guys, sorry to."
+              "text": "You see the two facets again, you see the realist thing. You know, other countries are intimidated by American power and you see the idealists streak. This. The United States chose a target that deserved its punishment. You see exactly that. Again, those two facets of kind of realist, power assertion, and idealists going after the bad guys, sorry to."
             }
           ]
         }
@@ -656,6 +656,10 @@
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
         }
       ],
       "uuid": "8593ad1d-952a-454f-8a1b-ee430c9b3cfe"
