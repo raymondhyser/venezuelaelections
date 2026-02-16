@@ -787,19 +787,24 @@
       "uuid": "d6d8eacd-627d-457a-a484-42bf12610979"
     },
     {
-      "start_time": 942,
+      "start_time": 941,
       "end_time": 962,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: But also just I think, uh, the complexity of what it, what it means to be a human being in the course of these, uh, world events. And I mean, one thing that that struck me speaking with former hostages is the, their description of how difficult it was to organize themselves or to speak and get along with others.\n\nYes. And such other hostages and such."
+              "text": "Right. But also just I think, uh, the complexity of what it, what it means to be a human being in the course of these, uh, world events. And I mean, one thing that that struck me speaking with former hostages is the, their description of how difficult it was to organize themselves or to speak and get along with others. Yes. And such other hostages and such."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9f4b5f30-4b72-495f-90cd-fc60e6c102a7"
     },
     {
