@@ -296,12 +296,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: The role that, that we play, not just relying on the image of the founders but are recreating and remaking their work every day. Yes. Steve, I think this is at the center of civics. Your thoughts on the poem."
+              "text": "The role that, that we play, not just relying on the image of the founders but are recreating and remaking their work every day. Yes. Steve, I think this is at the center of civics. Your thoughts on the poem."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "226a4b5e-449e-4766-b99a-eba8da8e363d"
     },
     {
