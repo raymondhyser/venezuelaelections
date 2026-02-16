@@ -1385,12 +1385,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Right. O one would think that would fall under separation of church and state also, Steve?"
+              "text": "Right. One would think that would fall under separation of church and state also, Steve?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "98dae3ca-98d8-4201-af0d-4082d6bd6871"
     },
     {
