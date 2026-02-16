@@ -163,12 +163,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Ooh, Philadelphia. From Above. It makes me think of cream cheese. Zachary."
+              "text": "Ooh, Philadelphia. From Above. It makes me think of cream cheese. Zachary."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "e44b9436-2d28-4f1a-968f-cf7946d04469"
     },
     {
