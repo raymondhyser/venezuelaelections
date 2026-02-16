@@ -209,12 +209,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: I hope everyone does that. Yeah, I think his normal behavior."
+              "text": "I hope everyone does that. Yeah, I think his normal behavior."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "3999a3e7-8ccc-43b8-9292-1c2e13cbbc94"
     },
     {
