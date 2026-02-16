@@ -641,19 +641,24 @@
       "uuid": "b01bc5c1-8527-48d5-a263-d77bd95036a3"
     },
     {
-      "start_time": 863,
+      "start_time": 861,
       "end_time": 864,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: I’m thinking of people"
+              "text": "I’m thinking of people"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "4fe20d33-daf4-4a0a-ac9e-27fc7a9e7d28"
     },
     {
