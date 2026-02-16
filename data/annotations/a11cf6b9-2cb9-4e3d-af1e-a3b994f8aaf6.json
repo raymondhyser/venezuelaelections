@@ -611,26 +611,30 @@
       "uuid": "8f36b84a-311c-4dc0-89b6-3a507315c507"
     },
     {
-      "start_time": 1461,
+      "start_time": 1459,
       "end_time": 1479,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Of course, I mean, this is the challenge, right? That one can be, very angry about the US intervention if you’re sitting in, in Brasilia, but you don’t wanna look like you’re defending Maduro. That that’s the, that’s the challenge. Do you see the other, sorry, Craig, go ahead. I."
+              "text": "Of course, I mean, this is the challenge, right? That one can be, very angry about the US intervention if you’re sitting in, in Brasilia, but you don’t wanna look like you’re defending Maduro. That that’s the, that’s the challenge. Do you see the other, sorry, Craig, go ahead. I."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Authoritarianism"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "51b6cb4f-83c6-4e4b-a557-aba8a461d79b"
