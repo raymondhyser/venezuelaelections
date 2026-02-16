@@ -59,7 +59,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "4024e402-40e6-4f89-b708-1016dd7499e3"
     },
     {
