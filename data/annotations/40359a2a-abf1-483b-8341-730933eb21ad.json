@@ -724,12 +724,16 @@
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Economic Power"
+          "category": "Speakers",
+          "tag": "Michael Kimmage"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
         }
       ],
       "uuid": "eec84996-0e12-4e65-85e3-aaf1a1a9fe68"
