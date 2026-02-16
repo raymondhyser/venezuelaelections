@@ -478,19 +478,23 @@
       "uuid": "172623b3-8dfa-44a5-879c-489b87051fcd"
     },
     {
-      "start_time": 1264,
-      "end_time": 1267,
+      "start_time": 1261,
+      "end_time": 1264,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Right. And the Venezuelan people, it seems."
+              "text": "Right. And the Venezuelan people, it seems."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
