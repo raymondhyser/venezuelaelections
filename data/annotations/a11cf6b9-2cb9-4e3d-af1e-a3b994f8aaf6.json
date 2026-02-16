@@ -362,19 +362,23 @@
       "uuid": "feb1cc9d-b9ff-4fe8-b5b1-d88a1262ab0d"
     },
     {
-      "start_time": 812,
+      "start_time": 811,
       "end_time": 857,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: That’s what’s striking to me, Kurt, that this has been certainly a change in the. President of of Venezuela, the Vice President Del c Rodriguez has has taken over at least as interim president, but it doesn’t seem like much else has changed yet. At the same time, president Trump is claiming that he’s running the country from the United States claiming that oil will come to the United States yet.\n\nThere has been no new investment in oil infrastructure, no commitments of investment. and of course one of the problems in Venezuela is not simply, who’s in charge. It’s that the infrastructure to extract the oil is so decrepit that, that, that’s also kind of shut, shut itself down. So what has changed, if anything?"
+              "text": "That’s what’s striking to me, Kurt, that this has been certainly a change in the. President of of Venezuela, the Vice President Del c Rodriguez has has taken over at least as interim president, but it doesn’t seem like much else has changed yet. At the same time, president Trump is claiming that he’s running the country from the United States claiming that oil will come to the United States yet.\n\nThere has been no new investment in oil infrastructure, no commitments of investment. and of course one of the problems in Venezuela is not simply, who’s in charge. It’s that the infrastructure to extract the oil is so decrepit that, that, that’s also kind of shut, shut itself down. So what has changed, if anything?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
