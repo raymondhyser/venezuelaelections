@@ -984,12 +984,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: There is deep distrust. And there’s distrust on both sides. It’s not all on one party or the other. There is an unwillingness to accept a basic premise, which is that both sides want students to have a rigorous, substantive foundational education. No side here is talking about. Relevance for relevance sake or teaching current events. Both sides want a serious, historically grounded education for our students, but there is grave doubt on both sides that the other side really believes that."
+              "text": "There is deep distrust. And there’s distrust on both sides. It’s not all on one party or the other. There is an unwillingness to accept a basic premise, which is that both sides want students to have a rigorous, substantive foundational education. No side here is talking about. Relevance for relevance sake or teaching current events. Both sides want a serious, historically grounded education for our students, but there is grave doubt on both sides that the other side really believes that."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Risks and Threats"
