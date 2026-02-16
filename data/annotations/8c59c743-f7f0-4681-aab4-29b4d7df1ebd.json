@@ -359,12 +359,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Dover Beach is nominally about the relationship between a man and his lover, but it is really about secularization. It’s about the transformations that are challenging 19th century beliefs. Beliefs in God, beliefs in social stability, modernization, industrialization, massive migration, mobility. All these were upending society. And where do we find meaning?"
+              "text": "Dover Beach is nominally about the relationship between a man and his lover, but it is really about secularization. It’s about the transformations that are challenging 19th century beliefs. Beliefs in God, beliefs in social stability, modernization, industrialization, massive migration, mobility. All these were upending society. And where do we find meaning?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
