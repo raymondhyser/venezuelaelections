@@ -8,23 +8,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Welcome to our new episode of This is Democracy. Today we’re going to focus on Venezuela, one of the, most significant and confusing, I think, crises of our current moment. But a crisis in a region, of longstanding, American intervention and conflict, A crisis in a region that has gone through, extraordinary changes over the last 250 years.\n\nAnd a region where the United States and its relations with Venezuela and other countries have. Always been, not just complicated, but often quite controversial. we are fortunate to be drawn to, this topic, not only because of the prominence that it has in the news, but because we have a colleague who I think is one of the most interesting scholars writing on the region as a whole, who has a lot to share with us today. This is my colleague and friend, professor Kurt Weyland. Kurt, thank you for joining us."
+              "text": "Welcome to our new episode of This is Democracy. Today we’re going to focus on Venezuela, one of the, most significant and confusing, I think, crises of our current moment. But a crisis in a region, of longstanding, American intervention and conflict, A crisis in a region that has gone through, extraordinary changes over the last 250 years.\n\nAnd a region where the United States and its relations with Venezuela and other countries have. Always been, not just complicated, but often quite controversial. we are fortunate to be drawn to, this topic, not only because of the prominence that it has in the news, but because we have a colleague who I think is one of the most interesting scholars writing on the region as a whole, who has a lot to share with us today. This is my colleague and friend, Professor Kurt Weyland. Kurt, thank you for joining us."
             }
           ]
         }
       ],
       "tags": [
         {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
         },
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Structural Drivers of Conflict"
-        },
-        {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
         }
       ],
       "uuid": "e24e60da-a98d-4ca8-8f2e-71e454d898a4"
