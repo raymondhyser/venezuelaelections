@@ -814,12 +814,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yes. Yes. Zachary?"
+              "text": "Yes. Yes. Zachary?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "4f166419-3daa-4cc0-8964-643dda857901"
     },
     {
