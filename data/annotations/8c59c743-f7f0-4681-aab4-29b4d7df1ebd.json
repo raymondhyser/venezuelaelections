@@ -1126,12 +1126,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: under state law, the state board of education is empowered to establish. Essential skills and knowledge that students are to acquire."
+              "text": "Under state law, the state board of education is empowered to establish. Essential skills and knowledge that students are to acquire."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
