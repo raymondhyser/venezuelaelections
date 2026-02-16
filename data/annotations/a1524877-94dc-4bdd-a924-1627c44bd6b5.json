@@ -657,19 +657,24 @@
       "uuid": "4fe20d33-daf4-4a0a-ac9e-27fc7a9e7d28"
     },
     {
-      "start_time": 864,
-      "end_time": 865,
+      "start_time": 863,
+      "end_time": 863,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: and Uvalde."
+              "text": "and Uvalde."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "ce49cc2f-5d6b-4052-abc7-24805f962f73"
     },
     {
