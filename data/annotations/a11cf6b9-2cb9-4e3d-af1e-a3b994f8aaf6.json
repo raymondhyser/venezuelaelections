@@ -113,19 +113,23 @@
       "uuid": "90aef065-b439-4c91-b4ba-49108c91a04b"
     },
     {
-      "start_time": 156,
+      "start_time": 157,
       "end_time": 164,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: It’s extraordinary. As scholars, we need to continue to study the past but also keep up with the present. It gets quite difficult after a while, doesn’t it?"
+              "text": "It’s extraordinary. As scholars, we need to continue to study the past but also keep up with the present. It gets quite difficult after a while, doesn’t it?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
