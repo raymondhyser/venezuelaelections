@@ -1925,19 +1925,24 @@
       "uuid": "6823e561-5bf1-452a-8b0e-6a798aa2d05a"
     },
     {
-      "start_time": 2466,
-      "end_time": 2500,
+      "start_time": 2463,
+      "end_time": 2497,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: That sounds so persuasive and, so compelling. I hope people listen. I hope that is the direction that comments go at school board meetings too often people are arguing, over some political issue, not over. What it seems to me is the meat and potatoes of this, which you just, I think, have highlighted so well. professor Steven Minz, thank you so much for joining us today. Thank you for all of the work you do in this. Area, not just as a historian, but also in some ways as a, as an activist for the di discipline of history. Thank you, Steve."
+              "text": "That sounds so persuasive and so compelling. I hope people listen. I hope that is the direction that comments go at school board meetings, too often people are arguing over some political issue, not over. What it seems to me is the meat and potatoes of this, which you just, I think, have highlighted so well. Professor Steven Minz, thank you so much for joining us today. Thank you for all of the work you do in this. Area, not just as a historian, but also in some ways as a, as an activist for the di discipline of history. Thank you, Steve."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8e76b465-eaf3-4bbc-9391-1b4c0433e111"
     },
     {
