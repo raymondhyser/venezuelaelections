@@ -1850,19 +1850,24 @@
       "uuid": "e1906e6c-a7d0-4382-97e6-828104022580"
     },
     {
-      "start_time": 2312,
-      "end_time": 2353,
+      "start_time": 2309,
+      "end_time": 2350,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Cause we’ve spent a lifetime reading and most teachers have other pressures on them. Apart from that. And working together, I think we could really improve the quality of K-12 history and social studies education, not because we’re gonna be the nce of authority, not because we’re gonna be condescending, but simply sharing what we know. The teachers are the real experts in pedagogy, but we’re experts in facts and stories. And together we could do a great job."
+              "text": "Cause we’ve spent a lifetime reading and most teachers have other pressures on them. Apart from that. And working together, I think we could really improve the quality of K-12 history and social studies education, not because we’re gonna be the nce of authority, not because we’re gonna be condescending, but simply sharing what we know. The teachers are the real experts in pedagogy, but we’re experts in facts and stories. And together we could do a great job."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "eac0fcbc-ce2f-4a3d-aab3-7afd8d2f874c"
     },
     {
