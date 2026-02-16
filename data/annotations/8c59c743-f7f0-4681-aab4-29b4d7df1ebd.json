@@ -1289,12 +1289,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: So the, standard should lay out broad learning objectives, make perhaps suggestions of particular texts that can be used and then leave things to the local teachers to take it from there. Correct."
+              "text": "So the, standard should lay out broad learning objectives, make perhaps suggestions of particular texts that can be used and then leave things to the local teachers to take it from there. Correct."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "2faa7331-9c7e-425e-a687-5314ec9ecb98"
     },
     {
