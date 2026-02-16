@@ -121,12 +121,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: What’s the title of your poem?"
+              "text": "What’s the title of your poem?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "99476992-b4a7-44cd-95a9-5362fbbb1601"
     },
     {
