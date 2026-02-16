@@ -1591,19 +1591,24 @@
       "uuid": "0fd8704b-500e-471c-9384-40e3aaa6d7c6"
     },
     {
-      "start_time": 1865,
-      "end_time": 1866,
+      "start_time": 1862,
+      "end_time": 1863,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Intro: Yes."
+              "text": "Yes."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "3bc1ea2c-e6d6-4ab7-8c79-60854d97c6fa"
     },
     {
