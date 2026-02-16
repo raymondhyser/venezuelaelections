@@ -685,12 +685,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: To give students a richer sense of what the world was like in the past, but if we teach history that way, we lose out on a huge opportunity. What lessons does the past have for the present? Not simple-minded lessons, but complex lessons, intricate lessons that help us to better cope with the issues of our own time. I."
+              "text": "To give students a richer sense of what the world was like in the past, but if we teach history that way, we lose out on a huge opportunity. What lessons does the past have for the present? Not simple-minded lessons, but complex lessons, intricate lessons that help us to better cope with the issues of our own time. I."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
