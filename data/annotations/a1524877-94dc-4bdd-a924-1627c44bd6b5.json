@@ -50,12 +50,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yes. New year."
+              "text": "Yes. New year."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "0f627769-02ad-485a-a93c-bfe42e888ce6"
     },
     {
