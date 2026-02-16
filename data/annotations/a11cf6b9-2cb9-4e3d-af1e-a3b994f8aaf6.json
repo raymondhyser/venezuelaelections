@@ -532,19 +532,24 @@
       "uuid": "48c90063-feb1-44d9-a283-bc76e7b812e7"
     },
     {
-      "start_time": 1291,
-      "end_time": 1294,
+      "start_time": 1289,
+      "end_time": 1291,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Yes, Zachary."
+              "text": "Yes, Zachary."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "2658dd04-3537-4ba9-a8f2-7c48195187ee"
     },
     {
