@@ -1222,12 +1222,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Teachers care about students. Teachers care about learning. They have practical experience in what works and what doesn’t, and we need to be willing to rely on them because they have professional judgment and experience."
+              "text": "Teachers care about students. Teachers care about learning. They have practical experience in what works and what doesn’t, and we need to be willing to rely on them because they have professional judgment and experience."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "7e981f10-f3e8-439c-95f5-a3656e90a263"
     },
     {
