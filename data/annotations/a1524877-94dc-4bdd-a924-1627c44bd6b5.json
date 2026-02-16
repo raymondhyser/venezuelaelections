@@ -1447,19 +1447,24 @@
       "uuid": "283fa9d6-fd14-4a00-800c-364c2e464db7"
     },
     {
-      "start_time": 1819,
-      "end_time": 1820,
+      "start_time": 1818,
+      "end_time": 1819,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: complaints"
+              "text": "or complaints"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "6210526f-ea01-4a3b-be19-054444687069"
     },
     {
