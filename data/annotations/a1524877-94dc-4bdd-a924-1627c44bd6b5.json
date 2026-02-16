@@ -907,12 +907,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: and the self-doubt."
+              "text": "and the self-doubt."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "fb9084d7-31c7-4926-a7c4-a1ac9acd63d7"
     },
     {
