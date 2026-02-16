@@ -1946,19 +1946,24 @@
       "uuid": "8e76b465-eaf3-4bbc-9391-1b4c0433e111"
     },
     {
-      "start_time": 2500,
-      "end_time": 2502,
+      "start_time": 2497,
+      "end_time": 2499,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Thank you very much"
+              "text": "Thank you very much"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "0a8b5e8f-013c-46f0-af67-126f6c139ea2"
     },
     {
