@@ -300,26 +300,30 @@
       "uuid": "1ad5d674-773f-4104-97bf-e83643dc5a97"
     },
     {
-      "start_time": 668,
+      "start_time": 666,
       "end_time": 709,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah, I want to ask, I mean clearly with the historical backward of the Monroe Doctrine and the, was a corollary, there was a lot of precedent, within that framework and beyond it for American intervention in Latin America, but. Is there a precedent for the kind of a targeted intervention that we saw, in Venezuela this month?\n\nIs there precedent for this kind of, you know, targeted, arrest or kidnapping, however you wanna see it, of a leader of another country? or is this a sort of unique kind of operation that the United States engaged in?"
+              "text": "Yeah, I want to ask, I mean clearly with the historical backward of the Monroe Doctrine and the, was a corollary, there was a lot of precedent, within that framework and beyond it for American intervention in Latin America, but. Is there a precedent for the kind of a targeted intervention that we saw, in Venezuela this month?\n\nIs there precedent for this kind of, you know, targeted, arrest or kidnapping, however you wanna see it, of a leader of another country? or is this a sort of unique kind of operation that the United States engaged in?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Structural Drivers of Conflict"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
         }
       ],
       "uuid": "ced97dd0-b8e8-4c92-81f7-3dd834d83447"
