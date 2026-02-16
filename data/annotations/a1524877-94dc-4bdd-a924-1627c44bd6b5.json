@@ -1239,30 +1239,34 @@
       "uuid": "b49bee5e-b1c5-485f-bed7-167922ddb101"
     },
     {
-      "start_time": 1645,
+      "start_time": 1644,
       "end_time": 1676,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah. And I think it happens, uh, at its best when you put students in an environment to be around people who are different from them. I think what we’re talking about really is not just forming community or strengthening community like in and of itself, but forming and strengthening heterogeneous community.\n\nHow do you deal with, uh, being in a place, being together? Working towards some common goal, whether that’s education or you know, law enforcement in the case that you mentioned, or you know, teaching in a classroom. How do you work towards a common goal when everyone comes with a very different perspective?"
+              "text": "Yeah. And I think it happens, uh, at its best when you put students in an environment to be around people who are different from them. I think what we’re talking about really is not just forming community or strengthening community like in and of itself, but forming and strengthening heterogeneous community. How do you deal with, uh, being in a place, being together? Working towards some common goal, whether that’s education or you know, law enforcement in the case that you mentioned, or you know, teaching in a classroom. How do you work towards a common goal when everyone comes with a very different perspective?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
         },
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Citizenship and Belonging"
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "409f8a21-855d-4c84-a28d-08494ed9e580"
