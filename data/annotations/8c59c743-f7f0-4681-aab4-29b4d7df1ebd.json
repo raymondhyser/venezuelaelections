@@ -1708,19 +1708,24 @@
       "uuid": "bba69be7-d09a-4e14-bb62-94b09bad13c7"
     },
     {
-      "start_time": 2185,
-      "end_time": 2187,
+      "start_time": 2182,
+      "end_time": 2184,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: Absolutely."
+              "text": "Absolutely."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "22eb59c6-2861-46fe-a611-86e7508de232"
     },
     {
