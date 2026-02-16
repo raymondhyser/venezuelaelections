@@ -246,12 +246,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: I love the, constitutional convention references there. Zachary, what is your poem about?"
+              "text": "I love the Constitutional Convention references there. Zachary, what is your poem about?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "ad6900b1-a3d3-4aca-bffd-7280a5a1a3ce"
     },
     {
