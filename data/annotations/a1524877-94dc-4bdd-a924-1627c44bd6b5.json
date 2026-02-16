@@ -93,19 +93,24 @@
       "uuid": "a5326c37-2bd2-460e-a773-e017e6e53df3"
     },
     {
-      "start_time": 87,
+      "start_time": 86,
       "end_time": 87,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: I did, yes."
+              "text": "I did, yes."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "3877117d-c9e8-4c95-82f8-64f0cd01088a"
     },
     {
