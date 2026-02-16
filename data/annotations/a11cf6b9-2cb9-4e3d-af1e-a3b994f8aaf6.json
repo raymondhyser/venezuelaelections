@@ -844,7 +844,7 @@
       "uuid": "60f47c09-2042-431f-9060-1487aec83bda"
     },
     {
-      "start_time": 1817,
+      "start_time": 1806,
       "end_time": 1886,
       "annotation": [
         {
@@ -858,12 +858,16 @@
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Authoritarianism"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "27cd2160-20d2-4c24-9f63-41719c2e5b60"
