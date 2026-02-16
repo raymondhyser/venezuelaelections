@@ -921,19 +921,24 @@
       "uuid": "fb9084d7-31c7-4926-a7c4-a1ac9acd63d7"
     },
     {
-      "start_time": 998,
+      "start_time": 997,
       "end_time": 1015,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: The self-doubt, right? And also just sort of capturing the emo, the complex emotions that drive someone to make a decision that in hindsight, they regret. I think those are, that, that, that’s I think what a lot of political decisions, a lot of human mistakes, A lot of.\n\nConflict in our world comes down to, and it’s the hardest thing to capture"
+              "text": "The self-doubt, right? And also just sort of capturing the emo, the complex emotions that drive someone to make a decision that in hindsight, they regret. I think those are, that, that, that’s I think what a lot of political decisions, a lot of human mistakes, A lot of. Conflict in our world comes down to, and it’s the hardest thing to capture"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "e41f6cb7-84f9-42a0-ae9f-53d42b6aaab5"
     },
     {
