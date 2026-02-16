@@ -156,19 +156,23 @@
       "uuid": "c1f8deb4-90ab-49f4-af38-950cc6080108"
     },
     {
-      "start_time": 92,
+      "start_time": 91,
       "end_time": 129,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: So, uh, Zachary, you have, um, a snippet from the great George Orwell that you wanna read, and, uh, we are both big fans of Orwell’s work, as are I’m sure many of our listeners. Orwell was a fiction writer, an essayist, a journalist, uh, and, and left a legacy not only of insightful.\n\nAnalysis about society, but also just good quality writing, writing that still speaks to us of the importance of words and how we use our words. So I’m gonna turn it over to you. Tell us maybe a little bit about the passage and uh, then you can go ahead and read it."
+              "text": "So, uh, Zachary, you have, um, a snippet from the great George Orwell that you wanna read, and, uh, we are both big fans of Orwell’s work, as are I’m sure many of our listeners. Orwell was a fiction writer, an essayist, a journalist, uh, and, and left a legacy not only of insightful. Analysis about society, but also just good quality writing, writing that still speaks to us of the importance of words and how we use our words. So I’m gonna turn it over to you. Tell us maybe a little bit about the passage and uh, then you can go ahead and read it."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Free Speech"
