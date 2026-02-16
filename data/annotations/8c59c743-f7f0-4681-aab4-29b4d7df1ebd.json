@@ -1729,14 +1729,14 @@
       "uuid": "22eb59c6-2861-46fe-a611-86e7508de232"
     },
     {
-      "start_time": 2187,
-      "end_time": 2208,
+      "start_time": 2184,
+      "end_time": 2205,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Zachary, how do you think about all this? As someone who’s studying history in college now, and of course has just recently gone through high school history and all the, challenges of that, how do you think about history standards and does what Steve says here, does it resonate with you?"
+              "text": "Zachary, how do you think about all this? As someone who’s studying history in college now, and of course has just recently gone through high school history and all the, challenges of that, how do you think about history standards and does what Steve says here, does it resonate with you?"
             }
           ]
         }
@@ -1745,6 +1745,10 @@
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "9f1c4a68-1078-49e2-8367-c400ce5c9e9d"
