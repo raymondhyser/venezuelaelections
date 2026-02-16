@@ -591,19 +591,23 @@
       "uuid": "694a21f4-b3b7-4043-be03-beb1c1d607b4"
     },
     {
-      "start_time": 853,
+      "start_time": 852,
       "end_time": 861,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah. I think it also reminds me a lot of, some of the activism we’ve seen from students and parents after school shootings in the United States. Yes.\n\nThe parents of Sandy Hook in particular."
+              "text": "Yeah. I think it also reminds me a lot of, some of the activism we’ve seen from students and parents after school shootings in the United States. Yes. The parents of Sandy Hook, in particular."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
