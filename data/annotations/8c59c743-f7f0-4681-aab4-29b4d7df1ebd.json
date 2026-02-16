@@ -1151,12 +1151,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: This is Texas State law you’re talking"
+              "text": "This is Texas State law you’re talking"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "44bf9ae1-fc3d-4f98-b8f9-124e861a1a85"
     },
     {
