@@ -938,6 +938,27 @@
         }
       ],
       "uuid": "7c5be274-7f2b-43a4-bb0d-6cd37267b6f8"
+    },
+    {
+      "start_time": 1921,
+      "end_time": 1937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "2f9a3c97-ceb8-48ef-902a-4ddfad0e8e37"
     }
   ],
   "set": "Default",
