@@ -314,19 +314,24 @@
       "uuid": "e96c49cf-cec9-42d2-85c1-876977ef8180"
     },
     {
-      "start_time": 437,
+      "start_time": 436,
       "end_time": 440,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Right? Justice is the aspiration more than the achievement"
+              "text": "Right? Justice is the aspiration more than the achievement"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "d4bbe2fb-3a3f-4cea-bdc9-01bb94a2cca2"
     },
     {
