@@ -1152,19 +1152,24 @@
       "uuid": "c956b6b6-4fce-4675-a895-32d9f80890bf"
     },
     {
-      "start_time": 1494,
-      "end_time": 1495,
+      "start_time": 1493,
+      "end_time": 1494,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Yeah"
+              "text": "Yeah"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9ef70150-a5a4-4baa-b4ec-a24c02561bea"
     },
     {
