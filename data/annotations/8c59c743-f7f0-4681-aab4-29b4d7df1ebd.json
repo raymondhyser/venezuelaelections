@@ -317,12 +317,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: It reminds me very much of one of the great poems of all time, Matthew Arnolds, Dover Beach."
+              "text": "It reminds me very much of one of the great poems of all time, Matthew Arnolds, Dover Beach."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        }
+      ],
       "uuid": "6476fbdc-5864-4596-af5d-01cb3d63a9de"
     },
     {
