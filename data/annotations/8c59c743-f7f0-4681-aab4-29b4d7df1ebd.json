@@ -1687,19 +1687,24 @@
       "uuid": "a8d93b39-79d1-4599-b675-b685e78b4175"
     },
     {
-      "start_time": 2164,
-      "end_time": 2185,
+      "start_time": 2161,
+      "end_time": 2182,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yes, I, love that. I need to try the Columbus simulator, myself. That sounds fascinating. I love how that makes the history, first of all, more tangible for students, Steve, but it also makes it more fun. it seems to me it’s a real great way to use technology, not to dumb things down, but to meet our audience where it is."
+              "text": "Yes, I love that. I need to try the Columbus simulator myself. That sounds fascinating. I love how that makes the history, first of all, more tangible for students, Steve, but it also makes it more fun. It seems to me it’s a real great way to use technology, not to dumb things down, but to meet our audience where it is."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "bba69be7-d09a-4e14-bb62-94b09bad13c7"
     },
     {
