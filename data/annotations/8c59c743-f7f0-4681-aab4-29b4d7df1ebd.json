@@ -572,12 +572,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Civics. You mean Zachary not physics, right?"
+              "text": "Civics. You mean Zachary not physics, right?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "9fb0da52-a726-4500-a153-d5ff80bff0b2"
     },
     {
