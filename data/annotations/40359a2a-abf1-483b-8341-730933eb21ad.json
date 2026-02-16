@@ -647,7 +647,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "92a85f76-4435-47c2-9787-4b6cdbe91b33"
     },
     {
