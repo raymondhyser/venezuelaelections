@@ -1426,19 +1426,24 @@
       "uuid": "7b49753f-e8d6-4823-b442-a38582fc039a"
     },
     {
-      "start_time": 1807,
+      "start_time": 1806,
       "end_time": 1819,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Yep. Yep. So keep listening to our podcast and listen to others. Keep subscribing to our substack. And, uh, we love when people email us as they often do with suggestions for guests and topics of poor"
+              "text": "Yep. Yep. So keep listening to our podcast and listen to others. Keep subscribing to our substack. And, uh, we love when people email us as they often do with suggestions for guests and topics of poor"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "283fa9d6-fd14-4a00-800c-364c2e464db7"
     },
     {
