@@ -1470,26 +1470,30 @@
       "uuid": "80a2ac3e-1a13-40c0-a005-d8137748164c"
     },
     {
-      "start_time": 1740,
+      "start_time": 1737,
       "end_time": 1823,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: American debates were never exclusively among elite white males. One impact of the American Revolution. One impact that I’m afraid Ken Burns’ documentary does not discuss in sufficient depth is that the revolutionary period created a whole group of black intellectuals who were engaged in the debates of the time the American Revolution created. The first outspoken, what we would call feminist statements about the position of women in society. We shouldn't have a narrow conception of what debates count and what debates don't count. We should include all of the speakers who are part of these debates, which you'll discover. It's no challenge to include diversity in this kind of discussion. The diversities, they're the primary sources are there. it's only a matter of including them inside the courses that we teach."
+              "text": "American debates were never exclusively among elite white males. One impact of the American Revolution. One impact that I’m afraid Ken Burns’ documentary does not discuss in sufficient depth is that the revolutionary period created a whole group of black intellectuals who were engaged in the debates of the time the American Revolution created. The first outspoken, what we would call feminist statements about the position of women in society. We shouldn't have a narrow conception of what debates count and what debates don't count. We should include all of the speakers who are part of these debates, which you'll discover. It's no challenge to include diversity in this kind of discussion. The diversities, they're the primary sources are there. it's only a matter of including them inside the courses that we teach."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Inequality"
+          "category": "Speakers",
+          "tag": "Steven Mintz"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
         }
       ],
       "uuid": "e32201cf-1700-4b16-a7d3-dcb8b0c571fb"
