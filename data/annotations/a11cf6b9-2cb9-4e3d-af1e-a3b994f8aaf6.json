@@ -55,19 +55,23 @@
       "uuid": "26b9ea0a-94e4-4489-945e-d5d5f88ab751"
     },
     {
-      "start_time": 81,
+      "start_time": 82,
       "end_time": 145,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Kurt has been with us before. He is the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin. He’s conducted original research in virtually every place one can go in South America, including Argentina, Bolivia, Brazil, Chile, Costa Rica, Peru, and Venezuela. Professor Weyland is the author of seven books. All of them are worth reading. I’m going just to just name, some of my favorites, making waves, democratic contention in Europe and Latin America, which is really I think, a model of comparative politics, assault on democracy, communism, fascism and authoritarianism during the into war years. And then most recently, I believe, democracies resilience to populisms threat. So, Kurt has a strong background in the history of the region and, the dynamics of democracy, authoritarianism, and intervention, in this region. Kurt, I imagine you’ve been very busy with Venezuela in the news so much these days, yes?"
+              "text": "Kurt has been with us before. He is the Mike Hogg Professor in Liberal Arts at the University of Texas at Austin. He’s conducted original research in virtually every place one can go in South America, including Argentina, Bolivia, Brazil, Chile, Costa Rica, Peru, and Venezuela. Professor Weyland is the author of seven books. All of them are worth reading. I’m going just to just name, some of my favorites, making waves, democratic contention in Europe and Latin America, which is really I think, a model of comparative politics, assault on democracy, communism, fascism and authoritarianism during the into war years. And then most recently, I believe, democracies resilience to populisms threat. So, Kurt has a strong background in the history of the region and, the dynamics of democracy, authoritarianism, and intervention, in this region. Kurt, I imagine you’ve been very busy with Venezuela in the news so much these days, yes?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
