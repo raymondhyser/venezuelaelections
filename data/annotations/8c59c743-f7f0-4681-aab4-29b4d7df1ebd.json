@@ -1499,19 +1499,24 @@
       "uuid": "e32201cf-1700-4b16-a7d3-dcb8b0c571fb"
     },
     {
-      "start_time": 1823,
+      "start_time": 1820,
       "end_time": 1831,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Do you think, Steve, that this has been, a lacuna in the past, is that a fair criticism of past standards?"
+              "text": "Do you think, Steve, that this has been, a lacuna in the past, is that a fair criticism of past standards?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "270bd25c-af0f-41eb-9944-e9141a4e7fb1"
     },
     {
