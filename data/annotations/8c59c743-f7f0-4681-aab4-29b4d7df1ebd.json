@@ -1754,19 +1754,23 @@
       "uuid": "9f1c4a68-1078-49e2-8367-c400ce5c9e9d"
     },
     {
-      "start_time": 2208,
-      "end_time": 2253,
+      "start_time": 2205,
+      "end_time": 2250,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: I think it does. I think one thing that I’ve certainly learned is that a lot of it doesn’t necessarily come down to the standards or the curricula, but it comes down to the teacher in the classroom. And I think part of the problem is that so much of the money and attention and accolades have gone. To those teaching stem, courses, math, economics, science, computer science, engineering, et cetera. And less attention has been paid to building, sustaining, and encouraging, really effective and passionate teachers of civics and history. And I think, so in the same way that, Good teachers at universities and colleges, make all the difference. I think in the same way it’s true at, in, at a high school level and middle school and elementary school."
+              "text": "I think it does. I think one thing that I’ve certainly learned is that a lot of it doesn’t necessarily come down to the standards or the curricula, but it comes down to the teacher in the classroom. And I think part of the problem is that so much of the money and attention and accolades have gone. To those teaching STEM, courses, math, economics, science, computer science, engineering, et cetera. And less attention has been paid to building, sustaining, and encouraging, really effective and passionate teachers of civics and history. And I think, so in the same way that, good teachers at universities and colleges, make all the difference. I think in the same way it’s true at, in, at a high school level and middle school and elementary school."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
