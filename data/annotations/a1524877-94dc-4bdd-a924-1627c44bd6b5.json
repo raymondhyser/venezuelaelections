@@ -438,19 +438,23 @@
       "uuid": "3d4d4c57-ce8d-444d-91f2-1100b914076f"
     },
     {
-      "start_time": 653,
+      "start_time": 652,
       "end_time": 657,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Right. Or replacing one tyranny with another tyranny, which is what he thinks socialism had become in his time."
+              "text": "Right. Or replacing one tyranny with another tyranny, which is what he thinks socialism had become in his time."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
