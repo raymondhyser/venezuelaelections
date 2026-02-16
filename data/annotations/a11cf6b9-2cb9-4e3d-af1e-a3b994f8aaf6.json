@@ -665,19 +665,23 @@
       "uuid": "8593ad1d-952a-454f-8a1b-ee430c9b3cfe"
     },
     {
-      "start_time": 1499,
+      "start_time": 1490,
       "end_time": 1531,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: No, not at all. Now, on this point of realism, do you see, large countries in the region like Brazil, Argentina, Chile, Colombia to some extent, do you see them, In, in a, in a way working closely together to combat US intervention. Now, should we view, for example, Kurt, the, Mer Sour, free trade agreement that was just signed with, Europe as, as an a way of pushing back on the United States."
+              "text": "No, not at all. Now, on this point of realism, do you see, large countries in the region like Brazil, Argentina, Chile, Colombia to some extent, do you see them, In, in a, in a way working closely together to combat US intervention. Now, should we view, for example, Kurt, the, Mer Sour, free trade agreement that was just signed with, Europe as, as an a way of pushing back on the United States."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
