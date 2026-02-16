@@ -1,1 +1,670 @@
-{"annotations":[{"start_time":0,"end_time":20,"annotation":[{"type":"paragraph","children":[{"text":"This Is Democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today's important issues and how to have a voice in what happens next. "}]}],"tags":[{"tag":"Intro","category":"Framing Elements"}],"uuid":"9649f167-f4a2-41a8-b3fe-cad3105582bf"},{"start_time":20,"end_time":87,"annotation":[{"type":"paragraph","children":[{"text":"Hello and welcome to our latest episode of This is Democracy. I'm Zachary Suri, today we will return to a topic we've already discussed many times on the show, the ongoing Russian invasion of Ukraine, but there are a lot of developments to discuss, to say the least, for the first time in more than three years of war in Ukraine, both sides seem to have expressed hope, whether genuine or not, that there might soon be a diplomatic solution to the war. Meanwhile, further fissures seem to be opening in the US European Alliance, and Ukrainian President Zelensky's administration faces a wide-ranging corruption scandal. Joining us to discuss is our good friend Michael Kimmage. Michael is a professor of history at the Catholic University of America and the director of the Kennan Institute from 2014 to 2017 he served on the Secretary's policy planning staff at the US Department of State, where he held the Russia, Ukraine portfolio. His latest book is collisions the war in Ukraine and the origins of the new global instability. Thank you for joining us today, Michael, great to be back with you both. We're also joined as always, by Jeremi Suri."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Governance, Law and Political Structures","tag":"Corruption"}],"uuid":"7d70ab23-d12b-49fc-a1cb-e76d08442f7b"},{"start_time":87,"end_time":90,"annotation":[{"type":"paragraph","children":[{"text":"Hello. Hi, Zachary and Michael. So happy to be with you."}]}],"tags":[],"uuid":"8b351ecf-30cd-4373-9b13-1c8b0429c3b2"},{"start_time":90,"end_time":165,"annotation":[{"type":"paragraph","children":[{"text":"Wonderful. I'd like to begin today with a poem by a Ukrainian author. This is Knife by Lyuba Yakimchuk, translated from Ukrainian by Svetlana Lavochkina. Knife with relatives, we share table and graves with enemies only graves. One such candidate comes to share a grave with me, says to me, I'm bigger than you, I'm harder than you, I'm tougher than you. Sticks knife after knife into my stomach and below, knife after knife. His pressure spring like but he is smaller than us. He is softer than us because he's only got one knife. And there are plenty of us at the table, and each has their own butt and each has their own cut. Says to me, I'm a sharper blade. Cut you. I'm a thicker blade. Cut you. Chip, chop. Chip, chop. The last one is dead. Hold on. They say, hold on. And we hold onto our table from the gun muzzle, we all drink our bullets. We pour our enemy one too. Michael, do you have any reactions to that poem? I think the reason I chose this poem was, I think it sort of gets at the strange, sort of intertwined relationship, the kind of stagnant stalemate last three years, if that makes sense."}]}],"tags":[],"uuid":"24d44b70-3c23-4407-bc66-9c5a82d7ea4f"},{"start_time":165,"end_time":184,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, no, it's just, it's sort of remarkable, and how it takes the idea of a time horizon, which you would imagine is so important for people in the midst of a war, and just, you know, flattens it out and explodes that that sense of a beginning and an end, and being able to peer around the corner. That's a really powerful poem."}]}],"tags":[],"uuid":"4fb9b3d1-c991-4668-a17e-25f2511be87f"},{"start_time":184,"end_time":207,"annotation":[{"type":"paragraph","children":[{"text":"Well, Michael, I wanted to start by asking a question that I think we've touched on a lot in our many discussions on the war in Ukraine, but I think is probably critical to understanding the movement we're in now as you understand it, what do you think Putin needs to end the war, and what does Zelensky and the Ukrainian administration need to bring a peaceful resolution to the conflict? Right?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"3c38306b-3893-434b-b481-87260bbc91cd"},{"start_time":207,"end_time":351,"annotation":[{"type":"paragraph","children":[{"text":"Well, let me start backwards with what on paper is possibly a solution to the to the problem of the war. And I do think that the outlines are becoming visible of something. And this something is territorial concessions that Ukraine will make Crimea, plus some portion of territory in the SouthEast of Ukraine, and a security guarantee that Ukraine will get in return, either from Europe or from Europe, plus the United States. And so you can imagine, again, in theory, sort of seminar style, that if these two ingredients can be combined, you have the recipe, if not for a permanent stable piece, then for some long standing cessation of hostilities. But you know, I emphasize seminar style and on paper or in theory, because even with this formulation, there is the paradox of the war, or the dilemma of the war from the diplomatic side, which is that the very security guarantee that Ukraine would require for an end to the war, and that can't just be some kind of theoretical, you know, hypothetical commitment. It has to be real for it to work. And of course, Ukraine is highly aware of that. They've been sold down the river in the past and 2014 and in 2000 you know, in the in the in the 1990s and we can get into that, if of interest. But they can't be sold down a river. The River yet again, but that very commitment is going to be unacceptable to Russia that the war was fought in the first place. 2022 probably going all the way back to 2014 to break up the relationship between Ukraine and the West, and to break it up, most importantly, in the security space. And I don't think that Putin is going to give up that ambition. And so we arrive at the first part of your question, Zachary, which is what Russia wants? I think it's possible, possible to put that in quite blunt terms, what Russia wants, and it is not X amount of territory, as some American negotiators seem to believe, it is control over Ukraine's geopolitical destiny, and Ukraine is fighting the war to prevent Russia from acquiring that control. So the final point, of course, is that we're very far from some real diplomatic solution."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"cfca48a0-9ecc-40fd-bce9-bbf7e7df5044"},{"start_time":351,"end_time":375,"annotation":[{"type":"paragraph","children":[{"text":"Michael, why did we come to this moment now where the United States seems to believe it has or the President of the United States at least, seems to believe he has some solution to the war, and we have key advisors, Mr. Witkoff and Mr. Kushner going back and forth between Ukraine and Russia. How did we get to this moment? It seems quite, quite surprisingly."}]}],"tags":[],"uuid":"1b1f515b-d18a-4b21-843b-65d64fe09539"},{"start_time":375,"end_time":537,"annotation":[{"type":"paragraph","children":[{"text":"Let me give one charitable explanation and one uncharitable explanation, with the caveat that, although there's a lot of reporting on this, we don't really know what's motivating the White White House, you know, with the negotiations in general, and even more, with the timeline, which is indeed so surprising. But the charitable explanation is, I think, that Trump has a correct insight into this war, which is that neither side is going to win completely. And the end, when it comes, you know, if there is a diplomatic end, is going to be messy rather than clean. And I think, you know, President Trump is to be respected for arriving at that insight. Because it's, you know, it's real. It's a genuine insight. A lot of European countries and leaders, I think, are not quite there, so they look like they're a little bit in LA, LA land with all of this. And Trump is not, he's, you know, I think, a bit closer to the realities. And so again, in the charitable explanation, having come to this realization, you want to get there sooner rather than later. And, you know, here Jeremi, we could go back into the history of the Vietnam War, right at a certain point, the US realizes it's not going to win. And I think all of us, in retrospect, would prefer that that realization had been acted on seriously in 1968 or 1969 rather than a few years later. So that's the most charitable explanation I can give. But there are, of course, less charitable explanations. I think there's been a long phase of hubris in the White House about many things, but certainly about the peacemaking skills of the President, which have been, you know, effectively applied in certain crises. But, you know, I think that President Trump thought in September, October, that he was on a roll, and so he had solved all these problems, and Ukraine was just going to be the next one. And so let's get it done before Thanksgiving. So a kind of domestic political argument could be made, I think that that's, you know, sort of a less charitable explanation of why things are so rushed and are sort of working in this way. And you know, an additional and it's not mutually exclusive with the first uncharitable explanation, but an additional explanation is that they really want to get this war behind them, the Trump administration, so that they can focus on other things, the Indo Pacific, perhaps, and certainly the western hemisphere. And that takes us back to Trump's second inaugural address, and the focus on the Western Hemisphere that apparently is going to figure prominently in the new national security strategy. And you know, that's not a terrible explanation, because a conflict of the magnitude of the war in Ukraine is not to be swept under the carpet. And it's not like you can just rush past it and move on to other crises. Either you address it seriously or you don't address it at all. And I think that that's why the diplomacy has effectively gone nowhere in the last couple of weeks,"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"dad6b9cc-f95d-4c2b-8956-3ae3859d2ea1"},{"start_time":537,"end_time":554,"annotation":[{"type":"paragraph","children":[{"text":"Despite that, you did say at the beginning that you think you see the vague theoretical outlines of a potential diplomatic solution. Could you say a little bit more about what that might look like, or what that looks like in theory, how amenable both parties seem to be to that?"}]}],"tags":[],"uuid":"8e663480-c36c-4a86-889d-308495b4e673"},{"start_time":554,"end_time":704,"annotation":[{"type":"paragraph","children":[{"text":"I think that the variable that matters here is Russian exhaustion, and we can say Putin will fight forever, and it's, you know, an authoritarian regime, and you can get people to follow Him, and, you know, or even you can look at some recent levada pollings, a sort of respected polling institution in Russia, and you can see fairly high levels of support for Putin and for the and for the war in those numbers. But I really don't know. I wonder. I mean, maybe it's my outsider's perspective. I think that this is a empty feudal war for Russia, in addition to being, you know, immoral and and criminal and execution. But, you know, I think it just doesn't bring Russia anything. And if you're a Russian sitting, you know, somewhere in Russia, and you're not, maybe enamored of Putin in the first place, and. You know, you sort of see all of this death and destruction and money and all of that for the sake of conquering Mariupol, you know, a medium sized city in Ukraine. You have to wonder what it's all what it's all for. So I do think exhaustion is a possible variable on the Russian side. It's not going to be next month or six months from now, but it could come. And if it does, then I think Putin will be obligated to cut his losses and think about some point of termination for the war. And so I think he will hold on to territory. I don't even think at this point that Eastern Ukraine is, you know, such attractive territory. And you know, gradually it may be possible for Ukraine to give some of it up. And Crimea, tacitly, has been given up already, so Putin can focus on that. And because of that exhaustion, he would have to tolerate this closer security bond between, you know, a big portion of Ukraine and Europe, or between Ukraine and the Transatlantic Alliance. He is not there at the moment. You know, as mentioned before, he's fighting the war to prevent that security bond from solidifying, but he may reach a point where it just seems like it's unpreventable, and the sacrifices on the Russian side are too great, and for domestic political reasons, it's necessary not to give up on every aspect of the war, but to compromise if that comes to pass. You know, I think that there's quite a bit of room to negotiation, but it's a big, you know, hypothetical, because there are lots of reasons why Putin might not want to go down that road. And, you know, he's been relatively successful at insulating big parts of Russia from the costs of the war. So it's, it's a hypothetical scenario for two, three years from now,"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Governance, Law and Political Structures","tag":"Authoritarianism"},{"category":"Social and Economic Forces","tag":"Economic Power"}],"uuid":"5f375e47-1cd7-47f7-aa83-f56268223bea"},{"start_time":704,"end_time":733,"annotation":[{"type":"paragraph","children":[{"text":"It seems Michael that the Trump administration believes that Putin is winning the war. Is that true? And is there a scenario where he is simply using these negotiations to make it appear to the United States that he's open to something other than a full scale conflict, buying time for himself and trying to disarm the Europeans and others who would prevent him from getting what he wants to get on the battlefield."}]}],"tags":[],"uuid":"60345250-892c-40fe-a317-9d25657599d1"},{"start_time":733,"end_time":860,"annotation":[{"type":"paragraph","children":[{"text":"It does seem to be true at the moment. Of course, this is the Trump administration. So we could go back over the last eight, nine months and detail statements on social media and interviews, and sometimes, you know, Trump seems to be quite supportive of the Ukrainian military effort and supportive of Zelensky, and speculates even about, you know, sending Tomahawks to be used on Russian territory. And he can appear hawkish now and then, but that's not the prevailing mood, and hasn't been for the last sort of 10-11, months in the White House. I think it's correct. I think it is the assessment both of President Trump and Vice President Vance. You could put it in two ways that Ukraine is losing that it's the weaker country, and they do place a great premium on countries they believe to be strong in countries they believe to be weak. And I think Ukraine falls in the weaker category, and Russia falls in the in the stronger category. And in that sense, you know, if Ukraine is going to lose, then get a deal now and cut your losses and face reality. I think that that's probably the discourse and the tone in a lot of White House conversations. But I think in a different sense, when they look at Ukraine, they see it as a losing proposition for them. It's not just that the war is being lost, but the whole issue is a losing issue. So you could spend a lot of resources and put a lot of effort into it and work with the Europeans, which they don't really want to do, and you're not going to get much more than a kind of marginal set of gains from where we are at the present moment, the American population is not going to vote on the issue of the war in Ukraine. So you could put a lot of effort in, it won't yield you a big success. And so in some ways, it's just better to distance the American body politic from the conflict altogether, because it's a losing political proposition, Proposition they find. And there, there are, of course, you know, issues of the Trump campaign in 2024, and you know, sort of MAGA issues about the uses of American power and spending money, and Ukraine being sort of a distant country. And I think those two things combine to create this very hurried tempo and a kind of fantasy diplomacy aimed at ending the conflict, because in multiple ways, they see it as a loss. Interesting."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"3075c528-06ee-4584-8c03-a05a4bd5ab5c"},{"start_time":860,"end_time":885,"annotation":[{"type":"paragraph","children":[{"text":"What about the politics from a Ukrainian domestic perspective? It seems that for the first time, there's been a sort of real questioning or real sort of undermining of Zelenskyy's popularity in Ukraine, potentially with this large corruption scandal. What do you make of that? And could you explain that scandal and its significance in this moment?"}]}],"tags":[],"uuid":"dd0b180e-bb55-4d9f-9b92-0ee975e224de"},{"start_time":885,"end_time":1062,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, I mean, it's, it's serious business. I don't mean to be flippant in making this point, but we want to be careful about what's particular to, let's say, Ukrainian politics and history in the last 30 years, and what's maybe particular to the world. War. And I'm not aware of any countries that become less corrupt during wartime. You know, wartime is a, is a is a motor of corruption, because it often diminishes media attention on the chief executive it. You know, there's a lot of spending in wartime, and, you know, just a lot of opportunities to feed at the trough. And that's definitely what's been happening with members of the Zelensky government who are quite close to Volodymyr Zelensky himself. The scandal focuses on, you know, sort of kickbacks and people making money off of off of contracts, and many of them, you know, perilously close to the to the inner circle of of of Volodymyr Zelensky. But the other story, and I don't think that we do Ukraine a service by not telling this story, is that since 1991 as in many post Soviet countries, there's just not a good separation of powers. And in particular, the judiciary and the executive are too intertwined. And in fact, the Maidan revolution of 2013 2014 we might think about that as geopolitics, and about Europe and about Russia and Ukraine's place in the world, and it was but the 2013 2014 revolution is an anti corruption revolution. When it's called the Revolution of Dignity, that's part of what's meant about the extreme corruption of the then president of Ukraine, Viktor Yanukovych, I don't think Poroshenko, the president who followed Yanukovych, was hugely corrupt, but he was an oligarch, and people around him sort of continued the old patterns. Zelenskyy also runs in 2019 as an anti corruption candidate. Kind of rises to fame in Ukraine as a protagonist of a television show that's about cleaning up Ukrainian politics. And I take him at his word. I don't think that Zelensky himself is personally corrupt, but perhaps there is inattention. He is jealous of his own authority and power, and I think he hasn't been great on media freedom in Ukraine since the start of the war, and that probably contributes to corruption, and it's just very hard. There's not really an incentive once you're in power, to diminish the power of the executive branch. And for that reason, the judiciary in Ukraine just never has the oversight that it that it needs. So it's a very, very serious issue because it damages Ukraine's chances of entering quickly into the European political fold, and it's just not what Ukraine needs at the present moment. And of course, Russia is exploiting it to the hilt. And to go back to Jeremi's question, when you look at Ukraine as let's use the term a kind of a loser, which I think Trump may well see when he looks at Ukraine, this is just further evidence, or could be used as further evidence for that. So it's completely unfortunate."}]}],"tags":[{"category":"Governance, Law and Political Structures","tag":"Corruption"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"f62118a4-609d-4f6b-b1d3-1d0c30ac045a"},{"start_time":1062,"end_time":1108,"annotation":[{"type":"paragraph","children":[{"text":"Michael, what are the chances that these two men at the center of this war, Putin and Zelensky, that they continue to go on as they've gone on? I mean, what's so striking to me as a historian, just just building on your last point, is how much of this war has been about the two of them, how much they have been front and center. Putin in launching this war, which was a completely unnecessary war, and Zelensky in rallying, at least initially, Ukrainians, and I think he continues to do this effectively, and rallying Europeans now, rallying Americans at different moments. So much of it has been about these two men, but history would lead us to believe that the conflict will will deteriorate their authority as well. So where do you see that going?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"ae9084ef-582e-458b-a1b7-9a912bbe25c5"},{"start_time":1108,"end_time":1336,"annotation":[{"type":"paragraph","children":[{"text":"Yeah, that's a very you know, that's a profound question. And the nature of their authority is quite different, given the systems in which they operate, and also given that the war is not the same at all on the Russian side and and the Ukrainian side. So let's start with Zelensky. The man has his shortcomings. We've mentioned corruption that he's been unable to eradicate. I think the deeper shortcoming with Zelensky is that he overestimates his strategic ability, which we've seen, you know, Jeremi. We could go through a lot of examples of that with Churchill and others. Hitler, that's not, you know, the most useful example. But you know, sort of political leaders who think that they have too much, you know, sort of strategic acumen, or more than they do. And you know, Zelensky has made a lot of bad calls militarily, or has signed off on a lot of, a lot of bad calls. And, you know, I wonder about that. And one wonders, in the future, if you're to speculate about something bad happening in Ukraine, I don't think it's that Zelensky is going to fall because of corruption. And I don't think it's because Zelensky is going to lose the support of the Europeans. And over the US, Zelensky has some control. He's managed Trump really well over the last couple of months, but the US is going to do what it's going to do on its own terms. But where Zelensky can face real difficulties in his relations with the military, and you do see now certain figures, most importantly Zelensky, who had been the kind of head of the Ukrainian military and was. He was sent to London to be ambassador for a time, and is now, apparently back in in Ukraine, and he has an independent base of political support, and he does constitute something of a threat to Zelensky. I don't think that Zelensky or anyone else is just going to knock the system down during the war for the sake of gaining power, because it's too dangerous. But you know, there's where you see a certain shakiness on the Ukrainian side. And also, people talk about a bad deal for Ukraine, resulting in mutiny and resistance from the Ukrainian army. In other words, Zelensky goes to Washington, signs some kind of deal, giving the Donbas, all of the Donbas to Russia, and the Ukrainian military says, No way, and we're going to do what we're going to do, and that could become a real political crisis. I don't think we're there yet, but those, to me, seem the ways in which Ukraine is shaky, and even the personal charisma of a Volodymyr Zelensky probably can't paper over those tensions if they would get, you know, greater than they are, than they are now, you know, Putin is it's a very frustrating thing to analyze. I find one can't let one's emotions or sort of moral principles get too much in the way. It's important to see a system in its own light. Putin is quite secure in his power at the moment. He commands a very, very vertical and repressive state, but one that has traction and almost complete control over Russian politics, and it's hard to imagine the war dislodging that, you know, I think the shakiness that's there with Putin is connected to the realization that will come, I think, one day in Russia, that the war was a mistake. And you know, when that comes and when that instantiates itself. It may be that not just Putin loses his position, or that realization may come after Putin leaves the scene, but it could well be that Putinism itself unravels in Russia because it's based on something that is not in the national interest of the country, and it's based on something that's coded in deceptions and lies and and manipulations. And you know, if you could put the point in a general way, it's as if Putin has bet. Putin ism on the war. And I think over time it's going to be a losing bet. But over time could, unfortunately, mean 1015, 20 years, right?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"3fbc8469-70c5-4861-b93a-7c2b67e35b16"},{"start_time":1336,"end_time":1352,"annotation":[{"type":"paragraph","children":[{"text":"So, so as I understand your your analysis, Michael, you see, despite these negotiations now, you see the war really continuing as an as a conflict, as a battle of attrition between the two sides."}]}],"tags":[],"uuid":"67a832e4-6958-4783-9e5b-0140f721200b"},{"start_time":1352,"end_time":1477,"annotation":[{"type":"paragraph","children":[{"text":"Definitely. No, there's the devilish symmetry of this war, which I've mentioned already, this sort of dilemma that the closer Ukraine draws to the security structures of the West, the more Russia has incentives for continuing or perhaps for intensifying the war, I don't see a solution to that problem in the short to medium term. You could even be more pessimistic than that and say that there is no solution to that problem, that there's something zero sum about Ukraine's aspirations to independent statehood and participation in the European story and Russia's understanding of what Ukraine is and what Ukraine should be, or Putin's understanding at the very at the very least. And so that doesn't exclude the possibility of an operational pause, of a cessation of hostilities. It doesn't exclude the possibility that documents could be signed and what appears like conventional negotiation could take place. And here, you know, I'm sure our listeners are versed in these topics, but you do have the Budapest Memorandum of 1994 which was a document signed after Ukraine had given up its nuclear weapons in the post Soviet period, and a security guarantee was given to Ukraine by the US, by European countries, by by Russia. That proved to be, of course, meaningless. And more recently, you have minced diplomacy from 2014 to 2015 which was a very decorous series of meetings and agreements. And, you know, it really seemed like something was resolved, but it truly wasn't, in a way, the seeds of the 2022 war are planted in the very inadequate diplomacy of 2014 2015 so it's not to say that there isn't a role for diplomacy in all this. I think that there is a bit of crisis management, escalation management, conflict management. It's not wrong for Washington and Moscow to talk at any point, but that diplomacy can really wedge itself into the war at the present moment and solve the war's fundamental problems. I simply see zero evidence of that."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"917f9acc-6030-49d1-bb06-949df152e106"},{"start_time":1477,"end_time":1507,"annotation":[{"type":"paragraph","children":[{"text":"What about the other sort of line in the in the sort of triangular relationship on the Ukrainian side of the war, that between the United States and Europe, if anything, the sort of negotiations between the US and Russia at this moment seem to seem to hurt the US-European alliance the most is that you think an accurate reading and and what, might, what might these negotiations do to that sort of tenuous alliance between the United States and Europe in support of Ukraine?"}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"fda01d0d-40a4-4ee8-bf6f-15653f751bca"},{"start_time":1507,"end_time":1687,"annotation":[{"type":"paragraph","children":[{"text":"I completely agree with that interpretation. And if Putin has any real objective here, it's not ending the war. You know, there are clearly 100 steps Putin could take to end the war that he's not taking, such as withdrawing troops and and scaling back the hostilities, etc. But that's, you know, not his bid and not his not his game. It's clear that he's going to create interest in Trump's Washington in an end to the war, and then string Washington along for as long as he can without changing the basics of the of the of the war. So you could ask the question, you know, going back to your first question, Zachary About What Motivates Putin, like, why do it in the first place? If you're not interested in ending the war, you know, why pursue this charade of diplomacy? And I think he does it in part, because it exhausts Ukraine. You know, it takes time and attention of Ukrainian policymakers, Zelensky, rushing from place to place, and just focusing on this. And that has its uses in wartime. But more than anything, what Putin is trying to do successfully, I would say, for him, is to shine a light on the space between the United States and Europe. And so for Europe, an unprincipled end to the war is certainly undesirable and it may really be impossible. In other words, it may not be possible for the EU, plus Germany, you know, France, UK, many other countries in Europe to sign on formally to the transfer of territory from Ukraine to Russia. That just for Europe, sets a precedent that is so dangerous that it runs counter to the core interests of the key European actors, even though there is domestic disagreement in Europe and each country has a different threat assessment. But rearranging Europe in that way is not going to work for Europe, and so that's why you see heightened defense spending, high levels of support for Ukraine, and the backing of Macron merits, Starmer and others for Zelensky as he goes into these negotiations, that Europe is serving as a backstop for Zelensky, and that's because of very clear European interest. Now the US, in my view, should adhere to those interests and support them. They seem to me like American interests, but the White House has a different read, of course, and the White House wants to for the reasons we were already talking about, wrap up the war, you know, park it, put it somewhere where it's no longer visible, sweep it under the carpet, move on to other things. Call it a great diplomatic success for the for the US, and that's a totally different approach from the mainstream European approach. So it's not a cosmetic transatlantic difference, it's a profound transatlantic difference. And so the more Putin can shed a light on that, put a spotlight on that, the weaker the transatlantic relationship seems, and the weaker the transatlantic relationship is. If there's no longer a shared threat assessment on an issue as significant as the war in Ukraine, is there really a transatlantic alliance in the full sense of the word. And I would just put a question mark there, and Putin really wants that question mark to be in bold face."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"d21f6094-1053-4a52-92de-6c96b53b35a9"},{"start_time":1687,"end_time":1718,"annotation":[{"type":"paragraph","children":[{"text":"So, so Michael, what, what should the United States do? I mean, in a in a certain way, the peace offering by the Trump administration is a self serving act. It doesn't match with the realities on the ground. As you pointed out, on the other hand, as you say, there's a possibility of at least a short term cessation to hostilities, which which might actually be good for everyone. What should the administration do that it's not doing right now?"}]}],"tags":[],"uuid":"5288e270-816f-4a07-942d-d43072beafae"},{"start_time":1718,"end_time":1894,"annotation":[{"type":"paragraph","children":[{"text":"A couple of things that it's not doing. And I think you want to start just with a, you know, believable, accurate understanding of the war itself. And some of this is is so basic that it's almost embarrassing to repeat, but I'm not sure it's been internalized by by President Trump and some of the people who work for him, but that the war is Russia's fault. That the war begins with an outright Russian invasion of Ukraine in February 2022, and of course, earlier, that the war was unprovoked, that the war reflects a will to control Ukraine on Russia's part. These don't seem to me like complicated arguments. They're almost statements of fact, but they do have to be internalized. So that would be the first point. The second point is that hastily planned, sloppy diplomacy is probably worse than no no diplomacy at all. So if you are to pursue, you know, and I think it's fine to inquire with diplomacy to just see where you stand and, you know, figure it out. But if you do that, you can do that privately. You don't necessarily have to do it in public. And this constant building up of expectations, you know, Secretary Rubio saying we made a huge amount of progress in Miami about a week ago, and there's no visible progress. President Trump going into. Alaska, implying that the, you know, the war is going to come to an end, they're kind of there. They've, they've, they've had a breakthrough, and there was no breakthrough. So that, I think, really weakens the US position, these kind of promises and claims that are so at odds with the with the reality. So you can do less in public, you can lower expectations, and at the same time, I think you can still explore and talk. You know, I think a third sort of and final point to make is that the US needs to have a very careful understanding of what its real leverage is in the situation. And this is no longer the 1990s when you can send Richard Holbrook somewhere to quote, unquote, end the war. To end a war, the title of Richard Holbrooks book about the Balkans in the 1990s that's not the role the US is going to play here. The US is one piece of a very big puzzle, which does include China and non European countries. US can facilitate. It can put forward ideas. It can convene. It can do things, but it has to understand its leverage, and its leverage has a lot of limits, which I think are not well understood in the White House, and most baffling of all the US is diminishing its leverage at the same time that it's trying to be the number one country solving the problem. So it's lowering its support to Ukraine, which diminishes us leverage. It's fouling up the transatlantic relationship, which is diminishing us leverage, and constantly suggesting that it would be in the interest of the United States to withdraw from Europe in general, which also diminishes us leverage in Europe, objectively. So there seems to be a very hazy understanding of what us leverage is, and that too makes the diplomacy just almost destined to fail."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"},{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"553e62a0-d667-4c1b-8525-7363af9f3249"},{"start_time":1894,"end_time":1905,"annotation":[{"type":"paragraph","children":[{"text":"Michael is the missing piece though, really the security guarantee for Ukraine. And should the United States consider giving that or be being part of a security guarantee for Ukraine?"}]}],"tags":[],"uuid":"ac75353a-4caf-463c-824b-4e06a10f2210"},{"start_time":1905,"end_time":2052,"annotation":[{"type":"paragraph","children":[{"text":"I wanna avoid, uh, not trying to be rude here. I wanna avoid a think tank answer to that, uh, question. Cause I do think it's easy to sit in a think tank in Austin, Texas, or Washington DC or, uh, or New Haven, Connecticut. Uh, it's easy to sit in, think tank mode and say yes, we can resolve the problem of the war, uh, with a security guarantee to, to Ukraine. I do think that that's true, and I think it matters, but I also think that there's a real problem of domestic politics, uh, in Germany, uh, in France, in the UK, and in the United States, and I don't know how we overcome that problem in the short to medium term. In other words, sending troops to Ukraine is not a non-starter for strategic reasons, but it's a non-starter for domestic political reasons in all the countries, that I mentioned. Even large groups of technical experts and assistance to operate, you know, western weaponry in Ukraine, would I think be tricky. And then there are thresholds when it comes to financial support to Ukraine. All of these countries are puzzling through. You know, Trump does win the 2024 election on a campaign that includes lowering support to Ukraine. And I wouldn't wanna factor that out of the equation. So the question is, what's the credible commitment to Ukraine that can be managed, uh, that suits the contours of domestic political, domestic politics in the US and in the key European. Uh, actors and there, I think we arrive more at a strategy of containment than in a strategy based on NATO like security guarantees. Um, and you know, I think that if it's the next best thing, then it's worth focusing, uh, on that. Uh, and containment means close levels of cooperation, you know, the kind of intelligence sharing and targeting that the US does. Uh, with Ukraine, defense, industrial production. Maybe that's the real elixir, uh, in this, in this mix that if Europe and the US and Ukraine can get together and really succeed at defense industrial production, which actually they're not doing, uh, at the present moment. But, uh, if they could do that, then maybe that becomes the TA at security, guarantee for Ukraine, but a kind of formal NATO like commitment. I think it solves the problem, but I also don't think it's, it's realistic unless our domestic politic politics changes, uh, so much. So it's not a particularly satisfying answer to your question, but to me it's the most honest one I can, I can muster."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"}],"uuid":"ae3f4562-c85f-4977-9c49-a9c85091935f"},{"start_time":2052,"end_time":2055,"annotation":[{"type":"paragraph","children":[{"text":"That makes sense."}]}],"tags":[],"uuid":"ca8ea53a-4cce-4236-9abe-07622ae09a0a"},{"start_time":2055,"end_time":2088,"annotation":[{"type":"paragraph","children":[{"text":"Well, thank you so much, Michael. I think you've provided us with a very sombering, but important portrait of where things stand in Ukraine today. And, you know, we began this episode. Listing, many of the sort of recent developments in the war that seem to really be shifting the landscape, and I think you've maybe offered a compelling case for why they don't necessarily mark a major transformation. Right. In the, and really an entrenchment of the same dynamics that we've been dealing with for the last. Three and a half years."}]}],"tags":[],"uuid":"92a85f76-4435-47c2-9787-4b6cdbe91b33"},{"start_time":2088,"end_time":2175,"annotation":[{"type":"paragraph","children":[{"text":"If I could Zachary just jump in with one further point, uh, since it sort of popped up at the end of my last, uh, last answer. I am, you know, all in favor of diplomacy. I'm all in favor of grand strategy. I'm all in favor of being able to think in abstract terms about the war in Ukraine. It's, it's necessary. It's important, it's necessary. The academic side is necessary on the, uh, on the policy side, but if there's any. Message in a way to leave listeners with when it comes to what can be done in a practical sense, a non defeatist, non fatalistic sense of supporting Ukraine. It resides very much in defense, industrial production, uh, and the production of drones, uh, in particular. Maybe the war will take on a new phase a year from now, or six months from now, and it'll be a different technology. But I was shocked to hear a briefing from Michael Kaufman noted, you know, military expert on the war. That Ukraine had an edge in drone warfare for the beginning of 2025, and that was helping Ukraine on the battlefield. For the last five, six months, Russia has had an edge in drone production and drone use on the, on the battlefield, and that's why Russia's making incremental gains. Now, how can that be when Russia's economy is one 10th the size of Europe's economy? And if you put the US into the mix, it's just such a small, uh, entity economically there, I think you can balance the equation. In ways that will really work in Ukraine's favor, uh, over time. So for, for all the abstractions that we just talked about in the last 40, minutes or so, the particulars of defense industrial production should demand a lot of our attention."}]}],"tags":[{"category":"Conflict, Power and International Relations","tag":"Diplomacy and Peacebuilding"},{"category":"Social and Economic Forces","tag":"Economic Power"}],"uuid":"45a2ac6f-fbeb-4246-8a4e-637c51f5ec58"},{"start_time":2175,"end_time":2192,"annotation":[{"type":"paragraph","children":[{"text":"And, and just because you brought it up now, Michael, I can't resist asking, how did Russia shift that, uh, balance of, in, in what we might call the drone gap now, how, how did, how did that occur? Was it simply the, the withdrawal of American support for Ukraine, or what made that shift possible?"}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"}],"uuid":"7d639ddd-602f-43cb-966e-a79d8189e581"},{"start_time":2192,"end_time":2258,"annotation":[{"type":"paragraph","children":[{"text":"I don't really know. It's a question to ask a person who would be really inside of that question. All I can say, just as a general answer to, to your question, Jeremi, is that. The Russian economy is on a sort of mobilized wartime footing. The economy is the society is not, but the economy is with huge levels of defense spending at purchasing power parity, which of course we can say Russia has the eco, an economy the size of Italy's. But within the Russian economy, high levels of defense spending can, can bring about big results, and they're running factories 24 hours a day. And it's an authoritarian government, so they can force people to work there and sort of push production, uh, lines and levels at a, at a very, very high clip. And so in that sense, what we wanna be aware of, um, is the level of urgency on our side. It's way too low, uh, in the US. That feels clear to me. Uh, but I think it may even be too low in, in Europe, the level of urgency, uh, when it comes to this war, its potential consequences, uh, and the need to act quickly, uh, and resolutely so. You know, there, when you think of what Russia has done over the last four years, uh, to stick with the war and to gain certain kinds of advantage, that should be pretty sobering for us."}]}],"tags":[{"category":"Social and Economic Forces","tag":"Economic Power"},{"category":"Conflict, Power and International Relations","tag":"Warfare and Society"}],"uuid":"eec84996-0e12-4e65-85e3-aaf1a1a9fe68"},{"start_time":2258,"end_time":2259,"annotation":[{"type":"paragraph","children":[{"text":"Yes."}]}],"tags":[],"uuid":"1c4f9fec-8a78-4d3e-ba89-b533b4ad2f6a"},{"start_time":2259,"end_time":2275,"annotation":[{"type":"paragraph","children":[{"text":"Wonderful. Well, thank you so much, Michael, for this comprehensive portrait, uh, of where we are in this moment. Um, thank you Jeremi for your insights as well. Um, and thank you most of all to our listeners for joining us for this latest episode of This Is Democracy."}]}],"tags":[],"uuid":"412732f3-8a54-4f43-b8b8-7fd38e81b6bd"},{"start_time":2275,"end_time":2306,"annotation":[{"type":"paragraph","children":[{"text":"This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and YouTube. See you next time."}]}],"tags":[{"tag":"Outro","category":"Framing Elements"}],"uuid":"78fbef0c-31a8-430a-8041-e3d76396faf7"}],"set":"Default","event_id":"0854e640-29b6-45ae-bbbc-a8774fccae5f","source_id":"3775d7cc-78f4-475b-b1bb-6861eae1c5c9"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This Is Democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today's important issues and how to have a voice in what happens next. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "9649f167-f4a2-41a8-b3fe-cad3105582bf"
+    },
+    {
+      "start_time": 20,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hello and welcome to our latest episode of This is Democracy. I'm Zachary Suri, today we will return to a topic we've already discussed many times on the show, the ongoing Russian invasion of Ukraine, but there are a lot of developments to discuss, to say the least, for the first time in more than three years of war in Ukraine, both sides seem to have expressed hope, whether genuine or not, that there might soon be a diplomatic solution to the war. Meanwhile, further fissures seem to be opening in the US European Alliance, and Ukrainian President Zelensky's administration faces a wide-ranging corruption scandal. Joining us to discuss is our good friend Michael Kimmage. Michael is a professor of history at the Catholic University of America and the director of the Kennan Institute from 2014 to 2017 he served on the Secretary's policy planning staff at the US Department of State, where he held the Russia, Ukraine portfolio. His latest book is collisions the war in Ukraine and the origins of the new global instability. Thank you for joining us today, Michael, great to be back with you both. We're also joined as always, by Jeremi Suri."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        }
+      ],
+      "uuid": "7d70ab23-d12b-49fc-a1cb-e76d08442f7b"
+    },
+    {
+      "start_time": 87,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hello. Hi, Zachary and Michael. So happy to be with you."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8b351ecf-30cd-4373-9b13-1c8b0429c3b2"
+    },
+    {
+      "start_time": 90,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wonderful. I'd like to begin today with a poem by a Ukrainian author. This is Knife by Lyuba Yakimchuk, translated from Ukrainian by Svetlana Lavochkina. Knife with relatives, we share table and graves with enemies only graves. One such candidate comes to share a grave with me, says to me, I'm bigger than you, I'm harder than you, I'm tougher than you. Sticks knife after knife into my stomach and below, knife after knife. His pressure spring like but he is smaller than us. He is softer than us because he's only got one knife. And there are plenty of us at the table, and each has their own butt and each has their own cut. Says to me, I'm a sharper blade. Cut you. I'm a thicker blade. Cut you. Chip, chop. Chip, chop. The last one is dead. Hold on. They say, hold on. And we hold onto our table from the gun muzzle, we all drink our bullets. We pour our enemy one too. Michael, do you have any reactions to that poem? I think the reason I chose this poem was, I think it sort of gets at the strange, sort of intertwined relationship, the kind of stagnant stalemate last three years, if that makes sense."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24d44b70-3c23-4407-bc66-9c5a82d7ea4f"
+    },
+    {
+      "start_time": 165,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, no, it's just, it's sort of remarkable, and how it takes the idea of a time horizon, which you would imagine is so important for people in the midst of a war, and just, you know, flattens it out and explodes that that sense of a beginning and an end, and being able to peer around the corner. That's a really powerful poem."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4fb9b3d1-c991-4668-a17e-25f2511be87f"
+    },
+    {
+      "start_time": 184,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Michael, I wanted to start by asking a question that I think we've touched on a lot in our many discussions on the war in Ukraine, but I think is probably critical to understanding the movement we're in now as you understand it, what do you think Putin needs to end the war, and what does Zelensky and the Ukrainian administration need to bring a peaceful resolution to the conflict? Right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "3c38306b-3893-434b-b481-87260bbc91cd"
+    },
+    {
+      "start_time": 207,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, let me start backwards with what on paper is possibly a solution to the to the problem of the war. And I do think that the outlines are becoming visible of something. And this something is territorial concessions that Ukraine will make Crimea, plus some portion of territory in the SouthEast of Ukraine, and a security guarantee that Ukraine will get in return, either from Europe or from Europe, plus the United States. And so you can imagine, again, in theory, sort of seminar style, that if these two ingredients can be combined, you have the recipe, if not for a permanent stable piece, then for some long standing cessation of hostilities. But you know, I emphasize seminar style and on paper or in theory, because even with this formulation, there is the paradox of the war, or the dilemma of the war from the diplomatic side, which is that the very security guarantee that Ukraine would require for an end to the war, and that can't just be some kind of theoretical, you know, hypothetical commitment. It has to be real for it to work. And of course, Ukraine is highly aware of that. They've been sold down the river in the past and 2014 and in 2000 you know, in the in the in the 1990s and we can get into that, if of interest. But they can't be sold down a river. The River yet again, but that very commitment is going to be unacceptable to Russia that the war was fought in the first place. 2022 probably going all the way back to 2014 to break up the relationship between Ukraine and the West, and to break it up, most importantly, in the security space. And I don't think that Putin is going to give up that ambition. And so we arrive at the first part of your question, Zachary, which is what Russia wants? I think it's possible, possible to put that in quite blunt terms, what Russia wants, and it is not X amount of territory, as some American negotiators seem to believe, it is control over Ukraine's geopolitical destiny, and Ukraine is fighting the war to prevent Russia from acquiring that control. So the final point, of course, is that we're very far from some real diplomatic solution."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "cfca48a0-9ecc-40fd-bce9-bbf7e7df5044"
+    },
+    {
+      "start_time": 351,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael, why did we come to this moment now where the United States seems to believe it has or the President of the United States at least, seems to believe he has some solution to the war, and we have key advisors, Mr. Witkoff and Mr. Kushner going back and forth between Ukraine and Russia. How did we get to this moment? It seems quite, quite surprisingly."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b1f515b-d18a-4b21-843b-65d64fe09539"
+    },
+    {
+      "start_time": 375,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me give one charitable explanation and one uncharitable explanation, with the caveat that, although there's a lot of reporting on this, we don't really know what's motivating the White White House, you know, with the negotiations in general, and even more, with the timeline, which is indeed so surprising. But the charitable explanation is, I think, that Trump has a correct insight into this war, which is that neither side is going to win completely. And the end, when it comes, you know, if there is a diplomatic end, is going to be messy rather than clean. And I think, you know, President Trump is to be respected for arriving at that insight. Because it's, you know, it's real. It's a genuine insight. A lot of European countries and leaders, I think, are not quite there, so they look like they're a little bit in LA, LA land with all of this. And Trump is not, he's, you know, I think, a bit closer to the realities. And so again, in the charitable explanation, having come to this realization, you want to get there sooner rather than later. And, you know, here Jeremi, we could go back into the history of the Vietnam War, right at a certain point, the US realizes it's not going to win. And I think all of us, in retrospect, would prefer that that realization had been acted on seriously in 1968 or 1969 rather than a few years later. So that's the most charitable explanation I can give. But there are, of course, less charitable explanations. I think there's been a long phase of hubris in the White House about many things, but certainly about the peacemaking skills of the President, which have been, you know, effectively applied in certain crises. But, you know, I think that President Trump thought in September, October, that he was on a roll, and so he had solved all these problems, and Ukraine was just going to be the next one. And so let's get it done before Thanksgiving. So a kind of domestic political argument could be made, I think that that's, you know, sort of a less charitable explanation of why things are so rushed and are sort of working in this way. And you know, an additional and it's not mutually exclusive with the first uncharitable explanation, but an additional explanation is that they really want to get this war behind them, the Trump administration, so that they can focus on other things, the Indo Pacific, perhaps, and certainly the western hemisphere. And that takes us back to Trump's second inaugural address, and the focus on the Western Hemisphere that apparently is going to figure prominently in the new national security strategy. And you know, that's not a terrible explanation, because a conflict of the magnitude of the war in Ukraine is not to be swept under the carpet. And it's not like you can just rush past it and move on to other crises. Either you address it seriously or you don't address it at all. And I think that that's why the diplomacy has effectively gone nowhere in the last couple of weeks,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "dad6b9cc-f95d-4c2b-8956-3ae3859d2ea1"
+    },
+    {
+      "start_time": 537,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite that, you did say at the beginning that you think you see the vague theoretical outlines of a potential diplomatic solution. Could you say a little bit more about what that might look like, or what that looks like in theory, how amenable both parties seem to be to that?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e663480-c36c-4a86-889d-308495b4e673"
+    },
+    {
+      "start_time": 554,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that the variable that matters here is Russian exhaustion, and we can say Putin will fight forever, and it's, you know, an authoritarian regime, and you can get people to follow Him, and, you know, or even you can look at some recent levada pollings, a sort of respected polling institution in Russia, and you can see fairly high levels of support for Putin and for the and for the war in those numbers. But I really don't know. I wonder. I mean, maybe it's my outsider's perspective. I think that this is a empty feudal war for Russia, in addition to being, you know, immoral and and criminal and execution. But, you know, I think it just doesn't bring Russia anything. And if you're a Russian sitting, you know, somewhere in Russia, and you're not, maybe enamored of Putin in the first place, and. You know, you sort of see all of this death and destruction and money and all of that for the sake of conquering Mariupol, you know, a medium sized city in Ukraine. You have to wonder what it's all what it's all for. So I do think exhaustion is a possible variable on the Russian side. It's not going to be next month or six months from now, but it could come. And if it does, then I think Putin will be obligated to cut his losses and think about some point of termination for the war. And so I think he will hold on to territory. I don't even think at this point that Eastern Ukraine is, you know, such attractive territory. And you know, gradually it may be possible for Ukraine to give some of it up. And Crimea, tacitly, has been given up already, so Putin can focus on that. And because of that exhaustion, he would have to tolerate this closer security bond between, you know, a big portion of Ukraine and Europe, or between Ukraine and the Transatlantic Alliance. He is not there at the moment. You know, as mentioned before, he's fighting the war to prevent that security bond from solidifying, but he may reach a point where it just seems like it's unpreventable, and the sacrifices on the Russian side are too great, and for domestic political reasons, it's necessary not to give up on every aspect of the war, but to compromise if that comes to pass. You know, I think that there's quite a bit of room to negotiation, but it's a big, you know, hypothetical, because there are lots of reasons why Putin might not want to go down that road. And, you know, he's been relatively successful at insulating big parts of Russia from the costs of the war. So it's, it's a hypothetical scenario for two, three years from now,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
+      "uuid": "5f375e47-1cd7-47f7-aa83-f56268223bea"
+    },
+    {
+      "start_time": 704,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems Michael that the Trump administration believes that Putin is winning the war. Is that true? And is there a scenario where he is simply using these negotiations to make it appear to the United States that he's open to something other than a full scale conflict, buying time for himself and trying to disarm the Europeans and others who would prevent him from getting what he wants to get on the battlefield."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "60345250-892c-40fe-a317-9d25657599d1"
+    },
+    {
+      "start_time": 733,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It does seem to be true at the moment. Of course, this is the Trump administration. So we could go back over the last eight, nine months and detail statements on social media and interviews, and sometimes, you know, Trump seems to be quite supportive of the Ukrainian military effort and supportive of Zelensky, and speculates even about, you know, sending Tomahawks to be used on Russian territory. And he can appear hawkish now and then, but that's not the prevailing mood, and hasn't been for the last sort of 10-11, months in the White House. I think it's correct. I think it is the assessment both of President Trump and Vice President Vance. You could put it in two ways that Ukraine is losing that it's the weaker country, and they do place a great premium on countries they believe to be strong in countries they believe to be weak. And I think Ukraine falls in the weaker category, and Russia falls in the in the stronger category. And in that sense, you know, if Ukraine is going to lose, then get a deal now and cut your losses and face reality. I think that that's probably the discourse and the tone in a lot of White House conversations. But I think in a different sense, when they look at Ukraine, they see it as a losing proposition for them. It's not just that the war is being lost, but the whole issue is a losing issue. So you could spend a lot of resources and put a lot of effort into it and work with the Europeans, which they don't really want to do, and you're not going to get much more than a kind of marginal set of gains from where we are at the present moment, the American population is not going to vote on the issue of the war in Ukraine. So you could put a lot of effort in, it won't yield you a big success. And so in some ways, it's just better to distance the American body politic from the conflict altogether, because it's a losing political proposition, Proposition they find. And there, there are, of course, you know, issues of the Trump campaign in 2024, and you know, sort of MAGA issues about the uses of American power and spending money, and Ukraine being sort of a distant country. And I think those two things combine to create this very hurried tempo and a kind of fantasy diplomacy aimed at ending the conflict, because in multiple ways, they see it as a loss. Interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "3075c528-06ee-4584-8c03-a05a4bd5ab5c"
+    },
+    {
+      "start_time": 860,
+      "end_time": 885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the politics from a Ukrainian domestic perspective? It seems that for the first time, there's been a sort of real questioning or real sort of undermining of Zelenskyy's popularity in Ukraine, potentially with this large corruption scandal. What do you make of that? And could you explain that scandal and its significance in this moment?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dd0b180e-bb55-4d9f-9b92-0ee975e224de"
+    },
+    {
+      "start_time": 885,
+      "end_time": 1062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I mean, it's, it's serious business. I don't mean to be flippant in making this point, but we want to be careful about what's particular to, let's say, Ukrainian politics and history in the last 30 years, and what's maybe particular to the world. War. And I'm not aware of any countries that become less corrupt during wartime. You know, wartime is a, is a is a motor of corruption, because it often diminishes media attention on the chief executive it. You know, there's a lot of spending in wartime, and, you know, just a lot of opportunities to feed at the trough. And that's definitely what's been happening with members of the Zelensky government who are quite close to Volodymyr Zelensky himself. The scandal focuses on, you know, sort of kickbacks and people making money off of off of contracts, and many of them, you know, perilously close to the to the inner circle of of of Volodymyr Zelensky. But the other story, and I don't think that we do Ukraine a service by not telling this story, is that since 1991 as in many post Soviet countries, there's just not a good separation of powers. And in particular, the judiciary and the executive are too intertwined. And in fact, the Maidan revolution of 2013 2014 we might think about that as geopolitics, and about Europe and about Russia and Ukraine's place in the world, and it was but the 2013 2014 revolution is an anti corruption revolution. When it's called the Revolution of Dignity, that's part of what's meant about the extreme corruption of the then president of Ukraine, Viktor Yanukovych, I don't think Poroshenko, the president who followed Yanukovych, was hugely corrupt, but he was an oligarch, and people around him sort of continued the old patterns. Zelenskyy also runs in 2019 as an anti corruption candidate. Kind of rises to fame in Ukraine as a protagonist of a television show that's about cleaning up Ukrainian politics. And I take him at his word. I don't think that Zelensky himself is personally corrupt, but perhaps there is inattention. He is jealous of his own authority and power, and I think he hasn't been great on media freedom in Ukraine since the start of the war, and that probably contributes to corruption, and it's just very hard. There's not really an incentive once you're in power, to diminish the power of the executive branch. And for that reason, the judiciary in Ukraine just never has the oversight that it that it needs. So it's a very, very serious issue because it damages Ukraine's chances of entering quickly into the European political fold, and it's just not what Ukraine needs at the present moment. And of course, Russia is exploiting it to the hilt. And to go back to Jeremi's question, when you look at Ukraine as let's use the term a kind of a loser, which I think Trump may well see when he looks at Ukraine, this is just further evidence, or could be used as further evidence for that. So it's completely unfortunate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "f62118a4-609d-4f6b-b1d3-1d0c30ac045a"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael, what are the chances that these two men at the center of this war, Putin and Zelensky, that they continue to go on as they've gone on? I mean, what's so striking to me as a historian, just just building on your last point, is how much of this war has been about the two of them, how much they have been front and center. Putin in launching this war, which was a completely unnecessary war, and Zelensky in rallying, at least initially, Ukrainians, and I think he continues to do this effectively, and rallying Europeans now, rallying Americans at different moments. So much of it has been about these two men, but history would lead us to believe that the conflict will will deteriorate their authority as well. So where do you see that going?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "ae9084ef-582e-458b-a1b7-9a912bbe25c5"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's a very you know, that's a profound question. And the nature of their authority is quite different, given the systems in which they operate, and also given that the war is not the same at all on the Russian side and and the Ukrainian side. So let's start with Zelensky. The man has his shortcomings. We've mentioned corruption that he's been unable to eradicate. I think the deeper shortcoming with Zelensky is that he overestimates his strategic ability, which we've seen, you know, Jeremi. We could go through a lot of examples of that with Churchill and others. Hitler, that's not, you know, the most useful example. But you know, sort of political leaders who think that they have too much, you know, sort of strategic acumen, or more than they do. And you know, Zelensky has made a lot of bad calls militarily, or has signed off on a lot of, a lot of bad calls. And, you know, I wonder about that. And one wonders, in the future, if you're to speculate about something bad happening in Ukraine, I don't think it's that Zelensky is going to fall because of corruption. And I don't think it's because Zelensky is going to lose the support of the Europeans. And over the US, Zelensky has some control. He's managed Trump really well over the last couple of months, but the US is going to do what it's going to do on its own terms. But where Zelensky can face real difficulties in his relations with the military, and you do see now certain figures, most importantly Zelensky, who had been the kind of head of the Ukrainian military and was. He was sent to London to be ambassador for a time, and is now, apparently back in in Ukraine, and he has an independent base of political support, and he does constitute something of a threat to Zelensky. I don't think that Zelensky or anyone else is just going to knock the system down during the war for the sake of gaining power, because it's too dangerous. But you know, there's where you see a certain shakiness on the Ukrainian side. And also, people talk about a bad deal for Ukraine, resulting in mutiny and resistance from the Ukrainian army. In other words, Zelensky goes to Washington, signs some kind of deal, giving the Donbas, all of the Donbas to Russia, and the Ukrainian military says, No way, and we're going to do what we're going to do, and that could become a real political crisis. I don't think we're there yet, but those, to me, seem the ways in which Ukraine is shaky, and even the personal charisma of a Volodymyr Zelensky probably can't paper over those tensions if they would get, you know, greater than they are, than they are now, you know, Putin is it's a very frustrating thing to analyze. I find one can't let one's emotions or sort of moral principles get too much in the way. It's important to see a system in its own light. Putin is quite secure in his power at the moment. He commands a very, very vertical and repressive state, but one that has traction and almost complete control over Russian politics, and it's hard to imagine the war dislodging that, you know, I think the shakiness that's there with Putin is connected to the realization that will come, I think, one day in Russia, that the war was a mistake. And you know, when that comes and when that instantiates itself. It may be that not just Putin loses his position, or that realization may come after Putin leaves the scene, but it could well be that Putinism itself unravels in Russia because it's based on something that is not in the national interest of the country, and it's based on something that's coded in deceptions and lies and and manipulations. And you know, if you could put the point in a general way, it's as if Putin has bet. Putin ism on the war. And I think over time it's going to be a losing bet. But over time could, unfortunately, mean 1015, 20 years, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "3fbc8469-70c5-4861-b93a-7c2b67e35b16"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, so as I understand your your analysis, Michael, you see, despite these negotiations now, you see the war really continuing as an as a conflict, as a battle of attrition between the two sides."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67a832e4-6958-4783-9e5b-0140f721200b"
+    },
+    {
+      "start_time": 1352,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Definitely. No, there's the devilish symmetry of this war, which I've mentioned already, this sort of dilemma that the closer Ukraine draws to the security structures of the West, the more Russia has incentives for continuing or perhaps for intensifying the war, I don't see a solution to that problem in the short to medium term. You could even be more pessimistic than that and say that there is no solution to that problem, that there's something zero sum about Ukraine's aspirations to independent statehood and participation in the European story and Russia's understanding of what Ukraine is and what Ukraine should be, or Putin's understanding at the very at the very least. And so that doesn't exclude the possibility of an operational pause, of a cessation of hostilities. It doesn't exclude the possibility that documents could be signed and what appears like conventional negotiation could take place. And here, you know, I'm sure our listeners are versed in these topics, but you do have the Budapest Memorandum of 1994 which was a document signed after Ukraine had given up its nuclear weapons in the post Soviet period, and a security guarantee was given to Ukraine by the US, by European countries, by by Russia. That proved to be, of course, meaningless. And more recently, you have minced diplomacy from 2014 to 2015 which was a very decorous series of meetings and agreements. And, you know, it really seemed like something was resolved, but it truly wasn't, in a way, the seeds of the 2022 war are planted in the very inadequate diplomacy of 2014 2015 so it's not to say that there isn't a role for diplomacy in all this. I think that there is a bit of crisis management, escalation management, conflict management. It's not wrong for Washington and Moscow to talk at any point, but that diplomacy can really wedge itself into the war at the present moment and solve the war's fundamental problems. I simply see zero evidence of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "917f9acc-6030-49d1-bb06-949df152e106"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the other sort of line in the in the sort of triangular relationship on the Ukrainian side of the war, that between the United States and Europe, if anything, the sort of negotiations between the US and Russia at this moment seem to seem to hurt the US-European alliance the most is that you think an accurate reading and and what, might, what might these negotiations do to that sort of tenuous alliance between the United States and Europe in support of Ukraine?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "fda01d0d-40a4-4ee8-bf6f-15653f751bca"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree with that interpretation. And if Putin has any real objective here, it's not ending the war. You know, there are clearly 100 steps Putin could take to end the war that he's not taking, such as withdrawing troops and and scaling back the hostilities, etc. But that's, you know, not his bid and not his not his game. It's clear that he's going to create interest in Trump's Washington in an end to the war, and then string Washington along for as long as he can without changing the basics of the of the of the war. So you could ask the question, you know, going back to your first question, Zachary About What Motivates Putin, like, why do it in the first place? If you're not interested in ending the war, you know, why pursue this charade of diplomacy? And I think he does it in part, because it exhausts Ukraine. You know, it takes time and attention of Ukrainian policymakers, Zelensky, rushing from place to place, and just focusing on this. And that has its uses in wartime. But more than anything, what Putin is trying to do successfully, I would say, for him, is to shine a light on the space between the United States and Europe. And so for Europe, an unprincipled end to the war is certainly undesirable and it may really be impossible. In other words, it may not be possible for the EU, plus Germany, you know, France, UK, many other countries in Europe to sign on formally to the transfer of territory from Ukraine to Russia. That just for Europe, sets a precedent that is so dangerous that it runs counter to the core interests of the key European actors, even though there is domestic disagreement in Europe and each country has a different threat assessment. But rearranging Europe in that way is not going to work for Europe, and so that's why you see heightened defense spending, high levels of support for Ukraine, and the backing of Macron merits, Starmer and others for Zelensky as he goes into these negotiations, that Europe is serving as a backstop for Zelensky, and that's because of very clear European interest. Now the US, in my view, should adhere to those interests and support them. They seem to me like American interests, but the White House has a different read, of course, and the White House wants to for the reasons we were already talking about, wrap up the war, you know, park it, put it somewhere where it's no longer visible, sweep it under the carpet, move on to other things. Call it a great diplomatic success for the for the US, and that's a totally different approach from the mainstream European approach. So it's not a cosmetic transatlantic difference, it's a profound transatlantic difference. And so the more Putin can shed a light on that, put a spotlight on that, the weaker the transatlantic relationship seems, and the weaker the transatlantic relationship is. If there's no longer a shared threat assessment on an issue as significant as the war in Ukraine, is there really a transatlantic alliance in the full sense of the word. And I would just put a question mark there, and Putin really wants that question mark to be in bold face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "d21f6094-1053-4a52-92de-6c96b53b35a9"
+    },
+    {
+      "start_time": 1687,
+      "end_time": 1718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, so Michael, what, what should the United States do? I mean, in a in a certain way, the peace offering by the Trump administration is a self serving act. It doesn't match with the realities on the ground. As you pointed out, on the other hand, as you say, there's a possibility of at least a short term cessation to hostilities, which which might actually be good for everyone. What should the administration do that it's not doing right now?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5288e270-816f-4a07-942d-d43072beafae"
+    },
+    {
+      "start_time": 1718,
+      "end_time": 1894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A couple of things that it's not doing. And I think you want to start just with a, you know, believable, accurate understanding of the war itself. And some of this is is so basic that it's almost embarrassing to repeat, but I'm not sure it's been internalized by by President Trump and some of the people who work for him, but that the war is Russia's fault. That the war begins with an outright Russian invasion of Ukraine in February 2022, and of course, earlier, that the war was unprovoked, that the war reflects a will to control Ukraine on Russia's part. These don't seem to me like complicated arguments. They're almost statements of fact, but they do have to be internalized. So that would be the first point. The second point is that hastily planned, sloppy diplomacy is probably worse than no no diplomacy at all. So if you are to pursue, you know, and I think it's fine to inquire with diplomacy to just see where you stand and, you know, figure it out. But if you do that, you can do that privately. You don't necessarily have to do it in public. And this constant building up of expectations, you know, Secretary Rubio saying we made a huge amount of progress in Miami about a week ago, and there's no visible progress. President Trump going into. Alaska, implying that the, you know, the war is going to come to an end, they're kind of there. They've, they've, they've had a breakthrough, and there was no breakthrough. So that, I think, really weakens the US position, these kind of promises and claims that are so at odds with the with the reality. So you can do less in public, you can lower expectations, and at the same time, I think you can still explore and talk. You know, I think a third sort of and final point to make is that the US needs to have a very careful understanding of what its real leverage is in the situation. And this is no longer the 1990s when you can send Richard Holbrook somewhere to quote, unquote, end the war. To end a war, the title of Richard Holbrooks book about the Balkans in the 1990s that's not the role the US is going to play here. The US is one piece of a very big puzzle, which does include China and non European countries. US can facilitate. It can put forward ideas. It can convene. It can do things, but it has to understand its leverage, and its leverage has a lot of limits, which I think are not well understood in the White House, and most baffling of all the US is diminishing its leverage at the same time that it's trying to be the number one country solving the problem. So it's lowering its support to Ukraine, which diminishes us leverage. It's fouling up the transatlantic relationship, which is diminishing us leverage, and constantly suggesting that it would be in the interest of the United States to withdraw from Europe in general, which also diminishes us leverage in Europe, objectively. So there seems to be a very hazy understanding of what us leverage is, and that too makes the diplomacy just almost destined to fail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "553e62a0-d667-4c1b-8525-7363af9f3249"
+    },
+    {
+      "start_time": 1894,
+      "end_time": 1905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michael is the missing piece though, really the security guarantee for Ukraine. And should the United States consider giving that or be being part of a security guarantee for Ukraine?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac75353a-4caf-463c-824b-4e06a10f2210"
+    },
+    {
+      "start_time": 1905,
+      "end_time": 2052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanna avoid, uh, not trying to be rude here. I wanna avoid a think tank answer to that, uh, question. Cause I do think it's easy to sit in a think tank in Austin, Texas, or Washington DC or, uh, or New Haven, Connecticut. Uh, it's easy to sit in, think tank mode and say yes, we can resolve the problem of the war, uh, with a security guarantee to, to Ukraine. I do think that that's true, and I think it matters, but I also think that there's a real problem of domestic politics, uh, in Germany, uh, in France, in the UK, and in the United States, and I don't know how we overcome that problem in the short to medium term. In other words, sending troops to Ukraine is not a non-starter for strategic reasons, but it's a non-starter for domestic political reasons in all the countries, that I mentioned. Even large groups of technical experts and assistance to operate, you know, western weaponry in Ukraine, would I think be tricky. And then there are thresholds when it comes to financial support to Ukraine. All of these countries are puzzling through. You know, Trump does win the 2024 election on a campaign that includes lowering support to Ukraine. And I wouldn't wanna factor that out of the equation. So the question is, what's the credible commitment to Ukraine that can be managed, uh, that suits the contours of domestic political, domestic politics in the US and in the key European. Uh, actors and there, I think we arrive more at a strategy of containment than in a strategy based on NATO like security guarantees. Um, and you know, I think that if it's the next best thing, then it's worth focusing, uh, on that. Uh, and containment means close levels of cooperation, you know, the kind of intelligence sharing and targeting that the US does. Uh, with Ukraine, defense, industrial production. Maybe that's the real elixir, uh, in this, in this mix that if Europe and the US and Ukraine can get together and really succeed at defense industrial production, which actually they're not doing, uh, at the present moment. But, uh, if they could do that, then maybe that becomes the TA at security, guarantee for Ukraine, but a kind of formal NATO like commitment. I think it solves the problem, but I also don't think it's, it's realistic unless our domestic politic politics changes, uh, so much. So it's not a particularly satisfying answer to your question, but to me it's the most honest one I can, I can muster."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "ae3f4562-c85f-4977-9c49-a9c85091935f"
+    },
+    {
+      "start_time": 2052,
+      "end_time": 2055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That makes sense."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ca8ea53a-4cce-4236-9abe-07622ae09a0a"
+    },
+    {
+      "start_time": 2055,
+      "end_time": 2088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you so much, Michael. I think you've provided us with a very sombering, but important portrait of where things stand in Ukraine today. And, you know, we began this episode. Listing, many of the sort of recent developments in the war that seem to really be shifting the landscape, and I think you've maybe offered a compelling case for why they don't necessarily mark a major transformation. Right. In the, and really an entrenchment of the same dynamics that we've been dealing with for the last. Three and a half years."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92a85f76-4435-47c2-9787-4b6cdbe91b33"
+    },
+    {
+      "start_time": 2088,
+      "end_time": 2175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I could Zachary just jump in with one further point, uh, since it sort of popped up at the end of my last, uh, last answer. I am, you know, all in favor of diplomacy. I'm all in favor of grand strategy. I'm all in favor of being able to think in abstract terms about the war in Ukraine. It's, it's necessary. It's important, it's necessary. The academic side is necessary on the, uh, on the policy side, but if there's any. Message in a way to leave listeners with when it comes to what can be done in a practical sense, a non defeatist, non fatalistic sense of supporting Ukraine. It resides very much in defense, industrial production, uh, and the production of drones, uh, in particular. Maybe the war will take on a new phase a year from now, or six months from now, and it'll be a different technology. But I was shocked to hear a briefing from Michael Kaufman noted, you know, military expert on the war. That Ukraine had an edge in drone warfare for the beginning of 2025, and that was helping Ukraine on the battlefield. For the last five, six months, Russia has had an edge in drone production and drone use on the, on the battlefield, and that's why Russia's making incremental gains. Now, how can that be when Russia's economy is one 10th the size of Europe's economy? And if you put the US into the mix, it's just such a small, uh, entity economically there, I think you can balance the equation. In ways that will really work in Ukraine's favor, uh, over time. So for, for all the abstractions that we just talked about in the last 40, minutes or so, the particulars of defense industrial production should demand a lot of our attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
+      "uuid": "45a2ac6f-fbeb-4246-8a4e-637c51f5ec58"
+    },
+    {
+      "start_time": 2175,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, and just because you brought it up now, Michael, I can't resist asking, how did Russia shift that, uh, balance of, in, in what we might call the drone gap now, how, how did, how did that occur? Was it simply the, the withdrawal of American support for Ukraine, or what made that shift possible?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        }
+      ],
+      "uuid": "7d639ddd-602f-43cb-966e-a79d8189e581"
+    },
+    {
+      "start_time": 2192,
+      "end_time": 2258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't really know. It's a question to ask a person who would be really inside of that question. All I can say, just as a general answer to, to your question, Jeremi, is that. The Russian economy is on a sort of mobilized wartime footing. The economy is the society is not, but the economy is with huge levels of defense spending at purchasing power parity, which of course we can say Russia has the eco, an economy the size of Italy's. But within the Russian economy, high levels of defense spending can, can bring about big results, and they're running factories 24 hours a day. And it's an authoritarian government, so they can force people to work there and sort of push production, uh, lines and levels at a, at a very, very high clip. And so in that sense, what we wanna be aware of, um, is the level of urgency on our side. It's way too low, uh, in the US. That feels clear to me. Uh, but I think it may even be too low in, in Europe, the level of urgency, uh, when it comes to this war, its potential consequences, uh, and the need to act quickly, uh, and resolutely so. You know, there, when you think of what Russia has done over the last four years, uh, to stick with the war and to gain certain kinds of advantage, that should be pretty sobering for us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "eec84996-0e12-4e65-85e3-aaf1a1a9fe68"
+    },
+    {
+      "start_time": 2258,
+      "end_time": 2259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c4f9fec-8a78-4d3e-ba89-b533b4ad2f6a"
+    },
+    {
+      "start_time": 2259,
+      "end_time": 2275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wonderful. Well, thank you so much, Michael, for this comprehensive portrait, uh, of where we are in this moment. Um, thank you Jeremi for your insights as well. Um, and thank you most of all to our listeners for joining us for this latest episode of This Is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "412732f3-8a54-4f43-b8b8-7fd38e81b6bd"
+    },
+    {
+      "start_time": 2275,
+      "end_time": 2306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and YouTube. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "78fbef0c-31a8-430a-8041-e3d76396faf7"
+    }
+  ],
+  "set": "Default",
+  "event_id": "0854e640-29b6-45ae-bbbc-a8774fccae5f",
+  "source_id": "3775d7cc-78f4-475b-b1bb-6861eae1c5c9"
+}
