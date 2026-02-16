@@ -1397,19 +1397,23 @@
       "uuid": "c0bdf19f-1896-4031-abac-ef11a73cef02"
     },
     {
-      "start_time": 1786,
+      "start_time": 1785,
       "end_time": 1806,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah, I think so. I, I think, um. You know, what you’re really talking about is, you know, tearing down the silos a little bit and, you know, letting, letting people who maybe wouldn’t interact before interact and, and listen to each other.\n\nAnd I think, you know, that’s the purpose of the podcast. That’s the purpose of, of so much of what we do. And I think, um, for a lot of people, it’s become the only option now."
+              "text": "Yeah, I think so. I, I think, um. You know, what you’re really talking about is, you know, tearing down the silos a little bit and, you know, letting, letting people who maybe wouldn’t interact before interact and, and listen to each other. And I think, you know, that’s the purpose of the podcast. That’s the purpose of, of so much of what we do. And I think, um, for a lot of people, it’s become the only option now."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
