@@ -463,19 +463,24 @@
       "uuid": "e0618701-821f-4d38-98b1-6bbdee218e26"
     },
     {
-      "start_time": 658,
+      "start_time": 657,
       "end_time": 659,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Right. Or was at risk of become."
+              "text": "Right. Or was at risk of become."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "fae7cbc0-959d-4cca-9bf5-311c018464d8"
     },
     {
