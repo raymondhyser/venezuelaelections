@@ -758,14 +758,14 @@
       "uuid": "294a6f54-47c0-4a19-bc35-d1e99c59df2f"
     },
     {
-      "start_time": 918,
+      "start_time": 917,
       "end_time": 941,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: Uh, it’s, it’s, it’s easy to support a cause.\n\nThat kills a lot of people when you don’t think about the people you’re killing. Right? But what these former hostages have done is they’ve brought out, it doesn’t matter what your political position is on Israeli politics or on Middle East politics, they remind you of the individuals and the suffering that cannot be justified.\n\nRight."
+              "text": "Uh, it’s, it’s, it’s easy to support a cause. That kills a lot of people when you don’t think about the people you’re killing. Right? But what these former hostages have done is they’ve brought out, it doesn’t matter what your political position is on Israeli politics or on Middle East politics, they remind you of the individuals and the suffering that cannot be justified.\n\nRight."
             }
           ]
         }
@@ -778,6 +778,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "d6d8eacd-627d-457a-a484-42bf12610979"
