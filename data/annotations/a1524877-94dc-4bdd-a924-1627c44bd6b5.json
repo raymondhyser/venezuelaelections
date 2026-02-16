@@ -683,30 +683,34 @@
       "uuid": "ce49cc2f-5d6b-4052-abc7-24805f962f73"
     },
     {
-      "start_time": 866,
+      "start_time": 863,
       "end_time": 900,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Right, and Uvalde people who have become committed. Not, not to political or polemical statements, but to real policy change. Yeah. And to sort of not refusing to let their friends, family, children be forgotten. I think that has been really moving to watch.\n\nAnd I, I think that kind of space where ordinary people, um, who’ve suffered immensely, actually speak about their experiences instead of having it filtered through political or ideological. Um. Uh, frameworks, I think is, is, is really powerful in our world. And one of the few things that I think can break through a lot of the, uh, partisan noise that we live with."
+              "text": "Right, and Uvalde people who have become committed. Not, not to political or polemical statements, but to real policy change. Yeah. And to sort of not refusing to let their friends, family, children be forgotten. I think that has been really moving to watch. And I, I think that kind of space where ordinary people, um, who’ve suffered immensely, actually speak about their experiences instead of having it filtered through political or ideological. Um. Uh, frameworks, I think is, is, is really powerful in our world. And one of the few things that I think can break through a lot of the, uh, partisan noise that we live with."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Civic Participation"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
         },
         {
-          "category": "Conflict, Power and International Relations",
-          "tag": "Political Grievances"
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
         }
       ],
       "uuid": "9398a075-8135-46ac-812c-e7588e1bbebb"
