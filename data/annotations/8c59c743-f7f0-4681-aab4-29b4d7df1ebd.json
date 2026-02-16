@@ -1896,19 +1896,23 @@
       "uuid": "de30a096-5223-4659-8a87-187f9d3722e7"
     },
     {
-      "start_time": 2398,
-      "end_time": 2466,
+      "start_time": 2395,
+      "end_time": 2463,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Steven Mintz: I think they need to make the following argument that the challenge today is not to teach the right story about America, which I don’t know what it is. It’s to teach students how to think historically and reason responsibly and learn how to live in a pluralistic democracy. We need great teachers who can do that. We need great curricula that seek to do that. We need forms of pedagogy that actually engage our students. So I think what the public needs to insist upon is not social studies as some kind of ideological endeavor, but rather education as it ought to be. Yes, education as inquiry, education as problem solving. Education is building on evidence and primary sources. That’s the education our students need."
+              "text": "I think they need to make the following argument that the challenge today is not to teach the right story about America, which I don’t know what it is. It’s to teach students how to think historically and reason responsibly and learn how to live in a pluralistic democracy. We need great teachers who can do that. We need great curricula that seek to do that. We need forms of pedagogy that actually engage our students. So I think what the public needs to insist upon is not social studies as some kind of ideological endeavor, but rather education as it ought to be. Yes, education as inquiry, education as problem solving. Education is building on evidence and primary sources. That’s the education our students need."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Steven Mintz"
+        },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
