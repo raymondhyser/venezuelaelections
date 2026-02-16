@@ -420,26 +420,30 @@
       "uuid": "a496528e-baa1-4893-892c-8068e0ee90b8"
     },
     {
-      "start_time": 990,
+      "start_time": 989,
       "end_time": 1043,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: So I, I see the logic of that, but the historian in me, Kurt asks if that’s really possible. I mean, this is a regime that has many different factions as all regimes do, right? we know Rodriguez. Doesn’t command the same authority with some of the institutions, particularly the military that Maduro and, and Hugo Chavez did.\n\nAnd of course, the Chinese and the Russians are not just gonna sit back and watch this, right? They’re trying to bribe and threaten their own, allies and the Chinese have, have a major presence on the ground. I isn’t. The effort to do what you just said from a distance from the United States, as you say, acting as a kind of distant colonial overseer isn’t that likely to lead to factionalization internal fighting in Venezuela and and something that becomes quite disorderly that the United States either has to get involved in directly or ignore."
+              "text": "So I, I see the logic of that, but the historian in me, Kurt asks if that’s really possible. I mean, this is a regime that has many different factions as all regimes do, right? we know Rodriguez. Doesn’t command the same authority with some of the institutions, particularly the military that Maduro and, and Hugo Chavez did.\n\nAnd of course, the Chinese and the Russians are not just gonna sit back and watch this, right? They’re trying to bribe and threaten their own, allies and the Chinese have, have a major presence on the ground. I isn’t. The effort to do what you just said from a distance from the United States, as you say, acting as a kind of distant colonial overseer isn’t that likely to lead to factionalization internal fighting in Venezuela and and something that becomes quite disorderly that the United States either has to get involved in directly or ignore."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Authoritarianism"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
         }
       ],
       "uuid": "c1671191-a022-45fa-8e0f-aaef7960b9d9"
