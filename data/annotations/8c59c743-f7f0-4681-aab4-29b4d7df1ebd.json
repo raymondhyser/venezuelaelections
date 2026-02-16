@@ -1201,12 +1201,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yeah."
+              "text": "Yeah."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8e37b8b5-a3a4-44d1-b5e8-6bdc54721398"
     },
     {
