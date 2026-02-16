@@ -41,12 +41,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Kurt Weyland: Yes. Happy to be with you. Thank you for inviting me."
+              "text": "Yes. Happy to be with you. Thank you for inviting me."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "26b9ea0a-94e4-4489-945e-d5d5f88ab751"
     },
     {
