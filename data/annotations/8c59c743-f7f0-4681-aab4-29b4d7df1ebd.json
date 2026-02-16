@@ -768,12 +768,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yeah, I, couldn’t agree more as, someone who’s in part a political historian. it seems to me that whether we like it or not, presidents matter. Steve,"
+              "text": "Yeah, I, couldn’t agree more as, someone who’s in part a political historian. it seems to me that whether we like it or not, presidents matter. Steve,"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "2d1ae6b3-bcd5-4efc-b8f9-0a84c0c2ccbc"
     },
     {
