@@ -100,12 +100,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Yes."
+              "text": "Yes."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "90114c14-9dce-4a08-8b84-22710cc4fb48"
     },
     {
