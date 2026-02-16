@@ -1173,19 +1173,24 @@
       "uuid": "9ef70150-a5a4-4baa-b4ec-a24c02561bea"
     },
     {
-      "start_time": 1495,
+      "start_time": 1494,
       "end_time": 1496,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: And to engage with those people as human beings."
+              "text": "And to engage with those people as human beings."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "82d2dcdf-bee5-42de-8ad0-bf29970a688a"
     },
     {
