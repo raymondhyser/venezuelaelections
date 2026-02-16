@@ -760,7 +760,7 @@
       "uuid": "1c4f9fec-8a78-4d3e-ba89-b533b4ad2f6a"
     },
     {
-      "start_time": 2259,
+      "start_time": 2256,
       "end_time": 2275,
       "annotation": [
         {
@@ -772,7 +772,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "412732f3-8a54-4f43-b8b8-7fd38e81b6bd"
     },
     {
