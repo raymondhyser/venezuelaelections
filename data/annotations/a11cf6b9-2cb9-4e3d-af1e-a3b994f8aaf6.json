@@ -917,6 +917,27 @@
         }
       ],
       "uuid": "8310c8e9-8fb6-4c94-b8c9-dedd6a6281d0"
+    },
+    {
+      "start_time": 1873,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, my pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kurt Weyland",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "7c5be274-7f2b-43a4-bb0d-6cd37267b6f8"
     }
   ],
   "set": "Default",
