@@ -716,19 +716,24 @@
       "uuid": "9398a075-8135-46ac-812c-e7588e1bbebb"
     },
     {
-      "start_time": 901,
+      "start_time": 900,
       "end_time": 916,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi: You know, I think as you speak, there’s a real insight in that. I mean, I think one of the real elements of, of humanity, what humanizes an inhumane situation, what I think Orwell is referring to, and, but he’s criticizing among socialists and fascists is the depersonalization of things."
+              "text": "You know, I think as you speak, there’s a real insight in that. I mean, I think one of the real elements of, of humanity, what humanizes an inhumane situation, what I think Orwell is referring to, and, but he’s criticizing among socialists and fascists is the depersonalization of things."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "00b56af8-67b4-4f15-8a18-540aa6efc233"
     },
     {
