@@ -525,34 +525,38 @@
       "uuid": "485cd3ff-525f-4410-a255-55f1c9d57d45"
     },
     {
-      "start_time": 747,
+      "start_time": 746,
       "end_time": 807,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary: Yeah, I think that’s, that’s true. I think one of the things that’s been really moving to watch is to see those individuals who survived captivity in Gaza come out and, and, and either speak for peace or for an end to hostilities in the region or.\n\nUh, to or, and or to go out into the world and speak about their experience and speak against that kind of violence. Um, often it has taken the form of very political statements or protests in Israel against the current government or, uh, in less political ways. You know, traveling around the world and just sharing their ordeal with, with audiences.\n\nAnd I think it’s something very powerful to think about someone who’s gone through. Uh, that kind of experience. And then it’s not only willing, but excited to, and committed to talking about it. And I, I think that that kind of human connection Yeah. Someone who’s experienced something horrible and is willing and wants to share it, that kind of human connection is part of what that humanity is."
+              "text": "Yeah, I think that’s, that’s true. I think one of the things that’s been really moving to watch is to see those individuals who survived captivity in Gaza come out and, and, and either speak for peace or for an end to hostilities in the region or. Uh, to or, and or to go out into the world and speak about their experience and speak against that kind of violence. Um, often it has taken the form of very political statements or protests in Israel against the current government or, uh, in less political ways. You know, traveling around the world and just sharing their ordeal with, with audiences. And I think it’s something very powerful to think about someone who’s gone through. Uh, that kind of experience. And then it’s not only willing, but excited to, and committed to talking about it. And I, I think that that kind of human connection Yeah. Someone who’s experienced something horrible and is willing and wants to share it, that kind of human connection is part of what that humanity is."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
         },
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Civic Participation"
-        },
-        {
           "category": "Conflict, Power and International Relations",
           "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
         }
       ],
       "uuid": "e62cc0b8-762a-4c79-b408-f65f1ad33bff"
