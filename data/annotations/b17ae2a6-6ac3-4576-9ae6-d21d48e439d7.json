@@ -432,19 +432,24 @@
       "uuid": "b0360266-ddf4-4946-a442-34e6332deec9"
     },
     {
-      "start_time": 794,
-      "end_time": 802,
+      "start_time": 783,
+      "end_time": 793,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: In a legal sense, I doubt that’s probably going to fly, right? but I think that’s how people, that it’s perceived that way."
+              "text": "In a legal sense, I doubt that’s probably going to fly, right? but I think that’s how people, that it’s perceived that way."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        }
+      ],
       "uuid": "3610755d-267d-4380-af77-5c719b528040"
     },
     {
