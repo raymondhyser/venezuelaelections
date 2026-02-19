@@ -1036,8 +1036,8 @@
       "uuid": "47864ddb-5cdf-484a-8efc-fa1dc2d8d26c"
     },
     {
-      "start_time": 1498,
-      "end_time": 1562,
+      "start_time": 1486,
+      "end_time": 1552,
       "annotation": [
         {
           "type": "paragraph",
@@ -1050,8 +1050,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Voting & Elections"
+          "category": "Speakers",
+          "tag": "David Chang"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
         }
       ],
       "uuid": "c3e56117-90d3-4a5a-a932-408410a7284a"
