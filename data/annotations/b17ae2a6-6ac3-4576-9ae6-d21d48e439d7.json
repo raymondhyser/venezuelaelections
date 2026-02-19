@@ -1136,22 +1136,22 @@
       "uuid": "b11e6644-0e48-4b9e-b2d1-a603ec9aed2c"
     },
     {
-      "start_time": 1649,
-      "end_time": 1728,
+      "start_time": 1637,
+      "end_time": 1717,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Well, I think a lot of young people, and I think people across the board are, sort of reacting in shock to this. I think there are a lot of, I, I mean, I think the public opinion polls, and, Conversations with any young person or any person, period. show the kind of anger or frustration with, this moment?\n\nI think there are varying degrees of, you know, outrage. Like some people I think are outraged, at, you know, the particular killings of Alex Pretty or Renee Good, or they, see. They see, those as the, thing to be out, outraged about. I think there are those who find who are most horrified or most focused on, the impact of the deportations on immigrant communities.\n\nso I think there are a range of political responses. I mean, here in New Haven. There is a big sort of walkout today for in solidarity with Minneapolis. so there, there, are a range of different responses that I think people are engaging in, but I would say, I think it’s, almost universal, universal shock at the shootings of, protesters in particular.\n\nGo."
+              "text": "Well, I think a lot of young people, and I think people across the board are, sort of reacting in shock to this. I think there are a lot of, I, I mean, I think the public opinion polls, and, Conversations with any young person or any person, period. show the kind of anger or frustration with, this moment?\n\nI think there are varying degrees of, you know, outrage. Like some people I think are outraged, at, you know, the particular killings of Alex Pretti or Renee Good, or they, see. They see, those as the, thing to be out, outraged about. I think there are those who find who are most horrified or most focused on, the impact of the deportations on immigrant communities.\n\nso I think there are a range of political responses. I mean, here in New Haven. There is a big sort of walkout today for in solidarity with Minneapolis. so there, there, are a range of different responses that I think people are engaging in, but I would say, I think it’s, almost universal, universal shock at the shootings of, protesters in particular.\n\nGo."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Civic Participation"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
@@ -1160,6 +1160,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
         }
       ],
       "uuid": "57a3591e-2675-450d-901d-f056704b3a19"
