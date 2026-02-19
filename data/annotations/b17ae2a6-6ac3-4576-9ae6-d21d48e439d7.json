@@ -1025,6 +1025,27 @@
       ],
       "tags": [],
       "uuid": "390b5f17-c879-4117-98fb-a6ddc2d8fd4c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today’s important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "1d1364c5-bc6f-4b61-b479-61822423ad3b"
     }
   ],
   "set": "Default",
