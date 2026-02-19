@@ -1094,19 +1094,24 @@
       "uuid": "213ff4d1-9e29-440d-a9d0-c26cca2a4ac7"
     },
     {
-      "start_time": 1597,
-      "end_time": 1597,
+      "start_time": 1585,
+      "end_time": 1586,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Yeah, I think that’s true."
+              "text": "Yeah, I think that’s true."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        }
+      ],
       "uuid": "ed6601b4-9627-4fcc-9c66-a63df52c150c"
     },
     {
