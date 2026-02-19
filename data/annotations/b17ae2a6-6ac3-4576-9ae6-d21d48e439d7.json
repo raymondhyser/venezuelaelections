@@ -453,19 +453,23 @@
       "uuid": "3610755d-267d-4380-af77-5c719b528040"
     },
     {
-      "start_time": 803,
-      "end_time": 824,
+      "start_time": 793,
+      "end_time": 815,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: That makes sense. where do you see the protests, and the sort of clashes between, the HS officials and others going from here? Are they still ongoing? do you think that Trump administration has effectively backed down on this issue? Or, how are people perceiving that on the ground?"
+              "text": "That makes sense. where do you see the protests, and the sort of clashes between, the HS officials and others going from here? Are they still ongoing? do you think that Trump administration has effectively backed down on this issue? Or, how are people perceiving that on the ground?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
