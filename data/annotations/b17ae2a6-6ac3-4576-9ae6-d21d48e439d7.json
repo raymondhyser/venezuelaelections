@@ -586,26 +586,30 @@
       "uuid": "4914aed3-42f6-4198-936b-5cef1528dbbd"
     },
     {
-      "start_time": 925,
-      "end_time": 958,
+      "start_time": 915,
+      "end_time": 948,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Again, I don’t have a crystal ball, right? My specialty is the past, not the. but, but yeah, I do, I think that it’s the ending of the search, which, which probably does that mean that all immigration courts immediately close and go away. All immigration officials all go away.\n\nProbably not, right? But this is not a normal situation. What’s going on here? And the people who have control over stopping it, are not headquartered here in Minneapolis."
+              "text": "Again, I don’t have a crystal ball, right? My specialty is the past, not the. but, but yeah, I do, I think that it’s the ending of the search, which, which probably does that mean that all immigration courts immediately close and go away. All immigration officials all go away.\n\nProbably not, right? But this is not a normal situation. What’s going on here? And the people who have control over stopping it, are not headquartered here in Minneapolis."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Rule of Law"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Grievances"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
         }
       ],
       "uuid": "71b67005-d330-4654-b2f7-1b20c7416794"
