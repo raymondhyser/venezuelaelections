@@ -411,19 +411,24 @@
       "uuid": "0d720e30-c882-4460-8e4b-ca28a942da97"
     },
     {
-      "start_time": 788,
+      "start_time": 780,
       "end_time": 793,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: So, so is it fair, David, to call it an occupation force as a historian? Is that how you would refer to it?"
+              "text": "So, so is it fair, David, to call it an occupation force as a historian? Is that how you would refer to it?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "b0360266-ddf4-4946-a442-34e6332deec9"
     },
     {
