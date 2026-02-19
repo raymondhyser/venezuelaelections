@@ -565,19 +565,24 @@
       "uuid": "681e3ab1-5742-4859-a498-44704f78ff7c"
     },
     {
-      "start_time": 923,
-      "end_time": 924,
+      "start_time": 913,
+      "end_time": 915,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Nothing else."
+              "text": "Nothing else."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "4914aed3-42f6-4198-936b-5cef1528dbbd"
     },
     {
