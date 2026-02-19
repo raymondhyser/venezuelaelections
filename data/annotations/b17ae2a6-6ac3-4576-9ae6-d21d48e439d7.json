@@ -636,19 +636,24 @@
       "uuid": "347be508-aec5-40ec-985c-53656332e6da"
     },
     {
-      "start_time": 961,
-      "end_time": 991,
+      "start_time": 951,
+      "end_time": 981,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Yeah. As a historian, looking at this, moment, Something you’re personally experiencing, but also something that obviously falls within your area of study. How do you think that this, I mean, obviously we’re, not in the business of prediction, but how do you think this moment will be remembered?\n\nIs there a, is it possible that this will have a larger, or outsized impact on, immigration discourse in our country, or, you know, even thinking only a few months in advance on the election this fall."
+              "text": "Yeah. As a historian, looking at this, moment, Something you’re personally experiencing, but also something that obviously falls within your area of study. How do you think that this, I mean, obviously we’re, not in the business of prediction, but how do you think this moment will be remembered?\n\nIs there a, is it possible that this will have a larger, or outsized impact on, immigration discourse in our country, or, you know, even thinking only a few months in advance on the election this fall."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "48597d0e-6400-440d-8a8d-611db920be27"
     },
     {
