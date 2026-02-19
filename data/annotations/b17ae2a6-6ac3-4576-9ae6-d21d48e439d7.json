@@ -657,22 +657,26 @@
       "uuid": "48597d0e-6400-440d-8a8d-611db920be27"
     },
     {
-      "start_time": 992,
-      "end_time": 1023,
+      "start_time": 982,
+      "end_time": 1013,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: I think it will change. Yeah, I think this already is mattering a lot for the upcoming, elections this fall, midterm elections. It has Republicans in the state and I’m sort of nationally quite nervous, because the, it’s, not a good look including among, including among some Republicans and including among many people who, voted Trump but may not be, if you will, lifelong committed Republicans and they really need those.\n\nPeople. So that’s the second half of your question, and I forgot the first half, I’m afraid. Zachary."
+              "text": "I think it will change. Yeah, I think this already is mattering a lot for the upcoming, elections this fall, midterm elections. It has Republicans in the state and I’m sort of nationally quite nervous, because the, it’s, not a good look including among, including among some Republicans and including among many people who, voted Trump but may not be, if you will, lifelong committed Republicans and they really need those.\n\nPeople. So that’s the second half of your question, and I forgot the first half, I’m afraid. Zachary."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Voting & Elections"
+          "category": "Speakers",
+          "tag": "David Chang"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
         }
       ],
       "uuid": "4e688c9d-0df4-4aa9-8090-d7502ebfe211"
