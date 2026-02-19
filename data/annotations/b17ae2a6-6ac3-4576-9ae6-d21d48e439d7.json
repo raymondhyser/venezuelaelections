@@ -241,26 +241,30 @@
       "uuid": "2fa93a8b-ff5e-4b93-baaf-8a346666b56d"
     },
     {
-      "start_time": 612,
-      "end_time": 638,
+      "start_time": 604,
+      "end_time": 632,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: and do you find that there’s solidarity between the students and, the protestors? Are there counter student, opinions? how is it, affecting that community? I, ask in part because. You know, there’s such a history of student movements related to many of the issues we’re concerned with.\n\nHere, you’ve written a lot about this yourself, and so I wonder how you see this moment in that historical context."
+              "text": "And do you find that there’s solidarity between the students and, the protestors? Are there counter student, opinions? how is it, affecting that community? I, ask in part because. You know, there’s such a history of student movements related to many of the issues we’re concerned with.\n\nHere, you’ve written a lot about this yourself, and so I wonder how you see this moment in that historical context."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "eda28fcc-d738-4860-9113-67ab6bb513a9"
