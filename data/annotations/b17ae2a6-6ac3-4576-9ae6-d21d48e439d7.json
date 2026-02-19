@@ -515,19 +515,24 @@
       "uuid": "628208ca-97ae-43b2-8fa3-664fa224f731"
     },
     {
-      "start_time": 889,
-      "end_time": 915,
+      "start_time": 878,
+      "end_time": 906,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: What I was gonna ask David, what would improve the situation? Obviously most, certainly many, if not most residents of Minneapolis would like ice just to leave. And I would certainly feel that way if I were there. but, what short of that. we’ll bring, something back to at least, civic, normality.\n\nWhat, what would actually get us further along toward that end?"
+              "text": "What I was gonna ask David, what would improve the situation? Obviously most, certainly many, if not most residents of Minneapolis would like ice just to leave. And I would certainly feel that way if I were there. but, what short of that. we’ll bring, something back to at least, civic, normality.\n\nWhat, what would actually get us further along toward that end?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "c84486c6-fc80-48ad-93f7-d7c9f3c053a7"
     },
     {
