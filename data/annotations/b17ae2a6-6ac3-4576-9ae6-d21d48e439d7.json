@@ -1190,19 +1190,23 @@
       "uuid": "135f21c8-7dd1-49b7-9565-68d70e66e833"
     },
     {
-      "start_time": 1741,
+      "start_time": 1728,
       "end_time": 1793,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Thank, well, first of all, thank you, but the gratitude is misplaced. I’m not, you know, I’m not in the front lines here, really, honestly. I do think that there is enormous. There’s a lot to take inspiration and hope from here. the, and, I think you’re talking about generation and young people. it’s not just young people, right?\n\nThere are grandparents and and elders and middle-aged people, but also so many idealistic young people who are just saying, well, I have to help out in some way. And for some people that means a patrol. For some people, that means blowing whistles. For some people, that means packing food at a food shelf.\n\nIt means all kinds of things. But looking at that kind of idealism and then hopefully watching it work, that really fills me with, Hope it does."
+              "text": "Thank, well, first of all, thank you, but the gratitude is misplaced. I’m not, you know, I’m not in the front lines here, really, honestly. I do think that there is enormous. There’s a lot to take inspiration and hope from here. the, and, I think you’re talking about generation and young people. it’s not just young people, right?\n\nThere are grandparents and and elders and middle-aged people, but also so many idealistic young people who are just saying, well, I have to help out in some way. And for some people that means a patrol. For some people, that means blowing whistles. For some people, that means packing food at a food shelf.\n\nIt means all kinds of things. But looking at that kind of idealism and then hopefully watching it work, that really fills me with, Hope it does."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
