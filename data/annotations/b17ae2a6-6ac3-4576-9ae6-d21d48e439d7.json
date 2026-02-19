@@ -299,7 +299,7 @@
       "uuid": "6667c957-c0f2-43e9-b0cf-69a2146181cc"
     },
     {
-      "start_time": 664,
+      "start_time": 654,
       "end_time": 684,
       "annotation": [
         {
@@ -311,7 +311,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "f66b9b96-67b8-4588-8fbc-1ebbf0dbdd6c"
     },
     {
