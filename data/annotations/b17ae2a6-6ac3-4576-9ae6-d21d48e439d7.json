@@ -1169,19 +1169,24 @@
       "uuid": "57a3591e-2675-450d-901d-f056704b3a19"
     },
     {
-      "start_time": 1729,
-      "end_time": 1740,
+      "start_time": 1717,
+      "end_time": 1729,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: David, any, last thoughts you wanna share? I know you’ve thought so much about this and we’re so grateful that you’ve taken the time in such stressful conditions to talk to us. any words you wanna close with?"
+              "text": "David, any, last thoughts you wanna share? I know you’ve thought so much about this and we’re so grateful that you’ve taken the time in such stressful conditions to talk to us. any words you wanna close with?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "135f21c8-7dd1-49b7-9565-68d70e66e833"
     },
     {
