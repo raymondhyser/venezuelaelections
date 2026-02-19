@@ -270,26 +270,30 @@
       "uuid": "eda28fcc-d738-4860-9113-67ab6bb513a9"
     },
     {
-      "start_time": 639,
+      "start_time": 632,
       "end_time": 663,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: First of all, I am not in the classroom this semester. so I’m not having that. But I am, you know, communicating a lot with students anyway, I have not heard of counter. Movements, if you will, like, like the deport them all now, kind of a politics I haven’t encountered or heard tell of such a thing on campus, at all.\n\nOkay."
+              "text": "First of all, I am not in the classroom this semester. so I’m not having that. But I am, you know, communicating a lot with students anyway, I have not heard of counter. Movements, if you will, like, like the deport them all now, kind of a politics I haven’t encountered or heard tell of such a thing on campus, at all.\n\nOkay."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "6667c957-c0f2-43e9-b0cf-69a2146181cc"
