@@ -1276,6 +1276,27 @@
         }
       ],
       "uuid": "d3de50de-96eb-4f71-8c0e-9bd2bcb1fe19"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This is Democracy on Apple Podcast, Spotify and YouTube. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "176d8efe-3b73-417b-b699-a7d30732c98b"
     }
   ],
   "set": "Default",
