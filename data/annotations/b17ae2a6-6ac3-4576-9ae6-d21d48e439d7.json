@@ -615,19 +615,24 @@
       "uuid": "71b67005-d330-4654-b2f7-1b20c7416794"
     },
     {
-      "start_time": 959,
+      "start_time": 948,
       "end_time": 960,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Right. Right. That makes sense. Zachary."
+              "text": "Right. Right. That makes sense. Zachary."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "347be508-aec5-40ec-985c-53656332e6da"
     },
     {
