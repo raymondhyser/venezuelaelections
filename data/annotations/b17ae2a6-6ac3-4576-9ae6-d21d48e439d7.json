@@ -828,19 +828,24 @@
       "uuid": "5bffdcaa-fe7c-4bdd-a984-577c2589c4eb"
     },
     {
-      "start_time": 1258,
-      "end_time": 1280,
+      "start_time": 1248,
+      "end_time": 1270,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Right. And, just to, focus in on this, because again, as a fellow historian who’s written about Kent State and also the, silence around Jackson State, a similar shooting on a college campus where African Americans were shot, race seems to matter here, right? The fact that these were white victims makes it more resonant, you would think Yes."
+              "text": "Right. And, just to, focus in on this, because again, as a fellow historian who’s written about Kent State and also the, silence around Jackson State, a similar shooting on a college campus where African Americans were shot, race seems to matter here, right? The fact that these were white victims makes it more resonant, you would think Yes."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "31dbf907-42fe-4f8a-9746-277bb4ff5f9f"
     },
     {
