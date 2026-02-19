@@ -536,26 +536,30 @@
       "uuid": "c84486c6-fc80-48ad-93f7-d7c9f3c053a7"
     },
     {
-      "start_time": 916,
+      "start_time": 906,
       "end_time": 922,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: I honestly think that’s what has to happen, is there needs to be an end to this search. I think that’s what will solve the problem."
+              "text": "I honestly think that’s what has to happen, is there needs to be an end to this search. I think that’s what will solve the problem."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "681e3ab1-5742-4859-a498-44704f78ff7c"
