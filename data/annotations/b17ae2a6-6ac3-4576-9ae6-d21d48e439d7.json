@@ -961,26 +961,30 @@
       "uuid": "f79e8bae-eb00-4f7d-ae55-3ffa05bef8dd"
     },
     {
-      "start_time": 1440,
-      "end_time": 1444,
+      "start_time": 1429,
+      "end_time": 1434,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: We, it’s a delicate time and we really need the judiciary. Yes."
+              "text": "We, it’s a delicate time and we really need the judiciary. Yes."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Rule of Law"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Checks & Balances"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
         }
       ],
       "uuid": "464ae61f-781e-40c2-bd07-2f7863733b50"
