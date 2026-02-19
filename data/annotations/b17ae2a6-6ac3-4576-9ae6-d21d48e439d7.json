@@ -187,19 +187,23 @@
       "uuid": "2370b6fb-6a5d-4056-a2ff-0f223b704388"
     },
     {
-      "start_time": 561,
+      "start_time": 555,
       "end_time": 574,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: So, so David, I wanted you to reflect if you would on your students, how has this affected students and others who are obviously engaged with the issues, but also, you know, trying to, get on with their lives one way or another?"
+              "text": "So, so David, I wanted you to reflect if you would on your students, how has this affected students and others who are obviously engaged with the issues, but also, you know, trying to, get on with their lives one way or another?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Social and Economic Forces",
           "tag": "Universities"
