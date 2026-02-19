@@ -30,19 +30,24 @@
       "uuid": "4a9d7df3-0770-4443-ab10-f69ce603edaf"
     },
     {
-      "start_time": 75,
+      "start_time": 70,
       "end_time": 76,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Thank you for having me."
+              "text": "Thank you for having me."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        }
+      ],
       "uuid": "c5b65995-84ac-4e99-863a-a71ac4a07d42"
     },
     {
