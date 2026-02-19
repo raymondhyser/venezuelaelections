@@ -807,19 +807,24 @@
       "uuid": "c93eddb5-e268-4c69-9ba0-9970f351d436"
     },
     {
-      "start_time": 1254,
-      "end_time": 1257,
+      "start_time": 1244,
+      "end_time": 1247,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: They don’t look like terrorists and they look profoundly domestic, the both of them."
+              "text": "They don’t look like terrorists and they look profoundly domestic, the both of them."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        }
+      ],
       "uuid": "5bffdcaa-fe7c-4bdd-a984-577c2589c4eb"
     },
     {
