@@ -1,26 +1,30 @@
 {
   "annotations": [
     {
-      "start_time": 24,
+      "start_time": 19,
       "end_time": 74,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Welcome to This Is Democracy. I’m Zachary Suri. Today we are joined by a scholar living at the center of perhaps one of the most consequential confrontations of our moment. That is, of course, the weeks long standoff between anti-ice protests in Minneapolis and the various immigration enforcement wings of the Department of Homeland Security standoff.\n\nThat unfortunately, as we all know, has left at least two protestors, Renee Goode and Alex pretty dead. joining us is Professor David Iona Chang. Professor Chang is a historian at the University of Minnesota. He studies indigenous people, colonialism, borders, and migration in Hawaii and North America, focusing especially on the histories of Native American and Native Hawaiian people, as well as the history of social movements in the United States.\n\nProfessor Chang, thank you so much for joining us."
+              "text": "Welcome to This Is Democracy. I’m Zachary Suri. Today we are joined by a scholar living at the center of perhaps one of the most consequential confrontations of our moment. That is, of course, the weeks long standoff between anti-ice protests in Minneapolis and the various immigration enforcement wings of the Department of Homeland Security standoff.\n\nThat unfortunately, as we all know, has left at least two protestors, Renee Goode and Alex pretty dead. joining us is Professor David Iona Chang. Professor Chang is a historian at the University of Minnesota. He studies indigenous people, colonialism, borders, and migration in Hawaii and North America, focusing especially on the histories of Native American and Native Hawaiian people, as well as the history of social movements in the United States.\n\nProfessor Chang, thank you so much for joining us."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Civic Participation"
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
         }
       ],
       "uuid": "4a9d7df3-0770-4443-ab10-f69ce603edaf"
