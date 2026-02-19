@@ -1115,19 +1115,24 @@
       "uuid": "ed6601b4-9627-4fcc-9c66-a63df52c150c"
     },
     {
-      "start_time": 1598,
-      "end_time": 1648,
+      "start_time": 1586,
+      "end_time": 1637,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: So David, we, generally, close with actually a question for Zachary. So I’m gonna, I’m gonna do that and, maybe you can react to that if you have anything to say to, his, answer on this.\n\nThe question we normally close on is, you know, how, are young people reacting to this young, aware, intelligent, people, the future of our democracy? And, Zachary, I mean, you’re, perfect to ask this question of, because you’ve been watching this, but you’re also far away. So, whereas David can give us both, you know, esteemed historical perspective and a personal view of it, you are, you’re watching it from far away as a young person or some background in these issues.\n\nand cares obviously, but, doesn’t have that direct, touch of this. So, so how, do you see this Zachary, and how do you think others like you are seeing what’s happening in Minneapolis?"
+              "text": "So David, we, generally, close with actually a question for Zachary. So I’m gonna, I’m gonna do that and, maybe you can react to that if you have anything to say to, his, answer on this.\n\nThe question we normally close on is, you know, how, are young people reacting to this young, aware, intelligent, people, the future of our democracy? And, Zachary, I mean, you’re, perfect to ask this question of, because you’ve been watching this, but you’re also far away. So, whereas David can give us both, you know, esteemed historical perspective and a personal view of it, you are, you’re watching it from far away as a young person or some background in these issues.\n\nand cares obviously, but, doesn’t have that direct, touch of this. So, so how, do you see this Zachary, and how do you think others like you are seeing what’s happening in Minneapolis?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "b11e6644-0e48-4b9e-b2d1-a603ec9aed2c"
     },
     {
