@@ -478,19 +478,31 @@
       "uuid": "aad42eea-c78d-4693-824e-889097ee5395"
     },
     {
-      "start_time": 825,
-      "end_time": 888,
+      "start_time": 815,
+      "end_time": 878,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: What’s really interesting is, okay, I can’t, again, speak for all on the ground. I’m not really in a position to do that. What I can say is I, we don’t know if they’re starting to back down. It does seem that they started to moderate their discourse, bringing Homan in and moving bovino out. seems like a way to try to signal that.\n\nAt the same time, I. Your guess is as good as mine, what’s going to happen in the next two weeks? Right? because there’s a deliberate opacity here, right? I mean, think about the visuals of the mask, the refusals to explain oneself, the insulin. In the face of the judiciary, all of these are of a piece, right?\n\nIt’s a claiming of absolute authority. So therefore, we don’t know what their intentions are. And I think that’s very much, a part of the, politics of what’s going on here. It’s this, the strong assertion of, unbridled federal power here."
+              "text": "What’s really interesting is, okay, I can’t, again, speak for all on the ground. I’m not really in a position to do that. What I can say is I, we don’t know if they’re starting to back down. It does seem that they started to moderate their discourse, bringing Homan in and moving bovino out. seems like a way to try to signal that.\n\nAt the same time, I. Your guess is as good as mine, what’s going to happen in the next two weeks? Right? because there’s a deliberate opacity here, right? I mean, think about the visuals of the mask, the refusals to explain oneself, the insulin. In the face of the judiciary, all of these are of a piece, right?\n\nIt’s a claiming of absolute authority. So therefore, we don’t know what their intentions are. And I think that’s very much, a part of the, politics of what’s going on here. It’s this, the strong assertion of, unbridled federal power here."
             }
           ]
         }
       ],
       "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
+        },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Rule of Law"
@@ -498,14 +510,6 @@
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Checks & Balances"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Democratic Risks & Threats"
         }
       ],
       "uuid": "628208ca-97ae-43b2-8fa3-664fa224f731"
