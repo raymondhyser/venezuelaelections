@@ -121,19 +121,23 @@
       "uuid": "3bbc4309-86bf-4422-9b3d-8e568a0f7fc3"
     },
     {
-      "start_time": 292,
-      "end_time": 316,
+      "start_time": 287,
+      "end_time": 311,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: that makes sense. Could you explain plain to us, especially from the perspective of a historian, where you think this solidarity movement, as you described it, this movement against ice in Minneapolis, came from, you know, it seems to me as an outside observer, like Minneapolis has been at the center of, some of the most consequential social movements of our time.\n\nWhy is that and why this moment too?"
+              "text": "That makes sense. Could you explain plain to us, especially from the perspective of a historian, where you think this solidarity movement, as you described it, this movement against ICE in Minneapolis, came from, you know, it seems to me as an outside observer, like Minneapolis has been at the center of, some of the most consequential social movements of our time.\n\nWhy is that and why this moment too?"
             }
           ]
         }
       ],
       "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
