@@ -732,19 +732,24 @@
       "uuid": "3e7f3b8f-919f-4903-9723-e1cb121d9929"
     },
     {
-      "start_time": 1119,
-      "end_time": 1149,
+      "start_time": 1108,
+      "end_time": 1140,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Why David, do you think that in particular, in a way that to me, at least as a historian, echoes Kent State, why do you think these shootings of, Robin Goode and Alex Pretty, why do you think they’ve had such power as stories? ’cause there’s clearly been an effort by the administration to tell a different story.\n\nTo make this out to be a story of domestic terrorism. And in the past that’s had some legs and it seems to have fallen flat, nationally this time. Why do you think that is?"
+              "text": "Why David, do you think that in particular, in a way that to me, at least as a historian, echoes Kent State, why do you think these shootings of, Robin Goode and Alex Pretty, why do you think they’ve had such power as stories? ’cause there’s clearly been an effort by the administration to tell a different story.\n\nTo make this out to be a story of domestic terrorism. And in the past that’s had some legs and it seems to have fallen flat, nationally this time. Why do you think that is?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "0b9070c5-34af-471b-8d58-1d0255b5f254"
     },
     {
