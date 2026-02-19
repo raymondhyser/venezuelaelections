@@ -682,19 +682,24 @@
       "uuid": "4e688c9d-0df4-4aa9-8090-d7502ebfe211"
     },
     {
-      "start_time": 1024,
+      "start_time": 1013,
       "end_time": 1029,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: My, the first half of my question is how do you think this moment we will be remembered by historians for its impact on"
+              "text": "My, the first half of my question is how do you think this moment we will be remembered by historians for its impact on"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8abe9eb4-0317-47a8-9277-c6f61b8b2d8a"
     },
     {
