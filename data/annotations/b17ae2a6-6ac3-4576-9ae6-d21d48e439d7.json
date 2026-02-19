@@ -990,19 +990,24 @@
       "uuid": "464ae61f-781e-40c2-bd07-2f7863733b50"
     },
     {
-      "start_time": 1445,
-      "end_time": 1447,
+      "start_time": 1434,
+      "end_time": 1436,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Exactly right."
+              "text": "Yes, exactly right."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "8e23aa16-4ae6-409e-beee-10ae9c43bbaf"
     },
     {
