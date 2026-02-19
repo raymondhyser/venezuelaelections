@@ -1,5 +1,1032 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 24,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Welcome to This Is Democracy. I’m Zachary Suri. Today we are joined by a scholar living at the center of perhaps one of the most consequential confrontations of our moment. That is, of course, the weeks long standoff between anti-ice protests in Minneapolis and the various immigration enforcement wings of the Department of Homeland Security standoff.\n\nThat unfortunately, as we all know, has left at least two protestors, Renee Goode and Alex pretty dead. joining us is Professor David Iona Chang. Professor Chang is a historian at the University of Minnesota. He studies indigenous people, colonialism, borders, and migration in Hawaii and North America, focusing especially on the histories of Native American and Native Hawaiian people, as well as the history of social movements in the United States.\n\nProfessor Chang, thank you so much for joining us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        }
+      ],
+      "uuid": "4a9d7df3-0770-4443-ab10-f69ce603edaf"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Thank you for having me."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5b65995-84ac-4e99-863a-a71ac4a07d42"
+    },
+    {
+      "start_time": 77,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Thank you. We are of course also joined, as always by Professor Jeremi Suri. Jeremi, thank you for joining us today. for the first time in a while. we will start not with a speech or an essay, but with an original poem that I wrote. this is called, Nicolette Avenue, which is the street where Alex Pretty was killed.\n\nAt night when the street is sleeping, it tosses and turns ice cracking sounds of agony, softly rising from the salt. I think the street has nightmares, and I think it remembers the dead, the bullets that bounced off its skin and buried themselves in another. At night when the street is sleeping, it feels the boots that stomped across to the tune of swinging rifles, beating time on its surface like a song.\n\nI think the street is singing in its sleep. A Dge for the Dead and departed for the Cold Press of cold flesh. It remembers too well waking up last Sunday with Bloodstains. Yeah. So Professor Chang, would you be able to tell us just from your experience, you know, what it’s been like to live, in the Twin Cities at this moment?\n\nTo live through, what all of us around the country and around the world are seeing on the news every day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "0ccf5a7e-c7a0-408f-802f-2024a2f991eb"
+    },
+    {
+      "start_time": 162,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Thank you for asking that. It has been, everybody’s experiences in the cities is going to be different, and I'm speaking to you of course, as you know, a person with a lot of privilege. I’m a university professor. I have a lot of. I have a lot of privileges that softened my life, if you will. At the same time, it’s a very, intense period in the Twin Cities.\n\nIt’s been a time though where I would emphasize it’s been both a time of terror and sadness, but also a time of inspiration. And hope, ter and sadness are obvious to anyone around the globe, of course, because they see that federal forces, who are heavily armed and undertrained and very much under, Under supervised, if you will. and there’s very, and under-regulated are terrorizing our neighbors and our communities arresting people, taking them into custody, abducting them, Around the clock, and we’re talking about hundreds and hundreds of people, the numbers that ICE is giving out can’t really be trusted ’cause they’re not really backed up with a lot of numbers.\n\nBut clearly many people are being abducted. Many people have been physically hurt, many people have been traumatized, and their families as well. At the same time, I do think the national and global media has started to pick up on what is one of the most important parts of this story. And that’s the solidarity of the response.\n\nThat’s the, the loving kindness of the community, the bravery and the courage in responding in ways that are very dramatic for the cameras, such as standing between, Ice and someone that they’re trying to abduct and also much quieter driving kids to high school or dropping off groceries or necessary SAN supplies at people’s homes.\n\nso that response has, a. It is, profoundly inspiring. It gives me great hope, not only for this movement, but also for other, for the political work, which is also of course the human work of society and community that we’ll have to do in the coming years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "3bbc4309-86bf-4422-9b3d-8e568a0f7fc3"
+    },
+    {
+      "start_time": 292,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: that makes sense. Could you explain plain to us, especially from the perspective of a historian, where you think this solidarity movement, as you described it, this movement against ice in Minneapolis, came from, you know, it seems to me as an outside observer, like Minneapolis has been at the center of, some of the most consequential social movements of our time.\n\nWhy is that and why this moment too?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "241c384e-ef55-4fd7-b6d6-1b3c399300fc"
+    },
+    {
+      "start_time": 317,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: I think that, I’d like to look to multiple routes. Like most things, they come from multiple. Most things that are strong, come from multiple roots. one of that is the very strong and specific social roots of the of, Minnesota. as well as the Twin Cities itself. There is a strong history.\n\nCivic nationalist, civic national engagement here with the notion that the United States is a nation of people committed to certain ideals. Those ideals are enshrined in certain documents, and those documents ensure certain rights and set up certain processes that must be followed. there is a strong commitment to this idea here, and, despite its limitations, view this kind of liberal nationalism right now, we’re seeing, what it can do in certain moments when institutions, processes, and the idea of EQ of equality under the law.\n\nBecomes threatened. That’s combined with a culture that has both religious and secular roots, that you know, everything from Lutheranism to Trotskyism that has been very strong in, Minnesota, the Northern Plains, and Minneapolis St. Paul for a very long time. And we can see this. In the strong religious, and church-based movements, that helped to create the welcoming environment that sponsored refugees from around the world after the American Secret War in Southeast Asia that welcomed people from East Africa, that west welcomed people from Korea after the Korean War, et cetera.\n\nThis created a population that was, you know, diverse in a very specific way. and, and very globalized in a very specific way that combined with kind of the labor part of the farmer labor of the DFL, the democratic farmer labor, party, which is the form of the Democratic Party that we have here in the state, which has really strong, very labor left, kind of orientations, and that’s been important here.\n\nAnd then, so all of that’s local, right? and that’s been, it’s been nurtured here. And of course the, we’re coming here, you know, five years after the killing and the uprising following the murder of, of George Floyd on Chicago Avenue. And that created an idea. Solidarity. Many different kinds of ideas, many different kinds of soar where people understood themselves as responsible for the community.\n\nOne of these ideas and practices, which is very strong here, is that of mutual aid. that we take care of us, that we stand up for us. and you see that in the everyday courage of people simply going around doing humble, simple things to support. Again, as well as the dramatic things that the cameras capture.\n\nAll of that comes together with a national environment. We’re not the first city doing this, right? So there was Chicago, there was Portland, there was Los Angeles, there’s others, and already in those different places. One can find communities come together in order to support. We learned from Chicago, Chicago learned from other cities, right?\n\nThe proliferation of neighborhood networks, of leaderless movements in order to, create a better, safer community that doesn’t come just from us. So and ho And I do not think it will stop just here either. Unfortunately, this is a national problem and it will continue in other cities, and I think that we can look forward to a historical moment that we can’t entirely anticipate, but it will be different because there is now a genealogy, a continuity of modes of resistance, which are drawing upon historical precedent elsewhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "2370b6fb-6a5d-4056-a2ff-0f223b704388"
+    },
+    {
+      "start_time": 561,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: So, so David, I wanted you to reflect if you would on your students, how has this affected students and others who are obviously engaged with the issues, but also, you know, trying to, get on with their lives one way or another?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "ce5a7b36-6785-44cc-8dee-015283ede8a1"
+    },
+    {
+      "start_time": 575,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: It is challenging for students. we were allowed to teach in a mixed modality if we needed to. because not all students are feeling comfortable coming to campus for many different reasons. and, the, so there’s a lot of anxiety, obviously. international students are feeling a particular anxiety, but that’s been going on for a while now.\n\nSo this is a hard time for students. The undergrads, the grads, everything from, you know, the 19 year olds to the, to, to the postdocs and even say, are having a hard time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "2fa93a8b-ff5e-4b93-baaf-8a346666b56d"
+    },
+    {
+      "start_time": 612,
+      "end_time": 638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: and do you find that there’s solidarity between the students and, the protestors? Are there counter student, opinions? how is it, affecting that community? I, ask in part because. You know, there’s such a history of student movements related to many of the issues we’re concerned with.\n\nHere, you’ve written a lot about this yourself, and so I wonder how you see this moment in that historical context."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "eda28fcc-d738-4860-9113-67ab6bb513a9"
+    },
+    {
+      "start_time": 639,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: First of all, I am not in the classroom this semester. so I’m not having that. But I am, you know, communicating a lot with students anyway, I have not heard of counter. Movements, if you will, like, like the deport them all now, kind of a politics I haven’t encountered or heard tell of such a thing on campus, at all.\n\nOkay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "6667c957-c0f2-43e9-b0cf-69a2146181cc"
+    },
+    {
+      "start_time": 664,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Jeremi Suri: So, so you see a pretty uniform, perspective from, students and, then I, would ask you sort of beyond that, do you see, or is what we’re seeing on television where the, a polarized environment of ICE and the population of Minneapolis is, two separate groups, is that a fair representation of what we’re,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f66b9b96-67b8-4588-8fbc-1ebbf0dbdd6c"
+    },
+    {
+      "start_time": 685,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Sure that there’s more complexity, but that’s what vis that is what’s visible. Of course, I’m sure that there are some people are sympathetic, right to the golds and even perhaps the methods of these federal agents, right? But I have not seen, I have not that’s not apparent in on the streets, it’s not very apparent and opinion columns.\n\nIt’s, you know, it’s more in the comments in social media, if you will. And that’s certainly available nationwide and you don’t know exactly where that’s coming from either. So, but no, it’s, it, is a very strong response. I think that partly this is, and this is something that I wanted to talk about, I thought it’d be interesting also to talk about, it’s partly.\n\nThis is feels from here very much like a unilateral federal imposition on a state and it completely ignoring the elected leaders of that state."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "c0986ed9-2afc-4203-9790-9a7fd643eb89"
+    },
+    {
+      "start_time": 744,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0c6fc70-bf5f-4078-ad97-a13822a8cdca"
+    },
+    {
+      "start_time": 745,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: And so, you know, the mayors of St. Paul in Minneapolis, the governor of Minnesota, our senators, the majority of our delegations have, are, very upset about this force coming from Washington, unbidden in which refuses resolutely to respond to explain transfer documents to, the state government.\n\nso even people who I, do think that this creates a real unhappiness even among people who might be more inclined towards the expulsion of people that they think are here illegally or they suspect they just don’t even want here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "0d720e30-c882-4460-8e4b-ca28a942da97"
+    },
+    {
+      "start_time": 788,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: So, so is it fair, David, to call it an occupation force as a historian? Is that how you would refer to it?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0360266-ddf4-4946-a442-34e6332deec9"
+    },
+    {
+      "start_time": 794,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: In a legal sense, I doubt that’s probably going to fly, right? but I think that’s how people, that it’s perceived that way."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3610755d-267d-4380-af77-5c719b528040"
+    },
+    {
+      "start_time": 803,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: That makes sense. where do you see the protests, and the sort of clashes between, the HS officials and others going from here? Are they still ongoing? do you think that Trump administration has effectively backed down on this issue? Or, how are people perceiving that on the ground?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "aad42eea-c78d-4693-824e-889097ee5395"
+    },
+    {
+      "start_time": 825,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: What’s really interesting is, okay, I can’t, again, speak for all on the ground. I’m not really in a position to do that. What I can say is I, we don’t know if they’re starting to back down. It does seem that they started to moderate their discourse, bringing Homan in and moving bovino out. seems like a way to try to signal that.\n\nAt the same time, I. Your guess is as good as mine, what’s going to happen in the next two weeks? Right? because there’s a deliberate opacity here, right? I mean, think about the visuals of the mask, the refusals to explain oneself, the insulin. In the face of the judiciary, all of these are of a piece, right?\n\nIt’s a claiming of absolute authority. So therefore, we don’t know what their intentions are. And I think that’s very much, a part of the, politics of what’s going on here. It’s this, the strong assertion of, unbridled federal power here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        }
+      ],
+      "uuid": "628208ca-97ae-43b2-8fa3-664fa224f731"
+    },
+    {
+      "start_time": 889,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: What I was gonna ask David, what would improve the situation? Obviously most, certainly many, if not most residents of Minneapolis would like ice just to leave. And I would certainly feel that way if I were there. but, what short of that. we’ll bring, something back to at least, civic, normality.\n\nWhat, what would actually get us further along toward that end?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c84486c6-fc80-48ad-93f7-d7c9f3c053a7"
+    },
+    {
+      "start_time": 916,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: I honestly think that’s what has to happen, is there needs to be an end to this search. I think that’s what will solve the problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        }
+      ],
+      "uuid": "681e3ab1-5742-4859-a498-44704f78ff7c"
+    },
+    {
+      "start_time": 923,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Nothing else."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4914aed3-42f6-4198-936b-5cef1528dbbd"
+    },
+    {
+      "start_time": 925,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Again, I don’t have a crystal ball, right? My specialty is the past, not the. but, but yeah, I do, I think that it’s the ending of the search, which, which probably does that mean that all immigration courts immediately close and go away. All immigration officials all go away.\n\nProbably not, right? But this is not a normal situation. What’s going on here? And the people who have control over stopping it, are not headquartered here in Minneapolis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "71b67005-d330-4654-b2f7-1b20c7416794"
+    },
+    {
+      "start_time": 959,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Right. Right. That makes sense. Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "347be508-aec5-40ec-985c-53656332e6da"
+    },
+    {
+      "start_time": 961,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Yeah. As a historian, looking at this, moment, Something you’re personally experiencing, but also something that obviously falls within your area of study. How do you think that this, I mean, obviously we’re, not in the business of prediction, but how do you think this moment will be remembered?\n\nIs there a, is it possible that this will have a larger, or outsized impact on, immigration discourse in our country, or, you know, even thinking only a few months in advance on the election this fall."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "48597d0e-6400-440d-8a8d-611db920be27"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: I think it will change. Yeah, I think this already is mattering a lot for the upcoming, elections this fall, midterm elections. It has Republicans in the state and I’m sort of nationally quite nervous, because the, it’s, not a good look including among, including among some Republicans and including among many people who, voted Trump but may not be, if you will, lifelong committed Republicans and they really need those.\n\nPeople. So that’s the second half of your question, and I forgot the first half, I’m afraid. Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        }
+      ],
+      "uuid": "4e688c9d-0df4-4aa9-8090-d7502ebfe211"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: My, the first half of my question is how do you think this moment we will be remembered by historians for its impact on"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8abe9eb4-0317-47a8-9277-c6f61b8b2d8a"
+    },
+    {
+      "start_time": 1030,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Well, first of all, somebody very bright, such as yourself needs to write a dissertation on this. it’s gonna be a good one. I truly hope that there are academic and non-academic researchers who are thinking about this very question. this is going to be, well, first of all, I think that if this is done right, it won’t be just.\n\nStreets of Minneapolis, right? studies of movements such as this, were going to need to look back at Roots as I was emphasizing to you a few minutes ago, right? Which are national, which are Chicago, which are important, which are la which are other cities. Place it in the context of other ways of pushing it back against, because this is not it, this.\n\nThe energy that is behind this is about, the ice surge and the abductions, and the brutality of those, but it’s also part of a wider, it, it, draws energy and ideas from other recent movements. from the center, from the left, from the center, left right, against. The current administration, right. So that’s this.\n\nI, think it’s going to be remembered as one of the high points of a broader, response in 20 20, 20 25, 20 26. And I have no idea where we’re going in the future. It, will not be forgotten though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "3e7f3b8f-919f-4903-9723-e1cb121d9929"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Why David, do you think that in particular, in a way that to me, at least as a historian, echoes Kent State, why do you think these shootings of, Robin Goode and Alex Pretty, why do you think they’ve had such power as stories? ’cause there’s clearly been an effort by the administration to tell a different story.\n\nTo make this out to be a story of domestic terrorism. And in the past that’s had some legs and it seems to have fallen flat, nationally this time. Why do you think that is?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0b9070c5-34af-471b-8d58-1d0255b5f254"
+    },
+    {
+      "start_time": 1150,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: I can think of a number of reasons. For one thing, I mean, they came out so quickly with this term, domestic terrorists and paid protests and all that stuff, and that’s just so patently not true, and so demonstrably not true in the case. Of Renee Goodnell is pretty right. okay, now they have video that says that Alex got into a scuffle with some agents and kicked at headlights or something like that.\n\nThat’s not a domestic terrorist, right? That’s not a domestic terrorist. So they got, they, they spoke too strong, too quick, and the data is too strong to, refute their narrative. on top of that, these are appealing young-ish. White people who are idealistic and good. So in other words, the media narrative on them is, cleaner.\n\nRight? So, I mean, it, these are not, racialized people, right? and so therefore they, the story plays in a certain way and I, want to take nothing away from them, right? I’m just saying that in terms of how media works. They, figure in a particular strength. And I think also it’s, it is, they are being seen as in some ways emblematic of the Minnesota movement, what’s going on in Minnesota and Minnesota.\n\nThe upper Midwest, as you know, it occupies a certain kind of. Image in the American political imaginary right of innocence of community and all that sort of a thing. I’m delighted at that, frankly. but at the same time, you can see how that would, answer back in a particular way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        }
+      ],
+      "uuid": "b1901dd0-5e24-4ae5-8735-30b34371a14a"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c93eddb5-e268-4c69-9ba0-9970f351d436"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: They don’t look like terrorists and they look profoundly domestic, the both of them."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5bffdcaa-fe7c-4bdd-a984-577c2589c4eb"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Right. And, just to, focus in on this, because again, as a fellow historian who’s written about Kent State and also the, silence around Jackson State, a similar shooting on a college campus where African Americans were shot, race seems to matter here, right? The fact that these were white victims makes it more resonant, you would think Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "31dbf907-42fe-4f8a-9746-277bb4ff5f9f"
+    },
+    {
+      "start_time": 1281,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Yes. And a lot of people, you know, we’re trying to, people are trying to say, don’t forget, you know, the many, brown people. Who’ve been hurt in this, and black people who’ve been hurt in this, the hundreds and thousands of people who’ve been abducted, and all these other things. But it’s hard to push back.\n\nWe’ve been pushing for a longer historical narrative. I and others have been saying that, remember the Bishop Whipple Building is on Fort Snelling, and Fort Snelling is federal land that was involved in a war on the Dakota and the seizing. Of this region. Right? And so there’s an effort to create that broader historical context and to try to, if you say, this is not all about these white faces, right?\n\nBut it’s also about, black and brown faces and bodies and voices. we’re pushing uphill on that, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Humans Rights"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        }
+      ],
+      "uuid": "1c8fdb7e-883c-425c-8684-6cbdb928a2e0"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yes, I thought your Ken, I did see your, Ken State piece. I thought that the piece that was, it really struck me that, this idea about, about untrained really unprepared, people with, powerful weapons and with, with authority that, that resonates very strongly here."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "264e045f-a45f-4684-a59a-443d07dfb289"
+    },
+    {
+      "start_time": 1352,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Very strongly here. and I’m glad you put that out there. It also made me think about what’s very interesting kind of in the history of American politics here, is the way that the expected roles that, we see from reconstruction through the Civil Rights Movement, between federal and local authority or state authority, in some ways are being reversed.\n\nWe are used to seeing, calls to the federal government in order to protect African Americans after enslavement through the Freedoms Bureau you to control the Ku Klux Klan. We see this in this, in the, Civil Rights Movement, where you see the Voting Rights Act, right, for example, is very much about, we don’t trust local authorities.\n\nThat is state, county, and, and municipal governments to protect the rights of racialized people or to right, protect the rights of the powerless. Therefore, we look to Washington. It’s so much the opposite now, and as an American historian, doesn’t it make your head spin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "4a451029-397d-4082-9517-4ff39c864bf5"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: A absolutely no, as you say, it’s a reverse of the, relationship in the 1960s and early seventies. And it’s sad because, it makes me as a historian, David, think if you don’t have at least some element of the Justice Department and some element of the executive that is concerned with enforcing federal laws at some level, it’s hard to imagine that they’ll be enforced fairly even when you have a competent state government."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f79e8bae-eb00-4f7d-ae55-3ffa05bef8dd"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: We, it’s a delicate time and we really need the judiciary. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Checks & Balances"
+        }
+      ],
+      "uuid": "464ae61f-781e-40c2-bd07-2f7863733b50"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Exactly right."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8e23aa16-4ae6-409e-beee-10ae9c43bbaf"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: I, did wanna ask, What do you make of the sort of, I know we talked a little bit about why the public outcry. after the, two shoot, the two killings. I’m curious what you make of the Trump administrations and the Presidents, sort of backing down on, this front. It seems like there was, you know, there’s been a lot of public outcry about the immigration raids, at least locally.\n\nIn, every city that they have surged in. And I’m curious what you make of the way that the Trump administration has responded or seemingly had to, you know, take back its own responses so quickly. what do you make of that and what do you think that says about the sort of lasting power of this as a political."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        }
+      ],
+      "uuid": "47864ddb-5cdf-484a-8efc-fa1dc2d8d26c"
+    },
+    {
+      "start_time": 1498,
+      "end_time": 1562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: It is striking, isn’t it? because it, because we’re not talking about a, big backing down, but any backing down from this administration, any modulation is striking. Giving that, you know, giving how strident it is and how unapologetic it is. How take no prisoners. It’s kind of the ray cone, never apologize model is very strong here.\n\nI. I am watching it and I am hoping that it signals, a change in direction, but it definitely signals that they feel that they’re afraid to lose support among voters that they need. that’s what I think it’s about, is that they need the kind of Republicans who are like, well, I’m okay with you up to a point, Mr. President, but right, and, I think that’s where we are and they’re trying to hold onto those votes while not appearing, you know, to back down. Right. That’s where I think we are. It’s an interesting moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        }
+      ],
+      "uuid": "c3e56117-90d3-4a5a-a932-408410a7284a"
+    },
+    {
+      "start_time": 1562,
+      "end_time": 1596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: Yeah, I, think just to build on that, David, which you said so Well, I think. What’s happened, because of the excessive gross, excessive use of force in Minneapolis is that the issue of border security, which Trump is still relatively popular on, at least with some people that’s been lost and has become a discussion instead of brutality and federal overstep.\n\nand, there’s got, I would think that Republicans would like it to come back to a discussion of border security, which would mean taking the, the lens off of Minneapolis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        }
+      ],
+      "uuid": "213ff4d1-9e29-440d-a9d0-c26cca2a4ac7"
+    },
+    {
+      "start_time": 1597,
+      "end_time": 1597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Yeah, I think that’s true."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed6601b4-9627-4fcc-9c66-a63df52c150c"
+    },
+    {
+      "start_time": 1598,
+      "end_time": 1648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: So David, we, generally, close with actually a question for Zachary. So I’m gonna, I’m gonna do that and, maybe you can react to that if you have anything to say to, his, answer on this.\n\nThe question we normally close on is, you know, how, are young people reacting to this young, aware, intelligent, people, the future of our democracy? And, Zachary, I mean, you’re, perfect to ask this question of, because you’ve been watching this, but you’re also far away. So, whereas David can give us both, you know, esteemed historical perspective and a personal view of it, you are, you’re watching it from far away as a young person or some background in these issues.\n\nand cares obviously, but, doesn’t have that direct, touch of this. So, so how, do you see this Zachary, and how do you think others like you are seeing what’s happening in Minneapolis?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b11e6644-0e48-4b9e-b2d1-a603ec9aed2c"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Well, I think a lot of young people, and I think people across the board are, sort of reacting in shock to this. I think there are a lot of, I, I mean, I think the public opinion polls, and, Conversations with any young person or any person, period. show the kind of anger or frustration with, this moment?\n\nI think there are varying degrees of, you know, outrage. Like some people I think are outraged, at, you know, the particular killings of Alex Pretty or Renee Good, or they, see. They see, those as the, thing to be out, outraged about. I think there are those who find who are most horrified or most focused on, the impact of the deportations on immigrant communities.\n\nso I think there are a range of political responses. I mean, here in New Haven. There is a big sort of walkout today for in solidarity with Minneapolis. so there, there, are a range of different responses that I think people are engaging in, but I would say, I think it’s, almost universal, universal shock at the shootings of, protesters in particular.\n\nGo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        }
+      ],
+      "uuid": "57a3591e-2675-450d-901d-f056704b3a19"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremi Suri: David, any, last thoughts you wanna share? I know you’ve thought so much about this and we’re so grateful that you’ve taken the time in such stressful conditions to talk to us. any words you wanna close with?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "135f21c8-7dd1-49b7-9565-68d70e66e833"
+    },
+    {
+      "start_time": 1741,
+      "end_time": 1793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Chang: Thank, well, first of all, thank you, but the gratitude is misplaced. I’m not, you know, I’m not in the front lines here, really, honestly. I do think that there is enormous. There’s a lot to take inspiration and hope from here. the, and, I think you’re talking about generation and young people. it’s not just young people, right?\n\nThere are grandparents and and elders and middle-aged people, but also so many idealistic young people who are just saying, well, I have to help out in some way. And for some people that means a patrol. For some people, that means blowing whistles. For some people, that means packing food at a food shelf.\n\nIt means all kinds of things. But looking at that kind of idealism and then hopefully watching it work, that really fills me with, Hope it does."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "144be85a-7099-4e4d-975f-f597d12465ea"
+    },
+    {
+      "start_time": 1794,
+      "end_time": 1820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary Suri: Wonderful. Well, thank you so much for joining us, professor Chang, and thank you Jeremi, and thank you most of all to our wonderful listeners for joining us for this latest episode of This Is Democracy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "390b5f17-c879-4117-98fb-a6ddc2d8fd4c"
+    }
+  ],
   "set": "Default",
   "event_id": "85896bff-7552-4bdf-ae58-e1cebfcf7fb6",
   "source_id": "6e6486d6-6c02-4b68-8447-7ece97d19018"
