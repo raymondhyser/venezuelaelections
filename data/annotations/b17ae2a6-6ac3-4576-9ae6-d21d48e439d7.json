@@ -80,7 +80,7 @@
       "uuid": "0ccf5a7e-c7a0-408f-802f-2024a2f991eb"
     },
     {
-      "start_time": 162,
+      "start_time": 156,
       "end_time": 291,
       "annotation": [
         {
@@ -94,24 +94,28 @@
       ],
       "tags": [
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Human Rights"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
         },
         {
-          "category": "Rights, Membership and Public Participation",
-          "tag": "Civic Participation"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
         },
         {
           "category": "Governance, Law and Political Structures",
           "tag": "Authoritarianism"
         },
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Rule of Law"
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
         }
       ],
       "uuid": "3bbc4309-86bf-4422-9b3d-8e568a0f7fc3"
