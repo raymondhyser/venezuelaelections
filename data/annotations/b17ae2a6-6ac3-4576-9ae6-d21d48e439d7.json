@@ -1197,6 +1197,27 @@
         }
       ],
       "uuid": "1d1364c5-bc6f-4b61-b479-61822423ad3b"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought your Kent, I did see your, Kent State piece. I thought that the piece that was, it really struck me that, this idea about, about untrained really unprepared, people with, powerful weapons and with, with authority that, that resonates very strongly here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "David Chang"
+        }
+      ],
+      "uuid": "d3de50de-96eb-4f71-8c0e-9bd2bcb1fe19"
     }
   ],
   "set": "Default",
