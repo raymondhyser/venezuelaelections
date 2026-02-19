@@ -903,30 +903,34 @@
       "uuid": "264e045f-a45f-4684-a59a-443d07dfb289"
     },
     {
-      "start_time": 1352,
-      "end_time": 1409,
+      "start_time": 1341,
+      "end_time": 1399,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Very strongly here. and I’m glad you put that out there. It also made me think about what’s very interesting kind of in the history of American politics here, is the way that the expected roles that, we see from reconstruction through the Civil Rights Movement, between federal and local authority or state authority, in some ways are being reversed.\n\nWe are used to seeing, calls to the federal government in order to protect African Americans after enslavement through the Freedoms Bureau you to control the Ku Klux Klan. We see this in this, in the, Civil Rights Movement, where you see the Voting Rights Act, right, for example, is very much about, we don’t trust local authorities.\n\nThat is state, county, and, and municipal governments to protect the rights of racialized people or to right, protect the rights of the powerless. Therefore, we look to Washington. It’s so much the opposite now, and as an American historian, doesn’t it make your head spin?"
+              "text": "Very strongly here. and I’m glad you put that out there. It also made me think about what’s very interesting kind of in the history of American politics here, is the way that the expected roles that, we see from reconstruction through the Civil Rights Movement, between federal and local authority or state authority, in some ways are being reversed.\n\nWe are used to seeing, calls to the federal government in order to protect African Americans after enslavement through the Freedoms Bureau you to control the Ku Klux Klan. We see this in this, in the, Civil Rights Movement, where you see the Voting Rights Act, right, for example, is very much about, we don’t trust local authorities.\n\nThat is state, county, and, and municipal governments to protect the rights of racialized people or to right, protect the rights of the powerless. Therefore, we look to Washington. It’s so much the opposite now, and as an American historian, doesn’t it make your head spin?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Rule of Law"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Checks & Balances"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
         },
         {
           "category": "Rights, Membership and Public Participation",
