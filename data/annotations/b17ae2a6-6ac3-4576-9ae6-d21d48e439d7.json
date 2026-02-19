@@ -1061,30 +1061,34 @@
       "uuid": "c3e56117-90d3-4a5a-a932-408410a7284a"
     },
     {
-      "start_time": 1562,
-      "end_time": 1596,
+      "start_time": 1551,
+      "end_time": 1586,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yeah, I, think just to build on that, David, which you said so Well, I think. What’s happened, because of the excessive gross, excessive use of force in Minneapolis is that the issue of border security, which Trump is still relatively popular on, at least with some people that’s been lost and has become a discussion instead of brutality and federal overstep.\n\nand, there’s got, I would think that Republicans would like it to come back to a discussion of border security, which would mean taking the, the lens off of Minneapolis."
+              "text": "Yeah, I, think just to build on that, David, which you said so Well, I think. What’s happened, because of the excessive gross, excessive use of force in Minneapolis is that the issue of border security, which Trump is still relatively popular on, at least with some people that’s been lost and has become a discussion instead of brutality and federal overstep.\n\nand, there’s got, I would think that Republicans would like it to come back to a discussion of border security, which would mean taking the, the lens off of Minneapolis."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Governance, Law and Political Structures",
-          "tag": "Rule of Law"
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Democratic Risks & Threats"
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
         }
       ],
       "uuid": "213ff4d1-9e29-440d-a9d0-c26cca2a4ac7"
