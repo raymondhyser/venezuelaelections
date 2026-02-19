@@ -849,30 +849,34 @@
       "uuid": "31dbf907-42fe-4f8a-9746-277bb4ff5f9f"
     },
     {
-      "start_time": 1281,
-      "end_time": 1329,
+      "start_time": 1271,
+      "end_time": 1320,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: Yes. And a lot of people, you know, we’re trying to, people are trying to say, don’t forget, you know, the many, brown people. Who’ve been hurt in this, and black people who’ve been hurt in this, the hundreds and thousands of people who’ve been abducted, and all these other things. But it’s hard to push back.\n\nWe’ve been pushing for a longer historical narrative. I and others have been saying that, remember the Bishop Whipple Building is on Fort Snelling, and Fort Snelling is federal land that was involved in a war on the Dakota and the seizing. Of this region. Right? And so there’s an effort to create that broader historical context and to try to, if you say, this is not all about these white faces, right?\n\nBut it’s also about, black and brown faces and bodies and voices. we’re pushing uphill on that, right?"
+              "text": "Yes. And a lot of people, you know, we’re trying to, people are trying to say, don’t forget, you know, the many, brown people. Who’ve been hurt in this, and black people who’ve been hurt in this, the hundreds and thousands of people who’ve been abducted, and all these other things. But it’s hard to push back.\n\nWe’ve been pushing for a longer historical narrative. I and others have been saying that, remember the Bishop Whipple Building is on Fort Snelling, and Fort Snelling is federal land that was involved in a war on the Dakota and the seizing. Of this region. Right? And so there’s an effort to create that broader historical context and to try to, if you say, this is not all about these white faces, right?\n\nBut it’s also about, black and brown faces and bodies and voices. we’re pushing uphill on that, right?"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Citizenship & Belonging"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Humans Rights"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
         }
       ],
       "uuid": "1c8fdb7e-883c-425c-8684-6cbdb928a2e0"
