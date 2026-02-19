@@ -882,19 +882,24 @@
       "uuid": "1c8fdb7e-883c-425c-8684-6cbdb928a2e0"
     },
     {
-      "start_time": 1330,
-      "end_time": 1351,
+      "start_time": 1320,
+      "end_time": 1341,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jeremi Suri: Yes, I thought your Ken, I did see your, Ken State piece. I thought that the piece that was, it really struck me that, this idea about, about untrained really unprepared, people with, powerful weapons and with, with authority that, that resonates very strongly here."
+              "text": "Yes, I thought your Kent, I did see your, Kent State piece. I thought that the piece that was, it really struck me that, this idea about, about untrained really unprepared, people with, powerful weapons and with, with authority that, that resonates very strongly here."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "264e045f-a45f-4684-a59a-443d07dfb289"
     },
     {
