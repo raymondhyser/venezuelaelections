@@ -212,26 +212,30 @@
       "uuid": "ce5a7b36-6785-44cc-8dee-015283ede8a1"
     },
     {
-      "start_time": 575,
+      "start_time": 567,
       "end_time": 611,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "David Chang: It is challenging for students. we were allowed to teach in a mixed modality if we needed to. because not all students are feeling comfortable coming to campus for many different reasons. and, the, so there’s a lot of anxiety, obviously. international students are feeling a particular anxiety, but that’s been going on for a while now.\n\nSo this is a hard time for students. The undergrads, the grads, everything from, you know, the 19 year olds to the, to, to the postdocs and even say, are having a hard time."
+              "text": "It is challenging for students. we were allowed to teach in a mixed modality if we needed to. because not all students are feeling comfortable coming to campus for many different reasons. and, the, so there’s a lot of anxiety, obviously. international students are feeling a particular anxiety, but that’s been going on for a while now.\n\nSo this is a hard time for students. The undergrads, the grads, everything from, you know, the 19 year olds to the, to, to the postdocs and even say, are having a hard time."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Social and Economic Forces",
-          "tag": "Universities"
+          "category": "Speakers",
+          "tag": "David Chang"
         },
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
         }
       ],
       "uuid": "2fa93a8b-ff5e-4b93-baaf-8a346666b56d"
