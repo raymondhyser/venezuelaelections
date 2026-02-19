@@ -1215,19 +1215,24 @@
       "uuid": "144be85a-7099-4e4d-975f-f597d12465ea"
     },
     {
-      "start_time": 1794,
+      "start_time": 1784,
       "end_time": 1820,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary Suri: Wonderful. Well, thank you so much for joining us, professor Chang, and thank you Jeremi, and thank you most of all to our wonderful listeners for joining us for this latest episode of This Is Democracy. "
+              "text": "Wonderful. Well, thank you so much for joining us, Professor Chang, and thank you, Jeremi, and thank you most of all to our wonderful listeners for joining us for this latest episode of This Is Democracy. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "390b5f17-c879-4117-98fb-a6ddc2d8fd4c"
     },
     {
